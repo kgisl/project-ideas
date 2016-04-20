@@ -5,6 +5,7 @@ in a specific period of time.
 
 # Special CamperBot
 - Issue already flagged at https://github.com/FreeCodeCamp/camperbot/issues/75
+- Along the lines of a https://statsbot.co/bots/8651 Statsbot for Slack
 
 
 ### MOM (Apr 20 2016)
