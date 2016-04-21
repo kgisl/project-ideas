@@ -2,7 +2,7 @@
 ### Test Drive
 To test drive this code 
  
- - Cut and paste the code below into the EML Hello Page [webpage](http://elm-lang.org/try)
+ - Cut and paste the code below into the **eml** web cosole / [webpage](http://elm-lang.org/try)
 
 
 -- CUT BELOW starting with the "import"s ----
