@@ -16,13 +16,15 @@ import Regex exposing (..)
 main =
   text (
         "Searching \"" ++ input ++ "\" / Result: " ++ 
-        (String.join ", " (findl input crawlOut))
+        -- (String.join ", " (findl input crawlOut))
+        toString (findl input crawlOut)
+
        )
        
        
 input: String
 input = 
-  "transform"
+  "Life"
   
   
 type alias Url       = String 
@@ -43,6 +45,7 @@ crawlOut =
 devowel = replace All (regex "[aeiou]") (\_ -> "")
 depunct = replace All (regex "[^a-zA-Z]") (\_ -> "")
 
+
 find: String -> Content -> Bool
 find pattern wtext = 
   let 
@@ -58,25 +61,26 @@ find pattern wtext =
     else 
       False
 
-findt: String -> Wcontent -> Url
+findt: String -> Wcontent -> Maybe Url
 findt pattern wc = 
   let 
     (url, content) = wc
   in
     if find pattern content
     then
-      url
+      Just url
     else
-      "NA"
-
+      Nothing
       
-findl: String -> List Wcontent -> List Url
+findl: String -> List Wcontent -> List (Maybe Url)
 findl p listres =
   listres
     |> List.map    (\ wc -> findt p wc)
-    |> List.filter (\ s  -> (s /= "NA"))
+    |> List.filter (\ s  -> (s /= Nothing))
       
   -- List.filter (\ s -> (s /= "NA") ) (List.map (\ wc -> findt2 p wc) listres)
+  
+  
   
 
 ```	
