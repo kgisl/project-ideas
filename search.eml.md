@@ -1,3 +1,12 @@
+
+### Test Drive
+To test drive this code 
+ 
+ - Cut and paste the code into the EML Hello Page [webpage](http://eml-lang.org/try)
+
+
+-- CUT BELOW starting with the "import"s ----
+
 ```eml
 
 import Html exposing (text)
