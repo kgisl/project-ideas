@@ -9,3 +9,6 @@ Elm CONSOLE ON THE Web: http://elm-lang.org/try
 
 # INSPIRATION 
 https://www.youtube.com/watch?v=fhMLEOr8C4U - an artist builds a graphical program! 
+
+A Eml-based search engine - first [draft](/search.eml.md)
+
