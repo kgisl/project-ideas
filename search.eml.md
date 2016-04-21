@@ -75,9 +75,9 @@ findt pattern wc =
       Nothing
       
 findl: String -> List Wcontent -> List Url
-findl p listres =
+findl pattern listres =
   listres
-      |> List.filterMap (findt p)
+      |> List.filterMap (findt pattern)
   --  |> List.filter (\ s  -> (s /= Nothing)) 
   --  |> List.map    (\ s  -> Maybe.withDefault "na" s)
       
