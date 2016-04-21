@@ -17,8 +17,7 @@ main =
   text (
         "Searching \"" ++ input ++ "\" / Result: " ++ 
         -- (String.join ", " (findl input crawlOut))
-        toString (findl input crawlOut)
-
+        toString ( findl input crawlOut) 
        )
        
        
@@ -72,11 +71,12 @@ findt pattern wc =
     else
       Nothing
       
-findl: String -> List Wcontent -> List (Maybe Url)
+findl: String -> List Wcontent -> List Url
 findl p listres =
   listres
     |> List.map    (\ wc -> findt p wc)
-    |> List.filter (\ s  -> (s /= Nothing))
+    |> List.filter (\ s  -> (s /= Nothing)) 
+    |> List.map    (\ s  -> Maybe.withDefault "na" s)
       
   -- List.filter (\ s -> (s /= "NA") ) (List.map (\ wc -> findt2 p wc) listres)
   
