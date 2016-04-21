@@ -11,4 +11,4 @@ Elm CONSOLE ON THE Web: http://elm-lang.org/try
 - https://www.youtube.com/watch?v=fhMLEOr8C4U - an artist builds a graphical program! 
 - A Eml-based search engine - first [draft](/search.eml.md)
 - Learn X in Y minutes, where X=Elm https://learnxinyminutes.com/docs/elm/
-- EML community has great developers http://elm-lang.org/community and 
+- EML community has great developers http://elm-lang.org/community
