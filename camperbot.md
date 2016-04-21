@@ -31,4 +31,4 @@ in a specific period of time.
       
         i.	155 | @kgashok | http://www.freecodecamp.com/kgashok
 
-        ii.	245 | @parisudhaandireyaa | http://www.freecodecamp.com/parisudhaandireyaa	
+        ii.	245 | @ddrdushy | http://www.freecodecamp.com/ddrdushy	
