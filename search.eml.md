@@ -12,9 +12,9 @@ To test drive this code
 
 module HelloWorld where
 
-import Color exposing (blue)
+import Color exposing (..)
 import Graphics.Element exposing (..)
-import Text
+import Text as T
 import String
 import Regex exposing (..)
 import Html exposing (text)
@@ -29,24 +29,6 @@ main = Markdown.toElement """
 """
 --}
 
-
-searchOutput: String 
-searchOutput = 
-  "Searching \"" ++ input ++ "\"" ++
-  "\nResult: " ++
-  -- (String.join ", " (findl input crawlOut))
-  (toString ( findl input crawlOut) )
-
-
-main : Element
-main =
-    Text.fromString searchOutput
-        |> Text.color blue
-        |> Text.italic
-        |> Text.bold
-        |> Text.height 60
-        |> leftAligned
-
 {--
 main =
   text (
@@ -57,8 +39,32 @@ main =
        )
 --}
 
-       
-       
+searchStr: T.Text
+searchStr = 
+  "Searching \"" ++ input ++ "\""
+    |> T.fromString
+    |> T.color red
+    |> T.bold
+    |> T.bold
+    |> T.height 40
+
+
+resultStr: T.Text
+resultStr = 
+  "\nResult: " ++ toString (findl input crawlOut) 
+      |> T.fromString
+      |> T.color blue
+      |> T.italic
+      |> T.bold
+      |> T.height 60
+
+
+main : Element
+main =
+    T.append searchStr resultStr
+      |> centered 
+
+
 input: String
 input = 
   "transform"
@@ -117,6 +123,8 @@ findl pattern listres =
   --  |> List.map    (\ s  -> Maybe.withDefault "na" s)
       
   -- List.filter (\ s -> (s /= "NA") ) (List.map (\ wc -> findt2 p wc) listres)
+  
+  
   
   
   
