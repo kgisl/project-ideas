@@ -61,7 +61,11 @@ resultStr =
 
 main : Element
 main =
-    T.append searchStr resultStr
+  -- show (findl input crawlOut)
+  T.concat 
+    [ searchStr
+    , resultStr
+    ]
       |> centered 
 
 
