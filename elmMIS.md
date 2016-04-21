@@ -11,6 +11,7 @@ Elm CONSOLE ON THE Web: http://elm-lang.org/try
 - Four Reasons to learn Elm - http://j.mp/whyLearnElm
 - https://www.youtube.com/watch?v=fhMLEOr8C4U - an artist builds a graphical program! 
 - A Eml-based search engine - first [draft](/search.eml.md)
+-    -- Browser based storage - https://github.com/kgisl/elm-storage
 - Learn X in Y minutes, where X=Elm https://learnxinyminutes.com/docs/elm/
 - EML community has great developers http://elm-lang.org/community
 
