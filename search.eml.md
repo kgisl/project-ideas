@@ -10,11 +10,44 @@ To test drive this code
 
 ```eml
 
-import Html exposing (text)
+module HelloWorld where
+
+import Color exposing (blue)
+import Graphics.Element exposing (..)
+import Text
 import String
 import Regex exposing (..)
-import Text 
+import Html exposing (text)
 
+{--
+
+import Markdown
+main = Markdown.toElement """
+
+# Search Engine 101
+
+"""
+--}
+
+
+searchOutput: String 
+searchOutput = 
+  "Searching \"" ++ input ++ "\"" ++
+  "\nResult: " ++
+  -- (String.join ", " (findl input crawlOut))
+  (toString ( findl input crawlOut) )
+
+
+main : Element
+main =
+    Text.fromString searchOutput
+        |> Text.color blue
+        |> Text.italic
+        |> Text.bold
+        |> Text.height 60
+        |> leftAligned
+
+{--
 main =
   text (
         "Searching \"" ++ input ++ "\" / Result: " ++ 
@@ -22,11 +55,13 @@ main =
         -- Text.fromString (toString ( findl input crawlOut) )
         (toString ( findl input crawlOut) )
        )
+--}
+
        
        
 input: String
 input = 
-  "Life"
+  "transform"
   
   
 type alias Url       = String 
@@ -82,5 +117,7 @@ findl pattern listres =
   --  |> List.map    (\ s  -> Maybe.withDefault "na" s)
       
   -- List.filter (\ s -> (s /= "NA") ) (List.map (\ wc -> findt2 p wc) listres)
+  
+  
   
 ```	
