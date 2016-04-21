@@ -2,7 +2,7 @@
 ### Test Drive
 To test drive this code 
  
- - Cut and paste the code below into the **eml** web cosole / [webpage](http://elm-lang.org/try)
+ - Cut and paste the code below into the EML Hello Page [webpage](http://elm-lang.org/try)
 
 
 -- CUT BELOW starting with the "import"s ----
@@ -12,12 +12,14 @@ To test drive this code
 import Html exposing (text)
 import String
 import Regex exposing (..)
+import Text 
 
 main =
   text (
         "Searching \"" ++ input ++ "\" / Result: " ++ 
         -- (String.join ", " (findl input crawlOut))
-        toString ( findl input crawlOut) 
+        -- Text.fromString (toString ( findl input crawlOut) )
+        (toString ( findl input crawlOut) )
        )
        
        
@@ -74,13 +76,10 @@ findt pattern wc =
 findl: String -> List Wcontent -> List Url
 findl p listres =
   listres
-    |> List.map    (\ wc -> findt p wc)
-    |> List.filter (\ s  -> (s /= Nothing)) 
-    |> List.map    (\ s  -> Maybe.withDefault "na" s)
+      |> List.filterMap (findt p)
+  --  |> List.filter (\ s  -> (s /= Nothing)) 
+  --  |> List.map    (\ s  -> Maybe.withDefault "na" s)
       
   -- List.filter (\ s -> (s /= "NA") ) (List.map (\ wc -> findt2 p wc) listres)
   
-  
-  
-
 ```	
