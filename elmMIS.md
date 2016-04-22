@@ -15,4 +15,5 @@ Elm CONSOLE ON THE Web: http://elm-lang.org/try
 -    - Http extra - http://package.elm-lang.org/packages/lukewestby/elm-http-extra/5.2.0/Http-Extra
 - Learn X in Y minutes, where X=Elm https://learnxinyminutes.com/docs/elm/
 - EML community has great developers http://elm-lang.org/community
-
+- Other Elm Project ideas - https://github.com/elm-community/builtwithelm
+- Time Travel Debugger - http://elm-lang.org/blog/time-travel-made-easy
