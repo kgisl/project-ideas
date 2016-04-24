@@ -3,6 +3,8 @@
 The objective of this project is to demonstrate skills in Elm 
 to develop a front end Single Page Application. 
 
+Adding some Elm to your JS project - http://tech.noredink.com/post/126978281075/walkthrough-introducing-elm-to-a-js-web-app
+
 Elm CONSOLE ON THE Web: http://elm-lang.org/try
 
 Learn to build your first app  http://tech.noredink.com/post/129641182738/building-a-live-validated-signup-form-in-elm 
