@@ -5,6 +5,8 @@ to develop a front end Single Page Application.
 
 Elm CONSOLE ON THE Web: http://elm-lang.org/try
 
+Learn to build your first app  http://tech.noredink.com/post/129641182738/building-a-live-validated-signup-form-in-elm 
+
 
 # INSPIRATION 
 - Elm makes you Happy (slides) - http://j.mp/elmHappy
