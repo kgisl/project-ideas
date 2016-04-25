@@ -31,7 +31,7 @@ view : Signal.Address Action -> Model -> Html
 view address model =
     div
         [ id "signup-form" ]
-        [ h1 [] [ text "EML Search Engine" ]
+        [ h1 [] [ text "Elm Search Engine" ]
         , label [ for "keyword" ] [ text "keyword: " ]
         , input
             [ id "keyword-field"
