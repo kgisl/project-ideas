@@ -3,7 +3,7 @@
 For the front end, this elm program builds on the code available at Feldman's sign-up project (read the full description [here](http://tech.noredink.com/post/129641182738/building-a-live-validated-signup-form-in-elm))  at https://github.com/rtfeldman/elm-signup-form 
 ![modelView](http://i.imgur.com/TUd5P0Q.png) 
 
-```eml
+```elm
 
 -- declares that this is the SignupForm module, which is how
 -- other modules will reference this one if they want to import it and reuse its code.
