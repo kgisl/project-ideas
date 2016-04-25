@@ -8,7 +8,7 @@ To test drive this code
 
 -- CUT BELOW starting with the "import"s ----
 
-```eml
+```elm
 
 module HelloWorld where
 
