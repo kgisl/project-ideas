@@ -3,6 +3,12 @@
 For the front end, this elm program builds on the code available at Feldman's sign-up project (read the full description [here](http://tech.noredink.com/post/129641182738/building-a-live-validated-signup-form-in-elm))  at https://github.com/rtfeldman/elm-signup-form 
 ![modelView](http://i.imgur.com/dNQ1eWj.png) 
 
+### To Do 
+  - add multi-threading 
+  - add http access to both talk to a server (use `form`) Element
+  - Access server with search results and/or crawl the web directly 
+  - add local storage 
+
 ```elm
 
 import Html exposing (..)
@@ -29,6 +35,7 @@ type alias Model =
 
 view : Signal.Address Action -> Model -> Html
 view address model =
+    -- form  is ideal, after incorporating `onOptions`
     div
         [ id "signup-form" ]
         [ h1 [] [ text "Elm Search Engine" ]
