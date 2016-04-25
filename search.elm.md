@@ -128,8 +128,4 @@ findl pattern listres =
       
   -- List.filter (\ s -> (s /= "NA") ) (List.map (\ wc -> findt2 p wc) listres)
   
-  
-  
-  
-  
 ```	
