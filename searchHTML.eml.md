@@ -1,6 +1,6 @@
 ### Model-View version of Search Engine
 
-orrows heavily from Feldman's [sign-up](http://tech.noredink.com/post/129641182738/building-a-live-validated-signup-form-in-elm)  project at https://github.com/rtfeldman/elm-signup-form 
+Borrows heavily from Feldman's [sign-up](http://tech.noredink.com/post/129641182738/building-a-live-validated-signup-form-in-elm)  project at https://github.com/rtfeldman/elm-signup-form 
 ![modelView](http://i.imgur.com/TUd5P0Q.png) 
 B
 ```eml
