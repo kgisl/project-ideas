@@ -11,10 +11,10 @@ Learn to build your first app  http://tech.noredink.com/post/129641182738/buildi
 
 
 # Online Help for learning the language
-http://package.elm-lang.org/packages/elm-lang/core/3.0.0
-https://elmlang.slack.com - watering hole for helpful Elm developers
-https://groups.google.com/forum/#!forum/elm-discuss - Google Groups for Elm
-http://codereview.stackexchange.com/questions/tagged/elm - Code review on SO
+http://package.elm-lang.org/packages/elm-lang/core/3.0.0  
+https://elmlang.slack.com - watering hole for helpful Elm developers  
+https://groups.google.com/forum/#!forum/elm-discuss - Google Groups for Elm  
+http://codereview.stackexchange.com/questions/tagged/elm - Code review on SO  
 
 # INSPIRATION 
 - Elm makes you Happy (slides) - http://j.mp/elmHappy
