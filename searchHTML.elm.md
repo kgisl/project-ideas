@@ -130,6 +130,9 @@ main =
     app.html
     
   
+{-- Search Engine related code 
+	Mainly only stubs now! 
+--}
   
 type alias Url       = String 
 type alias Content   = String
