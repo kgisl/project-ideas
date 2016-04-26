@@ -6,7 +6,8 @@ For the front end, this elm program builds on the code available at Feldman's si
 ### To Do 
   - add multi-threading 
   - add http access to both talk to a server (use `form`) Element
-    -  _My explanation: By using button inside a form, you make it so that when the button is clicked, a GET request is sent to some server. The address of that server you would specify in some attribute, like http://package.elm-lang.org/packages/evancz/elm-html/4.0.2/Html-Attributes#action, but you haven’t specified that attribute. So the request goes to some unknown/empty URI, or actually just to the current server, which at http://elm-lang.org/try results in the 404 you see, as it is not prepared to process your specific form request._
+    -  Yep, forms submit when you click on a submit button - hence why you needed prevent default while it was a `form`; I suspect you probably need to preventDefault http://package.elm-lang.org/packages/evancz/elm-html/4.0.0/Html-Events#onWithOptions
+    - My explanation: By using button inside a form, you make it so that when the button is clicked, a GET request is sent to some server. The address of that server you would specify in some attribute, like http://package.elm-lang.org/packages/evancz/elm-html/4.0.2/Html-Attributes#action, but you haven’t specified that attribute. So the request goes to some unknown/empty URI, or actually just to the current server, which at http://elm-lang.org/try results in the 404 you see, as it is not prepared to process your specific form request._
   - Access server with search results and/or crawl the web directly 
   - add local storage 
   
