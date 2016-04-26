@@ -13,7 +13,7 @@ For the front end, this elm program builds on the code available at Feldman's si
 
 import Html exposing (..)
 import Html.Events exposing (..)
-import Html.Attributes exposing (id, type', for, value, class, placeholder)
+import Html.Attributes exposing (..)
 import StartApp
 import Effects exposing (..)
 
@@ -22,7 +22,9 @@ import String
 
 -- MODEL
 
-type alias Url   = String 
+type alias Url      = String 
+type alias Content  = String
+type alias Wcontent = (Url, Content)
 
 type alias Model = 
   { keyword: String
@@ -30,14 +32,12 @@ type alias Model =
   , errors : {keyword: String, results: List Url}
   }
 
-
 -- VIEW
 
 view : Signal.Address Action -> Model -> Html
 view address model =
     -- form  is ideal, after incorporating `onOptions`
-    div
-        [ id "signup-form" ]
+    div [ id "signup-form"] 
         [ h1 [] [ text "Elm Search Engine" ]
         , label [ for "keyword" ] [ text "keyword: " ]
         , input
@@ -48,11 +48,15 @@ view address model =
             , on "input" targetValue (Signal.message address << SET_KEYWORD)
             ]
             []
+        , div[] [text " ------------"]
+
         , div [ class "validation-error" ] [ text model.errors.keyword ]
-        , button [ id "search-button", onClick address SEARCH ] [ text "Search"]
+        --, button [ id "search-button", onClick address SEARCH ] [ text "Search"]
         , div [ class "search-results" ]
-              [ text ("Results: " ++ (toString model.errors.results)) ]
-  
+              [ text ("Results: " ++ (toString model.results)) ]
+        , div [ class "validation-error" ] [ text (String.join "" model.errors.results) ]
+        , div[ style [("text-align", "center")] ] [text " ------------"]
+        , div[revStyle] [text (toString crawlOut) ]
         ]
 
 -- UPDATE 
@@ -67,19 +71,23 @@ update action model =
       SEARCH -> 
         ( { model | errors = getErrors model }, Effects.none )
       SET_KEYWORD str -> 
-        ( { model | keyword = str}, Effects.none )
+        ( { model | keyword = str
+                  , results = findl model.keyword crawlOut
+                  , errors  = getErrors model
+          }, Effects.none )
 
 getErrors model =
     { keyword = 
         if model.keyword == "" then
             "Please enter a keyword!"
         else
-            ""
+            " "
     , results =
-        if model.keyword /= "" then
+        if model.keyword == "" && model.results == [] then
           -- "Not implemented!"
           -- "Results: " ++ toString (findl model.keyword crawlOut )
-          findl model.keyword crawlOut
+          -- findl model.keyword crawlOut
+          ["No match!"]
         else
           []
     }
@@ -104,24 +112,29 @@ app =
 
 main =
     app.html
-    
-  
-{---------------------------
-Search related code and corresponding model
-----------------------------}
 
-type alias Content   = String
-type alias Wcontent  = (Url, Content)
+revStyle : Attribute
+revStyle =
+  style
+    [ ("width", "100%")
+    , ("height", "10px")
+    , ("padding", "10px 0")
+    , ("font-size", "2em")
+    , ("text-align", "center")
+    , ("color", "gray")
+    ]
 
+
+-- Search related code 
 
 crawlOut: List Wcontent
 crawlOut = 
-  [ 
-    ("url1", "The life is to be lived to be transformed"),
-    ("url2", "Monkeys can type a thousand words but translate?"), 
-    ("url3", "Junk and junk all over"),
-    ("url4", "Transform. Brand You. How will you challenge life?"),
-    ("url5", "Do, trans-form, live")
+  [ ("url1", "The life is to be lived to be transformed")
+  , ("url2", "Monkeys can type a thousand words but translate?")
+  , ("url3", "Junk and junk all over")
+  , ("url4", "Transform. Brand You. How will you challenge life?")
+  , ("url5", "Do, trans-form, live")
+  , ("url6", "zebras and queens")
   ]
 
 devowel = replace All (regex "[aeiou]") (\_ -> "")
@@ -137,7 +150,8 @@ find pattern wtext =
             |> depunct
            
   in
-    if String.contains (String.toLower pattern) wtext then 
+    if pattern /= "" && 
+       String.contains (String.toLower pattern) wtext then 
       True
     else 
       False
@@ -157,6 +171,7 @@ findl: String -> List Wcontent -> List Url
 findl pattern listres =
   listres
       |> List.filterMap (findt pattern)
+
 
  
 ```
