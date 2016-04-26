@@ -8,6 +8,9 @@ For the front end, this elm program builds on the code available at Feldman's si
   - add http access to both talk to a server (use `form`) Element
   - Access server with search results and/or crawl the web directly 
   - add local storage 
+  - add `form` handling 
+	  -  _My explanation: By using button inside a form, you make it so that when the button is clicked, a GET request is sent to some server. The address of that server you would specify in some attribute, like http://package.elm-lang.org/packages/evancz/elm-html/4.0.2/Html-Attributes#action, but you haven’t specified that attribute. So the request goes to some unknown/empty URI, or actually just to the current server, which at http://elm-lang.org/try results in the 404 you see, as it is not prepared to process your specific form request._
+  
 
 ```elm
 
