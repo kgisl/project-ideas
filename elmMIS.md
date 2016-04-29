@@ -9,12 +9,15 @@ Elm CONSOLE ON THE Web: http://elm-lang.org/try
 
 Learn to build your first app  http://tech.noredink.com/post/129641182738/building-a-live-validated-signup-form-in-elm 
 
+### Awesome list for Elm Tutorials and projects 
+https://github.com/isRuslan/awesome-elm
 
 # Online Help for learning the language
 http://package.elm-lang.org/packages/elm-lang/core/3.0.0  
 https://elmlang.slack.com - watering hole for helpful Elm developers  
 https://groups.google.com/forum/#!forum/elm-discuss - Google Groups for Elm  
 http://codereview.stackexchange.com/questions/tagged/elm - Code review on SO  
+
 
 # INSPIRATION 
 - Elm makes you Happy (slides) - http://j.mp/elmHappy
