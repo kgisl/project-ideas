@@ -20,6 +20,7 @@ http://codereview.stackexchange.com/questions/tagged/elm - Code review on SO
 
 
 # INSPIRATION 
+- A Desktop App using Elm and Electron (https://github.com/mdgriffith/elm-electron-todomvc)
 - 10 battles raging for the hearts and minds of developers http://j.mp/battleKG 
   - Which language to learn for the web? - http://qr.ae/8sN75w
 - Elm makes you Happy (slides) - http://j.mp/elmHappy
