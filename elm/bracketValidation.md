@@ -1,3 +1,10 @@
+# Conceptual Apps 
+Many conceptual apps like the one below can be developed. 
+Faculty members can do this 
+  - They immediately get a useful tool to use in the classroom
+  - Their student groups can "compete" to develop the most usable version
+  - Conceptual understanding will improve 
+
 ### Validator 
 
 ![Image](bracketUbuntu.png) ![Image](interactiveBracket.png) 
