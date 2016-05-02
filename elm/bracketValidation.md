@@ -1,4 +1,4 @@
-# Conceptual Apps 
+# Interactive Conceptual Apps 
 Many conceptual apps like the one below can be developed. 
 Faculty members can do this 
   - They immediately get a useful tool to use in the classroom
