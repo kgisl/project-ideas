@@ -5,6 +5,9 @@ Faculty members can do this
   - Their student groups can "compete" to develop the most usable version
   - Conceptual understanding will improve 
 
+These used to be very hard to do, but now they have become more easier, thanks to various JS frameworks and languages (like Elm, Dart, Typescript). Here's another excellent example for "playing with neural networks" - https://github.com/tensorflow/playground
+
+
 ### Validator 
 
 ![Image](bracketUbuntu.png) ![Image](interactiveBracket.png) 
