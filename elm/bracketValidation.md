@@ -1,6 +1,6 @@
 ### Validator 
 
-![Image](bracketUbuntu.png)
+![Image](bracketUbuntu.png) ![Image](elm/interactiveBracket.png) 
 
 ```elm 
 module Validator where
