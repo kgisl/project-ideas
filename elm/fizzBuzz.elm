@@ -1,18 +1,15 @@
-import Html exposing (..) 
 import Graphics.Element exposing (..) 
    
 type alias Filter = 
   { divisor : Int, 
     string : String
   } 
-
 inputPairs = 
   [
     (3, "Fizz"), 
     (5, "Buzz"), 
     (7, "Mix")
   ]
-
 createFilter : (Int, String)  -> Filter 
 createFilter tt =
   let 
@@ -36,8 +33,6 @@ applyFilter number filter =
       Just filter.string
     else 
       Nothing 
-
-
 applyFilters listf number = 
   let 
     olist = List.filterMap (applyFilter number) listf 
@@ -47,8 +42,6 @@ applyFilters listf number =
       toString number
     else 
       res
-
-
 main: Element
 main = 
   let 
@@ -58,15 +51,11 @@ main =
     -- listF   = [f3, f5, f7]
     listF   = buildFilterList inputPairs 
     
-    result  = applyFilter 105 f3
-    result2 = List.filterMap (applyFilter 143) listF
-
-    out     = applyFilters listF 123
-    
-    finalo  = List.map (applyFilters listF) [1..110]
-    
-    finalF  = 
+    -- result  = applyFilter 105 f3
+    -- result2 = List.filterMap (applyFilter 143) listF
+    -- out     = applyFilters listF 123
+    output  = 
       List.map (applyFilters listF) [1..110]
    
   in 
-    finalo |> List.map show |> flow down
+    output |> List.map show |> flow down
