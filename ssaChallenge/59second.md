@@ -4,13 +4,13 @@
 
 Caption 1
 ---------
- - About Me  (FREE flow, as much as you want, but <15 seconds)
- - About your personal **FIT** Porfolio (a quick brief of 20x20 PechaKucha)
+ - About Me  (FREE flow, as much as you want, but  less ~15 seconds)
+ - About your personal **FIT** Porfolio (a quick brief of `20x20` PechaKucha)
 	 - What is your big idea that will make the world a better place? IDEAS
 		 - What is your interestingness quotient?
 	 - How are you becoming a T-skilled professional (breadth and depth areas) ?
 	 - How F.I.T. are you already?  
-	 - transform *OrDie* *Brand* You - **transform You**. How will you challenge yourself in the next 4 years (10,440hours)? 
+	 - transform *OrDie* *Brand* You - **transform You**. How will you challenge Life (aka yourself) in the next 4 years (~10,440hours)? 
 
 Caption 2
 ---------
@@ -25,9 +25,8 @@ Caption 3
 
 Caption 4
 ---------
-
 -  Other titles, optional as deemed fit by the FIT KGISL Learner  
 
 
-## Notes ##
-As a matter of fact, your 59second video should briefly touch upon only three main things. One story from your past, one from the present and one from the future, ideally so. But then depending upon what you have, it can vary around. 
+## Alternative Approach: The story narrative ##
+Your 59second video should briefly touch upon only three main things. One story from your past, one from the present and one from the future, ideally so. But then depending upon what you have, you can vary it around.
