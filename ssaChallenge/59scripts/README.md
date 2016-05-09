@@ -7,7 +7,7 @@
 #### Example of Option 1  - [sample](Ashok59.md) 
 
 ### Option 2 
-Create a link to a script that you've created in one of your public repos in your Github or (Github/Gist)[https://help.github.com/articles/about-gists/) account. Add the link under the "SCRIPTS for Review" section below.
+Create a link to a script that you've created in one of your public repos in your Github or [Github/Gist](https://help.github.com/articles/about-gists/) account. Add the link under the "SCRIPTS for Review" section below.
 
 #### Example of Option 2
 Look below in the section directly 
@@ -15,5 +15,5 @@ Look below in the section directly
 
 ### Scripts for Review 
 
-[Ashok B] (https://gist.github.com/kgashok/bbd46ab23210393275d2b6f6b517212a)
-[Joe Smith](https://gist.github.com/kgashok/bbd46ab23210393275d2b6f6b517212a)
+- [Ashok B] (https://gist.github.com/kgashok/bbd46ab23210393275d2b6f6b517212a)  
+- [Joe Smith](https://gist.github.com/kgashok/bbd46ab23210393275d2b6f6b517212a)  
