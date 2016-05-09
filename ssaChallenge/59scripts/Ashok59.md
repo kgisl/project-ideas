@@ -1,6 +1,6 @@
 
 ### Ashok B 59second Script
-_a bad example of a SCRIPT for 59 second video._
+_a poor example of a SCRIPT for 59 second video._
 
 Impact Entrepreneur, struggle-to-code #TDD evangelist.  
 Paradox collector, green tea and black coffee enthusiast.  
