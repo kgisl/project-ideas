@@ -3,12 +3,14 @@
 
 #59 second Video 
 
-“What stands between you and your dreams is the need for your **conviction**.” *
+>“What stands between you and your dreams is the need for your **conviction**.”
 - _Subrato Bagchi, former Gardener, MindTree, CII Connect Coimbatore 2010_
+
+>![Bagchi](http://www.thehindu.com/multimedia/dynamic/00228/2010030753530601_228008e.jpg)
 
 > 00:39 May 10, 2016 - @aravssa  @ddrdushy The 59second video is more than just a **skill** exercise; if done in the proper spirit, it will help learners to develop **clarity** and **conviction** in what they want to accomplish *outside* the classroom. Once there is clarity, we can step in to provide the necessary help and guidance, and eventually strengthen the learner's conviction.
 
-These are some broad guidelines on how to script and record a 59-second video about yourself. Prepare your script and place it in this [directory](/59scripts). If you need help improving it, request help from @aravssa at the https://gitter.im/kgisl/ssa gitter room.  Please provide your feedback or additional suggestions on the HTML and print-ready version of this document at http://j.mp/59second 
+The following are some broad guidelines on how to script and record a **59-second** video about yourself. Prepare your script and place it in this [directory](/59scripts). If you need help improving it, request help from @aravssa at the https://gitter.im/kgisl/ssa gitter room.  Please provide your feedback or additional suggestions on the HTML and print-ready version of this document at http://j.mp/59second 
 
 ##Caption 1 
  - About Me  (FREE flow, as much as you want, but  less ~15 seconds)
