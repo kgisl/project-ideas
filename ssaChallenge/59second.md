@@ -3,7 +3,7 @@
 
 #59 second Video 
 
-These are some broad guidelines on how to script and record a 59-second video about yourself. Prepare your script and place it in this [directory](/59scripts). If you need help improving it, request help from @aravssa at the https://gitter.im/kgisl/ssa gitter room.  
+These are some broad guidelines on how to script and record a 59-second video about yourself. Prepare your script and place it in this [directory](/59scripts). If you need help improving it, request help from @aravssa at the https://gitter.im/kgisl/ssa gitter room.  Please provide your feedback or additional suggestions on the HTML and print-ready version of this document at http://j.mp/59second 
 
 ##Caption 1 
  - About Me  (FREE flow, as much as you want, but  less ~15 seconds)
