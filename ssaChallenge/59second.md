@@ -3,6 +3,8 @@
 
 #59 second Video 
 
+> 00:39 May 10, 2016 - @aravssa  @ddrdushy The 59second video is more than just a **skill** exercise; if done in the proper spirit, it will help students to develop **clarity** and **conviction** in what they want to accomplish *outside* the classroom. Once there is clarity, we can step in to provide the necessary help and guidance. 
+
 These are some broad guidelines on how to script and record a 59-second video about yourself. Prepare your script and place it in this [directory](/59scripts). If you need help improving it, request help from @aravssa at the https://gitter.im/kgisl/ssa gitter room.  Please provide your feedback or additional suggestions on the HTML and print-ready version of this document at http://j.mp/59second 
 
 ##Caption 1 
