@@ -1,7 +1,4 @@
 
 ### Ashok B 59second Script
 
-This is me the greatest Emperor to have ever ruled the world. 
-Period. 
-
-Thank you for reading. 
+Impact Entrepreneur, struggle-to-code #TDD evangelist, paradox collector, green tea and black coffee enthusiast. And yes, squash!
