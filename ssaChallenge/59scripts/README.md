@@ -1,7 +1,7 @@
 # Scripts for Review 
 
 ## HOW TO ADD
-### Option 1 
+### Option 1  (RECOMMENDED OPTION) 
 "Upload" from the Github page itself into this directory
 
 #### Example of Option 1  - [sample](Ashok59.md) 
