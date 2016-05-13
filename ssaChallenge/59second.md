@@ -35,3 +35,8 @@ The following are some broad guidelines on how to script and record a **59-secon
 
 ## Alternative Approach: The story narrative ##
 Your 59second video should briefly touch upon only three main things. One story from your past, one from the present and one from the future, ideally so. But then depending upon what you have, you can vary it around.
+
+### Related 
+“Authenticity in the Digital Age: Why You Have To Tell Your Story Even If The Ego Doesn’t” @getstoried https://medium.com/@getstoried/authenticity-in-the-digital-age-why-you-have-to-tell-your-story-even-if-the-ego-doesnt-459632c0c656
+  - "Know Yourself, Choose Yourself, Give Yourself."
+  - "To know yourself, think for yourself." - Socrates
