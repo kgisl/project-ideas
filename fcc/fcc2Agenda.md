@@ -1,7 +1,7 @@
 ## AGENDA
 
-- Fix date for this 
-- Get KITE onto FCC
+- Fix date for this  - May 27 finalized
+- Get KITE onto FCC - Postponed for FCC-3
 - Run a Tribute Blog and Portfolio Blog competition - have some high quality judges vote in person or virtually 
 - Request SSA Aravind to comment on language and content on their respective MEDIUM blogs ONLY 
 - Popular voting on the nominations can be allowed by the FCC community 
@@ -9,7 +9,7 @@
 
 ## Parallel Sessions: 
 
-### 1 Agile Engineering for the Web 
+### 1 Agile Engineering for the Web - Read [this](doc/agile-engineering-for-web-slides.pdf)
 "Agile Engineering for the Web" - the same title can be used for the talk. 
 And it can be conceptualized and delivered in two stages - 
 Part 1 and Part 2 (for a future date, along with FCC, or stand-alone as well). 
