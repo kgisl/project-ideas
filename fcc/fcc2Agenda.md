@@ -9,7 +9,9 @@
 
 ## Parallel Sessions: 
 
-### 1 Agile Engineering for the Web - Read [this](doc/agile-engineering-for-web-slides.pdf)
+### 1 Agile Engineering for the Web 
+Browse these slides by James Shore, Javascript expert  [this](doc/agile-engineering-for-web-slides.pdf)
+
 "Agile Engineering for the Web" - the same title can be used for the talk. 
 And it can be conceptualized and delivered in two stages - 
 Part 1 and Part 2 (for a future date, along with FCC, or stand-alone as well). 
