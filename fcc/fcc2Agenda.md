@@ -10,7 +10,7 @@
 ## Parallel Sessions: 
 
 ### 1 Agile Engineering for the Web 
-Browse these slides by James Shore, Javascript expert  [this](doc/agile-engineering-for-web-slides.pdf)
+Browse [these slides](doc/agile-engineering-for-web-slides.pdf) by James Shore, Javascript expert.
 
 "Agile Engineering for the Web" - the same title can be used for the talk. 
 And it can be conceptualized and delivered in two stages - 
