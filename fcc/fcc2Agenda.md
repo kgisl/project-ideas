@@ -3,7 +3,7 @@
 - Fix date for this 
 - Get KITE onto FCC
 - Run a Tribute Blog and Portfolio Blog competition - have some high quality judges vote in person or virtually 
-- SSA can comment on language and content on their respective MEDIUM blogs ONLY 
+- Request SSA Aravind to comment on language and content on their respective MEDIUM blogs ONLY 
 - Popular voting on the nominations can be allowed by the FCC community 
 
 
