@@ -15,7 +15,7 @@ And it can be conceptualized and delivered in two stages -
 Part 1 and Part 2 (for a future date, along with FCC, or stand-alone as well). 
 This event can happen parallel to the FCC-2-Sprint (towards 10,000 challenges). 
 
-@ddrdushy @62ramya : Together, please show the rest of the 
+`@ddrdushy` `@62ramya` : Together, please show the rest of the 
 Community how to setup a "Continuous integration + Continuous deployment" 
 environment which can be used by everybody to build, improve and 
 maintain all their projects in FCC or otherwise.
