@@ -3,6 +3,10 @@
 
 #59 second Video 
 
+
+"Life's battles don't always go to the stronger or faster man. But sooner or later, the man who wins is the man who thinks he can." - Vincent Lombardi
+
+
 >“What stands between you and your dreams is the need for your **conviction**.”
 - _Subrato Bagchi, former Gardener, MindTree, CII Connect Coimbatore 2010_
 
