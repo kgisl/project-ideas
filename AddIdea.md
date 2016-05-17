@@ -6,7 +6,7 @@ Right now, I use a http://j.mp/addidea (a shortener) to get this repo and add a 
 1. By giving a name
 2. Editing some contents
 3. Previewing the comments 
-4. And then committing to the Github repo
+5. And then committing to the Github repo
 
 ### Additional improvisations
 
@@ -14,3 +14,4 @@ Right now, I use a http://j.mp/addidea (a shortener) to get this repo and add a 
 2. Suggest a category in which to add 
 3. Or select another idea which can be further enhanced by the current thought
 4. Ability to upload an image to explain the idea, after all, a picture is worth a 1000 words
+5. Indicate the difficulty level
