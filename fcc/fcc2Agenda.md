@@ -5,7 +5,8 @@
 - Run a Tribute Blog and Portfolio Blog competition - have some high quality judges vote in person or virtually 
 - Request SSA Aravind to comment on language and content on their respective MEDIUM blogs ONLY 
 - Popular voting on the nominations can be allowed by the FCC community 
-
+- How to get ready for Hackathons? 
+  - “You’re Already Ready for Your First Hackathon” @collinferry https://medium.com/@collinferry/youre-already-ready-for-your-first-hackathon-b585aca54b93
 
 ## Parallel Sessions: 
 
