@@ -2,6 +2,9 @@
 
 - Fix date for this  - May 27 finalized
 - Get KITE onto FCC - Postponed for FCC-3
+
+- Review PPT again for new info - http://j.mp/fccKG
+- Don't break the chain (#dbtc) - learn every day to be productive learner
 - Run a Tribute Blog and Portfolio Blog competition - have some high quality judges vote in person or virtually 
 - Request SSA Aravind to comment on language and content on their respective MEDIUM blogs ONLY 
 - Popular voting on the nominations can be allowed by the FCC community 
