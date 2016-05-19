@@ -14,4 +14,4 @@ A worthy project.
 - When do you hope to finish this project? 
 
 ### Getting Started
-Building a Air Quality sensor using Raspberry PI, and we call it AirPi. The following link provided us step by step approach to build the AirPi [link](http://airpi.es/participate.php)
+Building a Air Quality sensor using Raspberry PI, and we call it AirPi. The following link provided us step-by-step approach to build the AirPi [link](http://airpi.es/participate.php).
