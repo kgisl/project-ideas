@@ -7,8 +7,9 @@ And we interface with Twitter to show Coimbatore air quality.
 A worthy project. 
 
 
-###Project Leads 
+### Project Leads 
  - Team_A - Sudharsan R (KITE, 2017) and Advik G (PSG, 2020)
+ - Team_B - Who else wants to do this? 
 
 ### Timelines: 
 - When do you hope to finish this project? 
