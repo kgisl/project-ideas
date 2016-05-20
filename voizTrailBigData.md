@@ -1,4 +1,4 @@
-### All calls answered
+### Goal: "100% response rate!"
 
 On an average we have at least 100+ missed calls at KG Hospital. 
 VoizTrail is a solution developed by KGfSL and can provide data on this.
