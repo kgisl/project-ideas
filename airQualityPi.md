@@ -35,4 +35,5 @@ Building a Air Quality sensor using Raspberry PI, and we call it AirPi. The foll
 |      12       | TGS 2600 - General Air Quality - Requires ADC - [link](http://uk.rs-online.com/web/p/gas-detection/5389960/) |
 |      13       | MICS-2710 - NO2 Concentration - Requires ADC - [link](https://www.cdiweb.com/ProductDetail/MICS2710-SGX-Sensortech-Limited-formerly-e2v/333415/) |
 |      14       | MICS-5525 - CO Concentration - Requires ADC - [link](https://www.cdiweb.com/ProductDetail/MICS5525-SGX-Sensortech-Limited-formerly-e2v/363013/) |
-|      15       |  |
+
+> AirPi [Circuit Design](https://123d.circuits.io/circuits/18876) via online AutoDesk 
