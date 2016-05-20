@@ -13,3 +13,6 @@ _to be provided by VoizTrail team_
 
 Can BigData help come up with a better optimization of workforce allotment? 
 
+
+## For more info
+Contact: vinith@kgisl.com 
