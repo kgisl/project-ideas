@@ -13,6 +13,13 @@
 
 ## Parallel Sessions: 
 
+###0 using Github to manage student projects 
+Elmo-bracket as example 
+
+###0.1 Java OOP masterclass 
+For Vijay and company 
+
+
 ### 1 Agile Engineering for the Web 
 Browse [these slides](doc/agile-engineering-for-web-slides.pdf) by James Shore, Javascript expert.
 
