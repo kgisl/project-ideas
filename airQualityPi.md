@@ -6,6 +6,9 @@ This can be installed using the USD 5.00 Raspberry Pis in many places.
 And we interface with Twitter to show Coimbatore air quality. 
 A worthy project. 
 
+### Online hands-on Learning Material 
+https://www.udemy.com/hands-on-internet-of-things-raspberry-pi/learn/v4/t/lecture/4701948
+
 
 ###Project Leads 
  - Team_A - Sudharsan R (KITE, 2017) and Advik G (PSG, 2020)
