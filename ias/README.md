@@ -10,7 +10,7 @@
 8. Around Me - https://github.com/Hariesh94/around-me
 9. Customer Relationship Management - https://github.com/madhu1995/crm/tree/master
 10. Campus Wall - https://github.com/RiyanaRafi/Campus-Wall
-11. ICoder - IOS App for cloudcoder - https://github.com/dev-vinoth/ICODER
+11. iCoder - IOS App for cloudcoder - https://github.com/dev-vinoth/ICODER
    - Automated testing using Cucumber - https://www.moncefbelyamani.com/ios-automated-testing-with-calabash-cucumber-ruby/  
   
 ### Needs better definition and repo links
