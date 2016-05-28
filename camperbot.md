@@ -33,4 +33,4 @@ in a specific period of time.
 
         ii.	245 | @ddrdushy | http://www.freecodecamp.com/ddrdushy	
         
-#### Standalone Counter for FCC https://github.com/ddrdushy/FCC-Status
+#### Standalone Counter for FCC https://github.com/kgisl/FCC-Status
