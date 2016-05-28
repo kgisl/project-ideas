@@ -20,6 +20,9 @@ http://codereview.stackexchange.com/questions/tagged/elm - Code review on SO
 
 
 # INSPIRATION 
+- Why Reactive Programming Is Not a Fad
+"Reactive Programming yields faster processing times and better use of hardware, which results in cheaper operating costs; many large-scale systems in use today are based on the principles of the Reactive Manifesto.” http://buff.ly/1RyCNMv
+
 - A Desktop App using Elm and Electron (https://github.com/mdgriffith/elm-electron-todomvc)
 - 10 battles raging for the hearts and minds of developers http://j.mp/battleKG 
   - Which language to learn for the web? - http://qr.ae/8sN75w
