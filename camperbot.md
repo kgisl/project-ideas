@@ -38,3 +38,7 @@ in a specific period of time.
 ### Idea for Visualization (using a plot.ly) 
  - https://bmcorser.github.io/assets/html/elm-packages/
  - https://plot.ly/
+
+### Flexible configuration 
+This slack server that self-invites people to a channel (gitter room) is also a likely possibility 
+https://github.com/kgisl/slackin
