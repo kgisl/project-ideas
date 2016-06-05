@@ -9,4 +9,5 @@
 Building your own voice controlled HAL9000 for a ~$100. Build it **[here](http://www.instructables.com/id/RaspberryPI-HAL9000/)**, with the step by step instructions. Using a Raspberry PI computer with some other computer components, and a custom acrylic box to create this iconic computer from Stanley Kubrick's 2001 A Space Odyssey.
 
 > Watch the working demo below.
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=qK6_lAScT14" target="_blank"> <img src="http://img.youtube.com/vi/qK6_lAScT14/0.jpg" alt="IMAGE ALT TEXT HERE" width="500" height="300" border="10" /></a>
