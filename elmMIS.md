@@ -21,6 +21,10 @@ http://codereview.stackexchange.com/questions/tagged/elm - Code review on SO
 
 # INSPIRATION 
 
+The **next** trend: 
+Structured -> Object-oriented -> Functional (Map-reduce, etc) -> Functional Reactive (for the web). 
+
+
 The Elm Language is probably a good idea to learn by students who are US-bound. It is a new language, and capturing the imagination of several developers in that country. Even otherwise, one of the other benefits is that if you learn Elm, you will be a better Front-end Javascript developer.
 
 
