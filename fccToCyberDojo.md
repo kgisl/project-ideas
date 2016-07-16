@@ -1,3 +1,3 @@
-Generate FreeCodeCamp challenge-related files which can be used in the CyberDojo environment. 
+Generate **FreeCodeCamp** challenge-related files which can be used in the CyberDojo environment. 
 
 
