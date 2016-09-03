@@ -10,6 +10,6 @@ In the past decade enterprise software has evolved a lot, raising the need for a
 
 
 ### Cuba based Taxi management software
-Here's an idea: Take KGISL's call taxi software migrate it to CUBA platform                         
+Here's an idea: Take KGISL's call taxi software and migrate it to CUBA platform                         
 
 https://www.cuba-platform.com/case-studies/sherlock - (Sherlock Taxi is a real-world application that uses Cuba)
