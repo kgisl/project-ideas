@@ -26,3 +26,7 @@ Drivers and riders are important to understanding the future of transportation-a
 - Mapping
 - Routing
 - Riders
+- 
+### Implement the equivalent of UberPool using Traveling Salesman Problem 
+
+First, as Gurley’s title suggests, getting the algorithms behind UberPool right is an incredibly complex problem. It’s basically the [traveling salesman problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem) on steroids, and the only real way to solve it is to slowly but surely work out heuristics that work in real world situations. Combine that reality with the fact that Uber has a dominant share of drivers and riders, giving the company sufficient liquidity to offer UberPool in multiple markets, and the result is that Uber is undoubtedly far ahead of competitors — present and potential — in solving these problems.
