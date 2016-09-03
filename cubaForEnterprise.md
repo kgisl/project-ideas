@@ -13,3 +13,16 @@ In the past decade enterprise software has evolved a lot, raising the need for a
 Here's an idea: Take KGISL's call taxi software and migrate it to CUBA platform                         
 
 https://www.cuba-platform.com/case-studies/sherlock - (Sherlock Taxi is a real-world application that uses Cuba)
+
+### Build a Transportation-as-a-service (TAAS) 
+
+https://stratechery.com/2016/google-uber-and-the-evolution-of-transportation-as-a-service/
+
+THE FIVE COMPONENTS OF TRANSPORTATION-AS-A-SERVICE
+Drivers and riders are important to understanding the future of transportation-as-a-service (TaaS), but they are not the only pieces that matter — and not the only areas where Uber still has an advantage. I see five components that really matter:
+
+- Drivers
+- Cars
+- Mapping
+- Routing
+- Riders
