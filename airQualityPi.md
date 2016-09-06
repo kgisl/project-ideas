@@ -1,5 +1,14 @@
 # Air Quality Sensors and reporting through Twitter
 
+# Smart City Hackathon Effort
+Sudhar et al. presented this as their project in the SCH effort in Aug 2016. 
+Their presentation is available at http://j.mp/airPiKG
+
+
+### Setting up a Raspberry Pi to provide data on the web 
+http://antrikshy.com/blog/make-raspberry-pi-accessible-over-web-arch-linux
+
+###Other Information
 http://indiatoday.intoday.in/education/story/chennai-air-quality-index-on-twitter/1/649648.html
 
 This can be installed using the USD 5.00 Raspberry Pis in many places. 
