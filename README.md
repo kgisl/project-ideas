@@ -1,4 +1,6 @@
-# project-ideas
+# project-ideas for side projects 
+
+Best article so far - http://antrikshy.com/blog/how-i-got-started-with-programming-side-projects
 
 Project ideas, ideally for students who are looking to execute mini or final year projects. 
 
