@@ -11,9 +11,8 @@ However, Onion also offers a more powerful version called the Omega2 Plus, and i
 
 Between the two, only the Omega2 features built-in Wi-Fi, and to get something like that on the Pi Zero requires an add-on.
 
-
 See more at: http://www.techtimes.com/articles/173849/20160816/onion-omega2-vs-raspberry-pi-zero-which-tiny-computer-should-you-buy.htm#sthash.ug6UjPbF.dpuf
-- 
+
 
 # Smart City Hackathon Effort
 Sudhar et al. presented this as their project in the SCH effort in Aug 2016. 
