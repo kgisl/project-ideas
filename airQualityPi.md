@@ -1,5 +1,20 @@
 # Air Quality Sensors and reporting through Twitter
 
+
+### Pi crosses 10 million 
+http://www.techtimes.com/articles/176812/20160908/the-tech-world-loves-raspberry-pi-10-million-cheap-computers-sold-and-its-just-getting-started.htm
+
+### Omega 2 or Pi Zero? 
+
+http://www.techtimes.com/articles/173849/20160816/onion-omega2-vs-raspberry-pi-zero-which-tiny-computer-should-you-buy.htm
+
+To start things off, the Omega2 offers a 580 MHz CPU, 16 MB worth of storage and 64 MB of RAM. Meanwhile, the Pi Zero triumphs over it with a 1 GHz CPU plus 512 MB of RAM.
+However, Onion also offers a more powerful version called the Omega2 Plus, and it sports two times the amount of storage and memory and a microSD slot to boot.
+Features Galore
+Between the two, only the Omega2 features built-in Wi-Fi, and to get something like that on the Pi Zero requires an add-on.
+- See more at: http://www.techtimes.com/articles/173849/20160816/onion-omega2-vs-raspberry-pi-zero-which-tiny-computer-should-you-buy.htm#sthash.ug6UjPbF.dpuf
+- 
+
 # Smart City Hackathon Effort
 Sudhar et al. presented this as their project in the SCH effort in Aug 2016. 
 Their presentation is available at http://j.mp/airPiKG
