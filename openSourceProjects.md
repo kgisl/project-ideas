@@ -4,3 +4,4 @@
 3. Build software better, together http://buff.ly/2cWneo5
 4. First Week of Launching Vue.js http://buff.ly/2cWmFuB
 5. How to Spread The Word About Your Code ★ Mozilla Hacks – the Web developer blog http://buff.ly/2cZOOUC
+6. Don’t limit your open source project’s potential http://buff.ly/2cF5QEt
