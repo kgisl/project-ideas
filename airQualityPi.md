@@ -1,5 +1,8 @@
 # Air Quality Sensors and reporting through Twitter
 
+### Why Air Pollution? 
+
+At around the 42nd minute: 200,000 Americans die due to air pollution every year; 50 lakh people around the world. WTH? http://mashable.com/2016/10/04/dicaprio-mars-musk/?utm_cid=mash-com-fb-main-link#wwpKinxJF5qk
 
 ### Pi crosses 10 million 
 http://www.techtimes.com/articles/176812/20160908/the-tech-world-loves-raspberry-pi-10-million-cheap-computers-sold-and-its-just-getting-started.htm
