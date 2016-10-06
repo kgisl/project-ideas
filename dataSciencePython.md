@@ -7,3 +7,5 @@ CS For All: Introduction to Computer Science and Python Programming http://buff.
 Python for Everybody | Coursera http://buff.ly/2dnISD4
 
 Python Coding Tips - Essential for Beginners and Experienced http://buff.ly/2duKI22
+
+The role of a #datascientist and why we need them http://buff.ly/2dENqVU  #BigData #DataScience #Analytics
