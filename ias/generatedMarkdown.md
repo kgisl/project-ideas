@@ -1,5 +1,5 @@
-| SNo | Student Name | Project Title | Domain | Repo |
+| SNo | Student Name |  Repo | Project Title | Domain |
 | --- | --- | --- | --- | --- |
-| 1 | Anitha M | Giveaway - An App for Organ Donation | Mobile App | https://github.com/gitUserid/repoName | 
-| 2 | Suresh Kannan | Healthcare Management App | Mobile App | https://github.com/gitUserid/repoName |
-| 3 | Tamilarasi P | Expense Manager | Mobile App | https://github.com/gitUserid/repoName |
+| 1 | Anitha M | https://github.com/gitUserid/repoName | Giveaway - An App for Organ Donation | Mobile App |  
+| 2 | Suresh Kannan | https://github.com/gitUserid/repoName | Healthcare Management App | Mobile App | 
+| 3 | Tamilarasi P | https://github.com/gitUserid/repoName | Expense Manager | Mobile App | 
