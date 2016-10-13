@@ -25,9 +25,9 @@
 11. Facebook Bot
 12. Stream based search Engine
 13. Vehicle Identification SMS system  
-**14. Cuba based Taxi Management Software - Mandatory**
-**15. CloudGate/Voiztrial Enhancements - Mandatory**
-**16. Implementing PCI compliance in CloudGate - Mandatory**  
+14. **Cuba based Taxi Management Software - Mandatory**
+15. **CloudGate/Voiztrial Enhancements - Mandatory**
+16. **Implementing PCI compliance in CloudGate - Mandatory**  
 17. CloudCoder Implementation using PHP
 18. Centralized GPS Tracking System
 19. Student's Bus pass renewal System
