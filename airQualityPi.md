@@ -16,6 +16,9 @@ Between the two, only the Omega2 features built-in Wi-Fi, and to get something l
 
 See more at: http://www.techtimes.com/articles/173849/20160816/onion-omega2-vs-raspberry-pi-zero-which-tiny-computer-should-you-buy.htm#sthash.ug6UjPbF.dpuf
 
+### Misc 
+https://fossbytes.com/step-by-step-guide-to-build-a-weather-bot-in-slack/
+
 ### Use Scale to get temperature from Raspberry Pi
 https://dzone.com/articles/scala-iot-first-basic-iot-application-using-scala-2?edition=222182&utm_source=Spotlight&utm_medium=email&utm_campaign=iot%202016-10-11
 
