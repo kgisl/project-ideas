@@ -9,3 +9,8 @@ https://fossbytes.com/obamas-facebook-messenger-bot-is-now-open-source-and-avail
 
 ### BotStore 
 https://botarena.co/
+
+### Misc
+
+https://fossbytes.com/step-by-step-guide-to-build-a-weather-bot-in-slack/
+https://fossbytes.com/how-to-build-a-slack-chat-bot-in-nodejs-using-botkit/ 
