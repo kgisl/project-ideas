@@ -48,7 +48,7 @@
 19. Student's Bus pass renewal System
 20. Document Management System
 21. Telecom Portal Management
-22. Implemetation of Search Engine using Heroku
+22. Implementation of Search Engine using Heroku
 
 #### Android / Cross Platform Related Projects ##
 
