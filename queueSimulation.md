@@ -4,3 +4,5 @@ https://www.khanacademy.org/computer-programming/queue-structure/642785123382067
 
 This can be accomplished in C++ or in Elm or in Javascript
 
+http://stackoverflow.com/a/39089983/307454 can also be added as the additional simulation
+
