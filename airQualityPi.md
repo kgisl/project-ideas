@@ -1,10 +1,16 @@
 # Air Quality Sensors and reporting through Twitter
 
+Related projects: [Amazon's Alexa on Raspberry Pi] 
+
 ### Why Air Pollution? 
 
 At around the 42nd minute: 200,000 Americans die due to air pollution every year; 500,000 people in India and 50 lakh people around the world. WTH? http://mashable.com/2016/10/04/dicaprio-mars-musk/?utm_cid=mash-com-fb-main-link#wwpKinxJF5qk
 
 http://m.thehindu.com/sci-tech/energy-and-environment/india-accounts-for-75-of-air-pollution-casualties-who/article9154552.ece - 600,000 in India and 800,000 in China 
+
+http://timesofindia.indiatimes.com/india/94-cities-havent-met-air-quality-standards-in-5-years/articleshow/55270013.cms - 94 cities haven't met air quality standards in 5 years
+
+http://www.nytimes.com/2016/10/31/world/asia/unicef-children-toxic-air.html - About 300 million children in the world breathe highly toxic air, the United Nations Children’s Fund said in a report on Monday that used satellite imagery to illustrate the magnitude of the problem. The vast majority of these children, about 220 million, live in South Asia, in places where air pollution is at least six times the level that the World Health Organization considers safe, Unicef said.
 
 
 ### Mobile Air Quality 
@@ -82,3 +88,7 @@ Building a Air Quality sensor using Raspberry PI, and we call it AirPi. The foll
 |      14       | MICS-5525 - CO Concentration - Requires ADC - [link](https://www.cdiweb.com/ProductDetail/MICS5525-SGX-Sensortech-Limited-formerly-e2v/363013/) |
 
 > AirPi [Circuit Design](https://123d.circuits.io/circuits/18876) via online AutoDesk 
+
+### Links
+[Amazon's Alexa on Raspberry Pi]: https://github.com/kgisl/project-ideas/blob/master/alexRaspberryPi.md
+
