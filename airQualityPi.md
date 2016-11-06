@@ -12,6 +12,9 @@ http://timesofindia.indiatimes.com/india/94-cities-havent-met-air-quality-standa
 
 http://www.nytimes.com/2016/10/31/world/asia/unicef-children-toxic-air.html - About 300 million children in the world breathe highly toxic air, the United Nations Children’s Fund said in a report on Monday that used satellite imagery to illustrate the magnitude of the problem. The vast majority of these children, about 220 million, live in South Asia, in places where air pollution is at least six times the level that the World Health Organization considers safe, Unicef said.
 
+![childMask](/doc/childMaskDelhi.jpg)
+![300million](/doc/300millionChildren.jpeg)
+
 
 ### Mobile Air Quality 
 ABSTRACT: In this work we present CitiSense, a new kind of "citizen infrastructure" for the monitoring of pollution and environmental conditions that users are exposed to. By utilizing mobile phones and affordable, small sensors placed in the environment and carried by users, data about pollutants such as ozone and carbon monoxide is collected and used to provide real-time feedback to users and enable them to make healthy changes in their behavior. Results can be reported to a back-end server for further processing and learning, allowing other stakeholders to better understand how diseases such as asthma develop and to help coordinate efforts within a user's community to improve conditions. What differentiates CitiSense from previous projects of this sort is the design of a complete system that addresses issues of mobile power management, data security, privacy, inference with commodity sensors, and integration into a highly extensible and adaptive infrastructure comprising of Open Rich Services (ORS). We discuss the design goals of the CitiSense project, our progress towards the vision of ubiquitous environmental sensing in San Diego, and preliminary results for energy management policies for sensor nodes and mobile phones.
