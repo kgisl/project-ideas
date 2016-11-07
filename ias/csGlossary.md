@@ -20,15 +20,6 @@ Inspired by
 |Output      | The return value _(s)_ of a function, can be represented as a Graph |
 |Complexity| Computer science all about optimization and efficient use of time and space; Space and time complexity analysis; **O(N)**
 
-### Related 
-| Term          | Description |
-|:---------------|:------------|
-|Graph Algorithms | [Graph algorithms = Iterations + Data Structure?]| 
-|Deterministic vs Non-deterministic| A computer program indeed implements a function, i.e. it maps to the input values to some uniquely defined output values. There are two **exceptions** to be considered: a program can be non-deterministic, meaning that different runs won't generate the same output; a program may fail to terminate, meaning that you are outside the domain of definition. Is implementing a [Syracuse Algorithm] non-deterministic? |
-|Everything is a Graph| “So in a sense, graphs can give an us an equivalent yet complementary view to the object-oriented paradigm. Where in OO we have objects in graphs we have nodes, and where in OO we have "relations between objects" in graphical models we have edges. So we can conclude that Everything is a Graph.” http://buff.ly/2fx7JBU 
-|Practically, everything is a graph | Read about the propoganda  [here](http://www.tcl-sfs.uni-tuebingen.de/~cornell/prolog/Propaganda.html) and [here](http://www.tcl-sfs.uni-tuebingen.de/~cornell/prolog/Graphs001.html) as well  |
-
-
 ### Programming Related 
 
 | Term          | Description |
@@ -44,6 +35,14 @@ Inspired by
 |TDD | Test driven development, an important coding skill that is recommended for fresh talent that is entering the industry |
 |API | Application Programming Interface, the implementation of an algorithm in a specific language/technology; The API in the [APIs Are Eating The World]
 |Memory| Physical entities (bits, nibbles, CPU registers, cache, RAM, disk, tape) that help store and retrieve data 
+
+### Related 
+| Term          | Description |
+|:---------------|:------------|
+|Graph Algorithms | [Graph algorithms = Iterations + Data Structure?]| 
+|Deterministic vs Non-deterministic| A computer program indeed implements a function, i.e. it maps to the input values to some uniquely defined output values. There are two **exceptions** to be considered: a program can be non-deterministic, meaning that different runs won't generate the same output; a program may fail to terminate, meaning that you are outside the domain of definition. Is implementing a [Syracuse Algorithm] non-deterministic? |
+|Everything is a Graph| “So in a sense, graphs can give an us an equivalent yet complementary view to the object-oriented paradigm. Where in OO we have objects in graphs we have nodes, and where in OO we have "relations between objects" in graphical models we have edges. So we can conclude that Everything is a Graph.” http://buff.ly/2fx7JBU 
+|Practically, everything is a graph | Read about the propoganda  [here](http://www.tcl-sfs.uni-tuebingen.de/~cornell/prolog/Propaganda.html) and [here](http://www.tcl-sfs.uni-tuebingen.de/~cornell/prolog/Graphs001.html) as well  |
 
 
 [What is Computer Science?]: https://interactivepython.org/runestone/static/pythonds/Introduction/WhatIsComputerScience.html
