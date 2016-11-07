@@ -64,7 +64,7 @@ Inspired by
 - Binary search shows you will find the right person within 17 selections across a 1,000,000 million address book 
 - Graph search (or which algorithm) can help you solve the Rubik's cube in less than 21 moves....amazing isn't it? 
 - Whatsapp - Erlang is at the core of it
-- Elm Programming - must faster and reliable than writing JScript code directly
+- Elm Programming - functional reactive for the front end; much faster and reliable than writing JavaScript code directly
 - PAGE RANK ALGORITHM - contributed to a wealth creation of USD 200 billion. 
 So Computer science deals with efficiency (Complexity - both time and space). 
 UBER - is all about travelling salesman algorithm on steroids!  - USD 50 billion valuation 
