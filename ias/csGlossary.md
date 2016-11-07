@@ -57,26 +57,17 @@ Inspired by
 [Graph algorithms = Iterations + Data Structure?]: https://web.engr.oregonstate.edu/~erwig/papers/GraphAlg=Iter+DS_WG92.pdf
 
 
-### NOTES 
+### MISC NOTES 
 
-#### Computer Science is the study of Special Functions (aka Algorithms) 
-
-Binary search shows you will find the right person within 17 selections across a 1,000,000 million address book 
-
-Graph search (or which algorithm) can help you solve the Rubik's cube in less than 21 moves....amazing isn't it? 
-
-THE PERSUASION FOR PURE FUNCTIONAL PROGRAMMING 
- - Whatsapp - Erlang is at the core of it
- - Elm Programming - must faster and reliable than writing JScript code directly 
-
-PAGE RANK ALGORITHM - contributed to a wealth creation of USD 200 billion. 
+####THE PERSUASION FOR PURE FUNCTIONAL PROGRAMMING 
+- Binary search shows you will find the right person within 17 selections across a 1,000,000 million address book 
+- Graph search (or which algorithm) can help you solve the Rubik's cube in less than 21 moves....amazing isn't it? 
+- Whatsapp - Erlang is at the core of it
+- Elm Programming - must faster and reliable than writing JScript code directly
+- PAGE RANK ALGORITHM - contributed to a wealth creation of USD 200 billion. 
 So Computer science deals with efficiency (Complexity - both time and space). 
-
 UBER - is all about travelling salesman algorithm on steroids!  - USD 50 billion valuation 
-
-Why Logic Programming is So Wonderful
-   - From Descriptions of Problems to Solutions of Problems
-
-https://gephi.wordpress.com/2011/10/12/everything-looks-like-a-graph-but-almost-nothing-should-ever-be-drawn-as-one/
-
-https://dhs.stanford.edu/algorithmic-literacy/everything-is-a-graph-and-drawing-it-as-such-is-always-the-best-thing-to-do/
+-Why Logic Programming is So Wonderful; From Descriptions of Problems to Solutions of Problems
+- Everything looks like a graph but must not be drawn as one?
+	- https://gephi.wordpress.com/2011/10/12/everything-looks-like-a-graph-but-almost-nothing-should-ever-be-drawn-as-one/
+    - https://dhs.stanford.edu/algorithmic-literacy/everything-is-a-graph-and-drawing-it-as-such-is-always-the-best-thing-to-do/
