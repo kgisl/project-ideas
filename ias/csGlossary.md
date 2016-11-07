@@ -1,11 +1,11 @@
 # Computer Science Glossary
 
+**tl;dr** -  [Algorithm is a Mapping] = Functional Mapping of Input Data (graph ADT) to Output Data (graph ADT)
+
 Inspired by 
  - An example of one of [the simplest types of graphs is a singly linked list]!
  - From [ZeroToHero] in 60 minutes in Computer Science 
  - [What is Computer Science?]
-
-**tl;dr** -  [Algorithm is a Mapping] = Functional Mapping of Input Data (graph ADT) to Output Data (graph ADT)
 
 ### Conceptual
 | Term          | Description |
