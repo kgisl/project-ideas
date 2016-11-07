@@ -13,11 +13,12 @@ Inspired by
 |Computer Science | is the study of special type of functions (aka Algorithms) |
 |Problem Solving| The ultimate goal of Computer Scientists |
 |Algorithm   |  a step-by-step list of instructions for solving any instance of the problem that might arise; is a special form of function (a mapping); is the [data model]?
+|Data | The generic name for input and output that is provided to a function, represented usually by a combination of special cases of a Graph, from single variable to linear and non-linear data structures |
 |Graph       | the most general purpose description of representing data for an algorithm; an abstract data type; An example of one of [the simplest types of graphs is a singly linked list]!|
 |Function    | a combination of [constructs][Constructs] referred to as "steps" that implement a specific algorithm |
-|Data | The generic name for input and output that is provided to a function, represented usually by a combination of special cases of a Graph, including single variables to linear and non-linear data structures |
 |Input       | data (a set of variables) that is provided to a function to generate the output, can be represented as a Graph |
 |Output      | The return value _(s)_ of a function, can be represented as a Graph |
+|Complexity| Computer science all about optimization and efficient use of time and space; Space and time complexity analysis; **O(N)**
 
 ### Related 
 | Term          | Description |
@@ -39,7 +40,7 @@ Inspired by
 |Problem sets | A carefully curated set of problems to achieve specific learning outcomes; increase your familiarity C language constructs by tackling the problem set at http://bit.ly/kitepc1  | 
 |Programming| The _art_ of writing code to accomplish problem solving using efficient algorithms |
 |Object| representation of a binding of data and functions; Objects are the coupling of Function and Data 
-|OOP _(PDS-2)_| Object oriented programming concepts including encapsulation, inheritance and polymorphism 
+|OOP _(PDS-2)_| Object oriented programming concepts including encapsulation, inheritance and [polymorphism](http://bit.ly/PolyVideoKG) 
 |TDD | Test driven development, an important coding skill that is recommended for fresh talent that is entering the industry |
 |API | Application Programming Interface, the implementation of an algorithm in a specific language/technology; The API in the [APIs Are Eating The World]
 |Memory| Physical entities (bits, nibbles, CPU registers, cache, RAM, disk, tape) that help store and retrieve data 
