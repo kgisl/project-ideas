@@ -76,5 +76,5 @@ Inspired by
 	- https://gephi.wordpress.com/2011/10/12/everything-looks-like-a-graph-but-almost-nothing-should-ever-be-drawn-as-one/
     - https://dhs.stanford.edu/algorithmic-literacy/everything-is-a-graph-and-drawing-it-as-such-is-always-the-best-thing-to-do/
 
-![Doodle](glossaryDoodle.jpg)
+![Doodle](https://rawgit.com/kgisl/project-ideas/master/ias/glossaryDoodle.jpg)
 
