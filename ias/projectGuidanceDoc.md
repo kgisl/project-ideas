@@ -27,7 +27,7 @@ For a library management system:
 |Inventory check | a once-a-year activity, including book count, etc. |
 |Fine | Amount collected from user for late returns |
 
-### மொழிபெயர்ப்பு
+#### மொழிபெயர்ப்பு
 | சொல் | விளக்கம் |
 |---------------|:----------|
 | புத்தக | ஆவணங்களை ஒரு தொகுப்பு |
