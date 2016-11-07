@@ -1,6 +1,6 @@
 # Computer Science Glossary
 
-**tl;dr** -  [Algorithm is a Mapping] = Functional Mapping of Input Data (graph ADT) to Output Data (graph ADT)
+**tl;dr** -  Computer Science == Algorithms;  [Algorithm is a Mapping] = Functional Mapping of Input Data (graph ADT) to Output Data (graph ADT)
 
 Inspired by 
  - An example of one of [the simplest types of graphs is a singly linked list]!
@@ -23,8 +23,8 @@ Inspired by
 ### Related 
 | Term          | Description |
 |:---------------|:------------|
-|Graph Algorithms | [Graph algorithms = Iterations + Data Structure?]; Implement a Syracuse Algorithm is non-deterministic?  - http://mathworld.wolfram.com/CollatzProblem.html
-|Deterministic vs Non-deterministic| A computer program indeed implements a function, i.e. it maps to the input values to some uniquely defined output values. There are two **exceptions** to be considered: a program can be non-deterministic, meaning that different runs won't generate the same output; a program may fail to terminate, meaning that you are outside the domain of definition.|
+|Graph Algorithms | [Graph algorithms = Iterations + Data Structure?]| 
+|Deterministic vs Non-deterministic| A computer program indeed implements a function, i.e. it maps to the input values to some uniquely defined output values. There are two **exceptions** to be considered: a program can be non-deterministic, meaning that different runs won't generate the same output; a program may fail to terminate, meaning that you are outside the domain of definition. Is implementing a [Syracuse Algorithm] non-deterministic? |
 |Everything is a Graph| “So in a sense, graphs can give an us an equivalent yet complementary view to the object-oriented paradigm. Where in OO we have objects in graphs we have nodes, and where in OO we have "relations between objects" in graphical models we have edges. So we can conclude that Everything is a Graph.” http://buff.ly/2fx7JBU 
 |Practically, everything is a graph | Read about the propoganda  [here](http://www.tcl-sfs.uni-tuebingen.de/~cornell/prolog/Propaganda.html) and [here](http://www.tcl-sfs.uni-tuebingen.de/~cornell/prolog/Graphs001.html) as well  |
 
@@ -40,7 +40,7 @@ Inspired by
 |Problem sets | A carefully curated set of problems to achieve specific learning outcomes; increase your familiarity C language constructs by tackling the problem set at http://bit.ly/kitepc1  | 
 |Programming| The _art_ of writing code to accomplish problem solving using efficient algorithms |
 |Object| representation of a binding of data and functions; Objects are the coupling of Function and Data 
-|OOP _(PDS-2)_| Object oriented programming concepts including encapsulation, inheritance and [polymorphism](http://bit.ly/PolyVideoKG) 
+|OOP _(PDS-2)_| Object oriented programming concepts including encapsulation, inheritance and [polymorphism](http://bit.ly/PolyVideoKG) ; a C++ STL graph implementation for a [family tree](http://www.boost.org/doc/libs/1_62_0/libs/graph/example/family-tree-eg.cpp)
 |TDD | Test driven development, an important coding skill that is recommended for fresh talent that is entering the industry |
 |API | Application Programming Interface, the implementation of an algorithm in a specific language/technology; The API in the [APIs Are Eating The World]
 |Memory| Physical entities (bits, nibbles, CPU registers, cache, RAM, disk, tape) that help store and retrieve data 
@@ -56,6 +56,7 @@ Inspired by
 [the simplest types of graphs is a singly linked list]: https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-graphs-and-their-data-structures-section-1/
 [ZeroToHero]: https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02#.5aard5in7
 [Graph algorithms = Iterations + Data Structure?]: https://web.engr.oregonstate.edu/~erwig/papers/GraphAlg=Iter+DS_WG92.pdf
+[Syracuse Algorithm]: http://mathworld.wolfram.com/CollatzProblem.html
 
 
 ### MISC NOTES 
