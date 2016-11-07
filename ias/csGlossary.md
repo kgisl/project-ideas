@@ -36,7 +36,7 @@ Inspired by
 |API | Application Programming Interface, the implementation of an algorithm in a specific language/technology; The API in the [APIs Are Eating The World]
 |Memory| Physical entities (bits, nibbles, CPU registers, cache, RAM, disk, tape) that help store and retrieve data 
 
-### Related 
+### Interesting! 
 | Term          | Description |
 |:---------------|:------------|
 |Graph Algorithms | [Graph algorithms = Iterations + Data Structure?]| 
