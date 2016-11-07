@@ -3,7 +3,7 @@
 **tl;dr** -  Computer Science == Algorithms;  [Algorithm is a Mapping] = Functional Mapping of Input Data (graph ADT) to Output Data (graph ADT)
 
 Inspired by 
- - An example of one of [the simplest types of graphs is a singly linked list]!
+ - An example of one of [the simplest types of graphs is a singly linked list!]
  - From [ZeroToHero] in 60 minutes in Computer Science 
  - [What is Computer Science?]
 
@@ -18,7 +18,7 @@ Inspired by
 |Function    | a combination of [constructs][Constructs] referred to as "steps" that implement a specific algorithm |
 |Input       | data (a set of variables) that is provided to a function to generate the output, can be represented as a Graph |
 |Output      | The return value _(s)_ of a function, can be represented as a Graph |
-|Complexity| Computer science all about optimization and efficient use of time and space; Space and time complexity analysis; **O(N)**
+|Complexity| Computer science also is about optimization; efficient use of time and space; Space and time complexity analysis; **O(N)**
 
 ### Programming Related 
 
@@ -52,11 +52,14 @@ Inspired by
 [APIs Are Eating The World]: http://www.informationweek.com/mobile/mobile-applications/apis-are-eating-the-world/a/d-id/1320551
 [data model]: https://en.wikipedia.org/wiki/Data_model
 [graph]: https://www.cs.bu.edu/teaching/c/graph/linked/
-[the simplest types of graphs is a singly linked list]: https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-graphs-and-their-data-structures-section-1/
+[the simplest types of graphs is a singly linked list!]: https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-graphs-and-their-data-structures-section-1/
 [ZeroToHero]: https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02#.5aard5in7
 [Graph algorithms = Iterations + Data Structure?]: https://web.engr.oregonstate.edu/~erwig/papers/GraphAlg=Iter+DS_WG92.pdf
 [Syracuse Algorithm]: http://mathworld.wolfram.com/CollatzProblem.html
 
+### Examples of other useful glossary
+- [Programming specific](http://www.labautopedia.org/mw/List_of_programming_and_computer_science_terms)
+- [Simple](https://pdfs.semanticscholar.org/a6a4/0519cc0d2919a3d4818e103466cbe3a1ff3f.pdf) 
 
 ### MISC NOTES 
 
