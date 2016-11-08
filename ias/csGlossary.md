@@ -2,7 +2,7 @@
 
 **tl;dr 0** -  Computer Science is the study of money-making Algorithms  
 **tl;dr 1** -  [Algorithm is a Mapping] = Functional Mapping of Input Data (graph ADT) to Output Data (graph ADT)  
-**tl;dr 2** -  "[Practically everything (including an Algorithm) is a Graph.][Everything is a graph]"
+**tl;dr 2** -  "[Practically everything (_including an algorithm_) is a Graph.][Everything is a graph]"
 
 Inspired by 
  - An example of one of [the simplest types of graphs is a singly linked list!]
@@ -79,4 +79,3 @@ Inspired by
     - https://dhs.stanford.edu/algorithmic-literacy/everything-is-a-graph-and-drawing-it-as-such-is-always-the-best-thing-to-do/
 
 ![Doodle](https://rawgit.com/kgisl/project-ideas/master/ias/glossaryDoodle.jpg)
-
