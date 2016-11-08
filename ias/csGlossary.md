@@ -1,6 +1,8 @@
 # Computer Science Glossary
 
-**tl;dr** -  Computer Science == Algorithms;  [Algorithm is a Mapping] = Functional Mapping of Input Data (graph ADT) to Output Data (graph ADT)
+**tl;dr 0** -  Computer Science is the study of money-making Algorithms  
+**tl;dr 1** -  [Algorithm is a Mapping] = Functional Mapping of Input Data (graph ADT) to Output Data (graph ADT)  
+**tl;dr 2** -  "[Practically everything (including an Algorithm) is a Graph.][Everything is a graph]"
 
 Inspired by 
  - An example of one of [the simplest types of graphs is a singly linked list!]
@@ -44,7 +46,7 @@ Inspired by
 |Why Functional Programming?| The latest (and final?) paradigm shift to  take advantage of the Utility computing era (aka Cloud Computing) which provides tremendous computing power on tap at exceptionally low cost compared to ownership.
 |Functional programming|  is a programming paradigm that conceives computation as the evaluation of mathematical functions and avoids state and mutable data. Functional programming emphasizes the application of functions, in contrast to imperative programming, which emphasizes changes in state and the execution of sequential commands. Functional programming is defined more by a set of common concerns and themes than any list of distinctions from other paradigms. Often considered important are higher-order and first-class functions, closures, and recursion. Other common features of functional programming languages are continuations, Hindley-Milner type inference systems, non-strict evaluation (including, but not limited to, "laziness"), and monads. |
 
-
+[Everything is a Graph]: http://www.tcl-sfs.uni-tuebingen.de/~cornell/prolog/Graphs001.html
 [What is Computer Science?]: https://interactivepython.org/runestone/static/pythonds/Introduction/WhatIsComputerScience.html
 [Algorithm is a Mapping]: http://j.mp/algorithmIsAMapping
 [Constructs]: http://j.mp/constructAnalogy
