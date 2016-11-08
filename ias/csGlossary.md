@@ -66,9 +66,9 @@ Inspired by
 
 ### MISC NOTES 
 
-####THE PERSUASION FOR PURE FUNCTIONAL PROGRAMMING 
+####THE PERSUASION FOR FUNCTIONAL PROGRAMMING 
 - Binary search shows you will find the right person within 17 selections across a 1,000,000 million address book 
-- Graph search (or which algorithm) can help you solve the Rubik's cube in less than 21 moves....amazing isn't it? 
+- The analysis of the Rubik's cube using graphs recently revealed that there is always a solution with 21 moves (or less) regardless of the cube's initial state....amazing isn't it?
 - Whatsapp - Erlang is at the core of it  
 - Elm Programming - functional reactive for the front end; much faster and reliable than writing JavaScript code directly  
 - PAGE RANK ALGORITHM - contributed to a wealth creation of USD 200 billion.   
