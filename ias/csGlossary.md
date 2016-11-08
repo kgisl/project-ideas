@@ -4,11 +4,6 @@
 **tl;dr 1** -  [Algorithm is a Mapping] = Functional Mapping of Input Data (graph ADT) to Output Data (graph ADT)  
 **tl;dr 2** -  "[Practically everything (_including an algorithm_) is a Graph.][Everything is a graph]"
 
-Inspired by 
- - An example of one of [the simplest types of graphs is a singly linked list!]
- - From [ZeroToHero] in 60 minutes in Computer Science 
- - [What is Computer Science?]
-
 ### Conceptual
 | Term          | Description |
 |---------------|:------------|
@@ -21,6 +16,11 @@ Inspired by
 |Input       | data (a set of variables) that is provided to a function to generate the output, can be represented as a Graph |
 |Output      | The return value _(s)_ of a function, can be represented as a Graph |
 |Complexity| Computer science also is about optimization; efficient use of time and space; Space and time complexity analysis; **O(N)**
+
+Inspired by 
+ - An example of one of [the simplest types of graphs is a singly linked list!]
+ - From [ZeroToHero] in 60 minutes in Computer Science 
+ - [What is Computer Science?]
 
 ### Programming Related 
 
