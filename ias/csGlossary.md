@@ -20,7 +20,7 @@
 Inspired by 
  - An example of one of [the simplest types of graphs is a singly linked list!]
  - From [ZeroToHero] in 60 minutes in Computer Science 
- - [What is Computer Science?]
+ - [What is Computer Science?] - as part of student orientation on **day 1** of college
 
 ### Programming Related 
 
