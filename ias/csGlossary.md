@@ -11,8 +11,7 @@ Inspired by
 | Term          | Description |
 |---------------|:------------|
 |Computer Science | is the study of special type of functions (aka Algorithms) |
-|operating system|
-software that controls the basic, low-level hardware operations, and file management|
+|operating system|software that controls the basic, low-level hardware operations, and file management|
 |Problem Solving| The ultimate goal of Computer Scientists |
 |Algorithm   |  a step-by-step list of instructions for solving any instance of the problem that might arise; is a special form of function (a mapping); is the [data model]?
 |Data | The generic name for input and output that is provided to a function, represented usually by a combination of special cases of a Graph, from single variable to linear and non-linear data structures |
