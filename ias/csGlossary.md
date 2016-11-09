@@ -13,7 +13,7 @@
 |Data | The generic name for input and output that is provided to a function, represented usually by a combination of special cases of a Graph, from single variable to linear and non-linear data structures |
 |Graph       | the most general purpose description of representing data for an algorithm; an abstract data type; An example of one of [the simplest types of graphs is a singly linked list]!|
 |Function    | a combination of [constructs][Constructs] referred to as "steps or special member function" that implement a specific algorithm |
-|Input       | data (a set of variables) that is provided to a function to generate the output, can be represented as a Graph |
+|Input       | data (a set of variables or vector variable)that is provided to a function to generate the output, can be represented as a Graph |
 |Output      | The return value _(s)_ of a function, can be represented as a Graph |
 |Complexity| Computer science also is about optimization; efficient use of time and space; Space and time complexity analysis; [Big O Notation]
 
