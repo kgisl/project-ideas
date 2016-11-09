@@ -45,6 +45,7 @@ Inspired by
 |Practically, everything is a graph | Read about the propaganda  [here](http://www.tcl-sfs.uni-tuebingen.de/~cornell/prolog/Propaganda.html) and [here](http://www.tcl-sfs.uni-tuebingen.de/~cornell/prolog/Graphs001.html) as well  |
 |Why Functional Programming?| The latest (and final?) paradigm shift to  take advantage of the Utility computing era (aka Cloud Computing) which provides tremendous computing power on tap at exceptionally low cost compared to ownership.
 |Functional programming|  is a programming paradigm that conceives computation as the evaluation of mathematical functions and avoids state and mutable data. Functional programming emphasizes the application of functions, in contrast to imperative programming, which emphasizes changes in state and the execution of sequential commands. Functional programming is defined more by a set of common concerns and themes than any list of distinctions from other paradigms. Often considered important are higher-order and first-class functions, closures, and recursion. Other common features of functional programming languages are continuations, Hindley-Milner type inference systems, non-strict evaluation (including, but not limited to, "laziness"), and monads. |
+|[abstract class]|An abstract class is a template definition of methods and variables of a class (category of objects) that contains one or more abstracted methods.
 |[AOP]:Aspect-oriented programming (AOP)| is an approach to programming that allows global properties of a program to determine how it is compiled into an executable program. AOP can be used with object-oriented programming ( OOP ).
 |[Debugging]:Debugging, |in computer programming and engineering, is a multistep process that involves identifying a problem, isolating the source of the problem, and then either correcting the problem or determining a way to work around it. 
 |[Encapsulation]:|The inclusion of one thing within another thing
@@ -60,7 +61,7 @@ Inspired by
 [ZeroToHero]: https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02#.5aard5in7
 [Graph algorithms = Iterations + Data Structure?]: https://web.engr.oregonstate.edu/~erwig/papers/GraphAlg=Iter+DS_WG92.pdf
 [Syracuse Algorithm]: http://mathworld.wolfram.com/CollatzProblem.html
-[abstract class]:An abstract class is a template definition of methods and variables of a class (category of objects) that contains one or more abstracted methods. 
+ 
 
 ### Examples of other useful glossary
 - [OOP specific](https://drive.google.com/file/d/0Bwu4iGPfYEufd2htbEtqUThqRWM/view?usp=sharing)
