@@ -11,6 +11,8 @@ Inspired by
 | Term          | Description |
 |---------------|:------------|
 |Computer Science | is the study of special type of functions (aka Algorithms) |
+|operating system|
+software that controls the basic, low-level hardware operations, and file management|
 |Problem Solving| The ultimate goal of Computer Scientists |
 |Algorithm   |  a step-by-step list of instructions for solving any instance of the problem that might arise; is a special form of function (a mapping); is the [data model]?
 |Data | The generic name for input and output that is provided to a function, represented usually by a combination of special cases of a Graph, from single variable to linear and non-linear data structures |
@@ -32,7 +34,8 @@ Inspired by
 |Programming| The _art_ of writing code to accomplish problem solving using efficient algorithms |
 |TDD | Test driven development, an important coding skill that is recommended for fresh talent that is entering the industry |
 |API | Application Programming Interface, the implementation of an algorithm in a specific language/technology; The API in the [APIs Are Eating The World]
-|Memory| Physical entities (bits, nibbles, CPU registers, cache, RAM, disk, tape) that help store and retrieve data 
+|Memory| 
+(bits, nibbles, CPU registers, cache, RAM, disk, tape) that help store and retrieve data 
 
 ### Interesting! 
 | Term          | Description |
