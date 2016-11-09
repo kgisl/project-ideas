@@ -58,7 +58,8 @@ Inspired by
 [ZeroToHero]: https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02#.5aard5in7
 [Graph algorithms = Iterations + Data Structure?]: https://web.engr.oregonstate.edu/~erwig/papers/GraphAlg=Iter+DS_WG92.pdf
 [Syracuse Algorithm]: http://mathworld.wolfram.com/CollatzProblem.html
-
+[abstract class]:An abstract class is a template definition of methods and variables of a class (category of objects) that contains one or more abstracted methods. 
+[AOP]:Aspect-oriented programming (AOP) is an approach to programming that allows global properties of a program to determine how it is compiled into an executable program. AOP can be used with object-oriented programming ( OOP ).
 ### Examples of other useful glossary
 - [OOP specific](https://drive.google.com/file/d/0Bwu4iGPfYEufd2htbEtqUThqRWM/view?usp=sharing)
 - [Programming specific](http://www.labautopedia.org/mw/List_of_programming_and_computer_science_terms)
