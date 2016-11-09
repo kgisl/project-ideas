@@ -15,6 +15,7 @@
 |Function    | a combination of [constructs][Constructs] referred to as "steps" that implement a specific algorithm |
 |Input       | data (a set of variables) that is provided to a function to generate the output, can be represented as a Graph |
 |Output      | The return value _(s)_ of a function, can be represented as a Graph |
+|Bounded Queue| A queue limited to a fixed number of items|
 |Complexity| Computer science also is about optimization; efficient use of time and space; Space and time complexity analysis; [Big O Notation]
 
 Inspired by 
