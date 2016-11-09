@@ -33,6 +33,7 @@ Inspired by
 |Problem sets | A carefully curated set of problems to achieve specific learning outcomes; increase your familiarity C language constructs by tackling the problem set at http://bit.ly/kitepc1  | 
 |Programming| The _art_ of writing code to accomplish problem solving using efficient algorithms |
 |TDD | Test driven development, an important coding skill that is recommended for fresh talent that is entering the industry |
+|Drill Down| The act of focusing in, to get the information needed (through drill down the database)
 |API | Application Programming Interface, the implementation of an algorithm in a specific language/technology; The API in the [APIs Are Eating The World]
 |Memory| Physical entities (bits, nibbles, CPU registers, cache, RAM, disk, tape) that help store and retrieve data 
 
