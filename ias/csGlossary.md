@@ -20,6 +20,7 @@ Inspired by
 |Output      | The return value _(s)_ of a function, can be represented as a Graph |
 |Complexity| Computer science also is about optimization; efficient use of time and space; Space and time complexity analysis; **O(N)**
 |Edge | **Edge** represents a path between two **[vertices]** (http://btechsmartclass.com/DS/U3_T8.html) or a line between two vertices. In the following example, the lines from A to B, B to C, and so on represents edges|
+|Path|Path represents a sequence of edges between the two vertices. In the following example, ABCD represents a path from A to D|
 
 ### Programming Related 
 
