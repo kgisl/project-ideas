@@ -20,6 +20,7 @@ Inspired by
 |Output      | The return value _(s)_ of a function, can be represented as a Graph |
 |Complexity| Computer science also is about optimization; efficient use of time and space; Space and time complexity analysis; 
 **O(N)**
+
 |Stack | A stack is a container of objects, that serves as a collection of elements. It follows the operation of Last-In, First-Out (LIFO).
 
 ### Programming Related 
