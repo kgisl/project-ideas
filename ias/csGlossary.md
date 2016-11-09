@@ -37,7 +37,8 @@ Inspired by
 |Programming| The _art_ of writing code to accomplish problem solving using efficient algorithms |
 |TDD | Test driven development, an important coding skill that is recommended for fresh talent that is entering the industry |
 |API | Application Programming Interface, the implementation of an algorithm in a specific language/technology; The API in the [APIs Are Eating The World]
-|Memory| Physical entities (bits, nibbles, CPU registers, cache, RAM, disk, tape) that help store and retrieve data 
+|Memory| Physical entities (bits, nibbles, CPU registers, cache, RAM, disk, tape) that help store and retrieve data
+|Aggregate| An array or a struct without a constructor.| 
 
 ### Interesting! 
 | Term          | Description |
