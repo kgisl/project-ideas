@@ -32,3 +32,13 @@ in a specific period of time.
         i.	155 | @kgashok | http://www.freecodecamp.com/kgashok
 
         ii.	245 | @ddrdushy | http://www.freecodecamp.com/ddrdushy	
+        
+#### Standalone Counter for FCC https://github.com/kgisl/FCC-Status
+
+### Idea for Visualization (using a plot.ly) 
+ - https://bmcorser.github.io/assets/html/elm-packages/
+ - https://plot.ly/
+
+### Flexible configuration 
+This slack server that self-invites people to a channel (gitter room) is also a likely possibility 
+https://github.com/kgisl/slackin

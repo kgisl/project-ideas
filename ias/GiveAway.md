@@ -1,0 +1,2 @@
+##GiveAway
+><p>The main aim of this application is to integrate with Social medias (Facebook and Twitter) to create awareness on Organ Donation. Using this application, the user can register for the organ donation and share the information to others via mobile application. Periodically the user can get notifications regarding the organ donation camps and others information through social media.</p>
