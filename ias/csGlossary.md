@@ -18,7 +18,9 @@ Inspired by
 |Function    | a combination of [constructs][Constructs] referred to as "steps" that implement a specific algorithm |
 |Input       | data (a set of variables) that is provided to a function to generate the output, can be represented as a Graph |
 |Output      | The return value _(s)_ of a function, can be represented as a Graph |
-|Complexity| Computer science also is about optimization; efficient use of time and space; Space and time complexity analysis; **O(N)**
+|Complexity| Computer science also is about optimization; efficient use of time and space; Space and time complexity analysis; 
+**O(N)**
+|Stack | A stack is a container of objects, that serves as a collection of elements. It follows the operation of Last-In, First-Out (LIFO).
 
 ### Programming Related 
 
@@ -33,6 +35,7 @@ Inspired by
 |TDD | Test driven development, an important coding skill that is recommended for fresh talent that is entering the industry |
 |API | Application Programming Interface, the implementation of an algorithm in a specific language/technology; The API in the [APIs Are Eating The World]
 |Memory| Physical entities (bits, nibbles, CPU registers, cache, RAM, disk, tape) that help store and retrieve data 
+
 
 ### Interesting! 
 | Term          | Description |
