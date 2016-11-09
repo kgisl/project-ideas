@@ -16,6 +16,7 @@
 |Input       | data (a set of variables) that is provided to a function to generate the output, can be represented as a Graph |
 |Output      | The return value _(s)_ of a function, can be represented as a Graph |
 |Complexity| Computer science also is about optimization; efficient use of time and space; Space and time complexity analysis; **O(N)**
+|Pseudocode| Pseudocode is an informal high-level description of the operating principle of a computer program or other algorithm. It uses the structural conventions of a normal programming language, but is intended for human reading rather than machine reading. They omit variable declarations, system specific code and some subroutines|
 
 Inspired by 
  - An example of one of [the simplest types of graphs is a singly linked list!]
