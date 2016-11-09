@@ -16,6 +16,7 @@
 |Input       | data (a set of variables) that is provided to a function to generate the output, can be represented as a Graph |
 |Output      | The return value _(s)_ of a function, can be represented as a Graph |
 |Complexity| Computer science also is about optimization; efficient use of time and space; Space and time complexity analysis; **O(N)**
+|Pseudocode| Pseudocode is an informal high-level description of the operating principle of a computer program or other algorithm. It uses the structural conventions of a normal programming language, but is intended for human reading rather than machine reading. They omit variable declarations, system specific code and some subroutines|
 
 Inspired by 
  - An example of one of [the simplest types of graphs is a singly linked list!]
@@ -35,6 +36,7 @@ Inspired by
 |TDD | Test driven development, an important coding skill that is recommended for fresh talent that is entering the industry |
 |API | Application Programming Interface, the implementation of an algorithm in a specific language/technology; The API in the [APIs Are Eating The World]
 |Memory| Physical entities (bits, nibbles, CPU registers, cache, RAM, disk, tape) that help store and retrieve data 
+|Agile Software Development | Agile software development describes a set of principles for software development under which requirements and solutions evolve through the collaborative effort of self-organizing cross-functional teams. It advocates adaptive planning, evolutionary development, early delivery, and continuous improvement, and it encourages rapid and flexible response to change.
 
 ### Interesting! 
 | Term          | Description |
