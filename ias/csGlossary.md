@@ -19,9 +19,9 @@ Inspired by
 |Input       | data (a set of variables) that is provided to a function to generate the output, can be represented as a Graph |
 |Output      | The return value _(s)_ of a function, can be represented as a Graph |
 |Complexity| Computer science also is about optimization; efficient use of time and space; Space and time complexity analysis; **O(N)**
+|Hierachical data structure   |  a structure of data having several levels arranged in a treelike structure |
 
 ### Programming Related 
-
 | Term          | Description |
 |---------------|:------------|
 |Object| Objects are the coupling of Function and Data 
@@ -32,6 +32,7 @@ Inspired by
 |Programming| The _art_ of writing code to accomplish problem solving using efficient algorithms |
 |TDD | Test driven development, an important coding skill that is recommended for fresh talent that is entering the industry |
 |API | Application Programming Interface, the implementation of an algorithm in a specific language/technology; The API in the [APIs Are Eating The World]
+|KDD | refers to the broad process of finding knowledge in data, and emphasizes the "high-level" application of particular data mining methods. |
 |Memory| Physical entities (bits, nibbles, CPU registers, cache, RAM, disk, tape) that help store and retrieve data 
 
 ### Interesting! 
