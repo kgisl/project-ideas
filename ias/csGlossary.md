@@ -46,21 +46,6 @@ Inspired by
 |Why Functional Programming?| The latest (and final?) paradigm shift to  take advantage of the Utility computing era (aka Cloud Computing) which provides tremendous computing power on tap at exceptionally low cost compared to ownership.
 |Functional programming|  is a programming paradigm that conceives computation as the evaluation of mathematical functions and avoids state and mutable data. Functional programming emphasizes the application of functions, in contrast to imperative programming, which emphasizes changes in state and the execution of sequential commands. Functional programming is defined more by a set of common concerns and themes than any list of distinctions from other paradigms. Often considered important are higher-order and first-class functions, closures, and recursion. Other common features of functional programming languages are continuations, Hindley-Milner type inference systems, non-strict evaluation (including, but not limited to, "laziness"), and monads. |
 
-
-[Big O Notation]: http://j.mp/bigONotation
-[Everything is a Graph]: http://www.tcl-sfs.uni-tuebingen.de/~cornell/prolog/Graphs001.html
-[What is Computer Science?]: https://interactivepython.org/runestone/static/pythonds/Introduction/WhatIsComputerScience.html
-[Algorithm is a Mapping]: http://j.mp/algorithmIsAMapping
-[Constructs]: http://j.mp/constructAnalogy
-[31 variants]: https://en.wikipedia.org/wiki/Category:Programming_constructs
-[APIs Are Eating The World]: http://www.informationweek.com/mobile/mobile-applications/apis-are-eating-the-world/a/d-id/1320551
-[data model]: https://en.wikipedia.org/wiki/Data_model
-[graph]: https://www.cs.bu.edu/teaching/c/graph/linked/
-[the simplest types of graphs is a singly linked list!]: https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-graphs-and-their-data-structures-section-1/
-[ZeroToHero]: https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02#.5aard5in7
-[Graph algorithms = Iterations + Data Structure?]: https://web.engr.oregonstate.edu/~erwig/papers/GraphAlg=Iter+DS_WG92.pdf
-[Syracuse Algorithm]: http://mathworld.wolfram.com/CollatzProblem.html
-
 ### Examples of other useful glossary
 - [OOP specific](https://drive.google.com/file/d/0Bwu4iGPfYEufd2htbEtqUThqRWM/view?usp=sharing)
 - [Programming specific](http://www.labautopedia.org/mw/List_of_programming_and_computer_science_terms)
@@ -81,3 +66,20 @@ Inspired by
     - https://dhs.stanford.edu/algorithmic-literacy/everything-is-a-graph-and-drawing-it-as-such-is-always-the-best-thing-to-do/
 
 ![Doodle](https://rawgit.com/kgisl/project-ideas/master/ias/glossaryDoodle.jpg)
+
+
+[//]: # (Links to various sites which are referred to in this glossary)
+[Big O Notation]: http://j.mp/bigONotation
+[Everything is a Graph]: http://www.tcl-sfs.uni-tuebingen.de/~cornell/prolog/Graphs001.html
+[What is Computer Science?]: https://interactivepython.org/runestone/static/pythonds/Introduction/WhatIsComputerScience.html
+[Algorithm is a Mapping]: http://j.mp/algorithmIsAMapping
+[Constructs]: http://j.mp/constructAnalogy
+[31 variants]: https://en.wikipedia.org/wiki/Category:Programming_constructs
+[APIs Are Eating The World]: http://www.informationweek.com/mobile/mobile-applications/apis-are-eating-the-world/a/d-id/1320551
+[data model]: https://en.wikipedia.org/wiki/Data_model
+[graph]: https://www.cs.bu.edu/teaching/c/graph/linked/
+[the simplest types of graphs is a singly linked list!]: https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-graphs-and-their-data-structures-section-1/
+[ZeroToHero]: https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02#.5aard5in7
+[Graph algorithms = Iterations + Data Structure?]: https://web.engr.oregonstate.edu/~erwig/papers/GraphAlg=Iter+DS_WG92.pdf
+[Syracuse Algorithm]: http://mathworld.wolfram.com/CollatzProblem.html
+
