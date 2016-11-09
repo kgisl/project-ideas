@@ -18,6 +18,7 @@
 |Bounded Queue| A queue limited to a fixed number of items|
 |Circular Queue| An implementation of a bounded queue using an array.|
 |Hash Function| A function that maps keys to integers, usually to get an even distribution on a smaller set of values.|
+|Binary Tree| A specific type of tree data structure in which each node has at most two subtrees, one left and one right.|
 |Complexity| Computer science also is about optimization; efficient use of time and space; Space and time complexity analysis; [Big O Notation]
 
 Inspired by 
