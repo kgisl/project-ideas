@@ -35,10 +35,10 @@ Inspired by
 |[Constructs] _(FOCP)_ | Building blocks of a program - there are 7 fundamental ones (variables, sequences, selection, repetition, function (aka sub-routines), indirection and recursion); and then there are [31 variants]
 |Problem sets | A carefully curated set of problems to achieve specific learning outcomes; increase your familiarity C language constructs by tackling the problem set at http://bit.ly/kitepc1  | 
 |Programming| The _art_ of writing code to accomplish problem solving using efficient algorithms |
+|Pseudocode| Pseudocode is an informal high-level description of a computer program (_a.k.a_ algorithm). It uses the structural conventions of a normal programming language, but is intended for human reading rather than machine reading. Variable declarations, system specific code and some subroutines are omitted. 
 |TDD | Test driven development, an important coding skill that is recommended for fresh talent that is entering the industry |
 |API | Application Programming Interface, the implementation of an algorithm in a specific language/technology; The API in the [APIs Are Eating The World]
 |Memory| Physical entities (bits, nibbles, CPU registers, cache, RAM, disk, tape) that help store and retrieve data 
-|Pseudocode| Pseudocode is an informal high-level description of the operating principle of a computer program or other algorithm. It uses the structural conventions of a normal programming language, but is intended for human reading rather than machine reading. They omit variable declarations, system specific code and some subroutines
 
 ### Interesting! 
 | Term          | Description |
