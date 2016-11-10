@@ -8,7 +8,6 @@
 | Term          | Description |
 |---------------|:------------|
 |Computer Science | is the study of special type of functions (a.k.a. Algorithms) |
-|Program|An organized list of instructions that, when executed, causes the computer to behave in a predetermined manner|
 |Problem Solving| The ultimate goal of computer scientists |
 |Algorithm   |  a _solution_ to a problem; a step-by-step list of instructions for solving any instance of the problem that might arise; is a special form of function (a mapping); is the [data model]? |
 |Data | The generic name for input and output that is provided to a function, represented usually by a combination of special cases of a Graph, from single variable to linear and non-linear data structures |
@@ -35,7 +34,8 @@ Inspired by
 |Data Structure _(PDS_1)_| Specific programming structures used for implementing abstract data type like a [graph] ADT; an array, a linked list, a hashmap; here are some new [functional data structures](http://bit.ly/functionalDS)|
 |[Constructs] _(FOCP)_ | Building blocks of a program - there are 7 fundamental ones (variables, sequences, selection, repetition, function (aka sub-routines), indirection and recursion); and then there are [31 variants]
 |Problem sets | A carefully curated set of problems to achieve specific learning outcomes; increase your familiarity C language constructs by tackling the problem set at http://bit.ly/kitepc1  | 
-|Programming| The _art_ of writing code to accomplish problem solving using efficient algorithms |
+|Programming | The _art_ of writing programs/code to accomplish problem solving using efficient algorithms |
+|Program |An organized list of instructions that, when executed, causes the computer to behave in a predetermined manner|
 |Code Optimization|A method of code modification to improve code quality and efficiency|
 |TDD | Test driven development, an important coding skill that is recommended for fresh talent that is entering the industry |
 |API | Application Programming Interface, the implementation of an algorithm in a specific language/technology; The API in the [APIs Are Eating The World]
@@ -48,7 +48,7 @@ Inspired by
 |Deterministic vs Non-deterministic| A computer program indeed implements a function, i.e. it maps to the input values to some uniquely defined output values. There are two **exceptions** to be considered: a program can be non-deterministic, meaning that different runs won't generate the same output; a program may fail to terminate, meaning that you are outside the domain of definition. Is implementing a [Syracuse Algorithm] non-deterministic? |
 |Everything is a Graph| “So in a sense, graphs can give us an equivalent yet complementary view to the object-oriented paradigm. In OO we have objects; in graphs we have nodes. In OO, we have "relations between objects"; in graphical models we have edges. So we can conclude that Everything is a Graph.” http://buff.ly/2fx7JBU 
 |Practically, everything is a graph | Read about the propaganda  [here](http://www.tcl-sfs.uni-tuebingen.de/~cornell/prolog/Propaganda.html) and [here](http://www.tcl-sfs.uni-tuebingen.de/~cornell/prolog/Graphs001.html) as well |
-|Structural Programming|is a an archetype to achieve clarity, quality and reduced development time by making extensive use of modularity with only three constructs: sequence, selection and iteration |
+|Structural Programming|is an archetype to achieve clarity, quality and reduced development time by making extensive use of modularity with only three constructs: sequence, selection and iteration |
 |Why Structural Programming?| It is a precursor to OOP. **Edsger W.Dijkstra** pervasively used [Structural Programming] as a way to avoid [spaghetti code]. It is a logical thinking approach to solve a problem in all areas by applying decomposition to generate a hierarchical structure.|
 |Why Functional Programming?| The latest (and final?) paradigm shift to  take advantage of the Utility computing era (aka Cloud Computing) which provides tremendous computing power on tap at exceptionally low cost compared to ownership.
 |Functional programming|  is a programming paradigm that conceives computation as the evaluation of mathematical functions and avoids state and mutable data. Functional programming emphasizes the application of functions, in contrast to imperative programming, which emphasizes changes in state and the execution of sequential commands. Functional programming is defined more by a set of common concerns and themes than any list of distinctions from other paradigms. Often considered important are higher-order and first-class functions, closures, and recursion. Other common features of functional programming languages are continuations, Hindley-Milner type inference systems, non-strict evaluation (including, but not limited to, "laziness"), and monads. |
@@ -76,8 +76,9 @@ Inspired by
 
 ![MVC](https://rawgit.com/kgisl/project-ideas/master/ias/MVC-diagram.jpg)
 
-####MVC-UML
-[Credit: MVC UML Diagram](https://www.tutorialspoint.com/design_pattern/images/mvc_pattern_uml_diagram.jpg) 
+####MVC-UML  
+[Credit: MVC UML Diagram](https://www.tutorialspoint.com/design_pattern/images/mvc_pattern_uml_diagram.jpg)  
+
 ![MVC-UML](https://rawgit.com/kgisl/project-ideas/master/ias/mvc_pattern_uml_diagram.jpg)
 
 
