@@ -36,6 +36,7 @@ Inspired by
 |Problem sets | A carefully curated set of problems to achieve specific learning outcomes; increase your familiarity C language constructs by tackling the problem set at http://bit.ly/kitepc1  | 
 |Programming | The _art_ of writing programs/code to accomplish problem solving using efficient algorithms |
 |Program |An organized list of instructions that, when executed, causes the computer to behave in a predetermined manner|
+|Pseudocode| Pseudocode is an informal high-level description of a computer program (_a.k.a_ algorithm). It uses the structural conventions of a normal programming language, but is intended for human reading rather than machine reading. Variable declarations, system specific code and some subroutines are omitted. |
 |Code Optimization|A method of code modification to improve code quality and efficiency|
 |TDD | Test driven development, an important coding skill that is recommended for fresh talent that is entering the industry |
 |API | Application Programming Interface, the implementation of an algorithm in a specific language/technology; The API in the [APIs Are Eating The World]
