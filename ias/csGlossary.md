@@ -4,6 +4,8 @@
 **tl;dr 1** -  [Algorithm is a Mapping] = Functional Mapping of Input Data (graph ADT) to Output Data (graph ADT)  
 **tl;dr 2** -  "[Practically everything (_including an algorithm_) is a Graph.][Everything is a graph]"
 
+[TOC]
+
 ### Conceptual
 | Term          | Description |
 |---------------|:------------|
@@ -28,6 +30,7 @@ Inspired by
 |---------------|:------------|
 |Design Pattern| In software engineering, a design pattern is a general repeatable solution (_a.k.a._ algorithm) to a commonly occurring problem in software design. A design pattern isn't a finished design that can be transformed directly into code. It is a description or template for how to solve a problem that can be used in many different situations. |
 |**MVC** Pattern | MVC Pattern stands for Model-View-Controller Pattern. This pattern is used to separate application's concerns. Model - Model represents an object or JAVA POJO carrying data. It can also have logic to update controller if its data changes.|
+|Unified Modeling Language| **UML** is a common language for business analysts, software architects and developers used to describe, specify, design, and document existing or new business processes, structure and behavior of artifacts of software systems. An example of a [#mvc-uml] diagram is provided below|
 |Object| Objects are the coupling of Function and Data 
 |OOP _(PDS-2)_| Object oriented programming concepts including encapsulation, inheritance and [polymorphism](http://bit.ly/PolyVideoKG) ; a C++ STL graph implementation for a [family tree](http://www.boost.org/doc/libs/1_62_0/libs/graph/example/family-tree-eg.cpp)
 |Data Structure _(PDS_1)_| Specific programming structures used for implementing abstract data type like a [graph] ADT; an array, a linked list, a hashmap; here are some new [functional data structures](http://bit.ly/functionalDS)|
@@ -57,7 +60,7 @@ Inspired by
 
 ### MISC NOTES 
 
-####THE PERSUASION FOR FUNCTIONAL PROGRAMMING 
+####The persuasion for Functional Programming  
 - Binary search shows you will find the right person within 17 selections across a 1,000,000 million address book 
 - The analysis of the Rubik's cube using graphs recently revealed that there is always a solution with 21 moves (or less) regardless of the cube's initial state....amazing isn't it?
 - Whatsapp - Erlang is at the core of it  
@@ -73,6 +76,9 @@ Inspired by
 
 ![MVC](https://rawgit.com/kgisl/project-ideas/master/ias/MVC-diagram.jpg)
 
+####MVC-UML
+[Credit: MVC UML Diagram](https://www.tutorialspoint.com/design_pattern/images/mvc_pattern_uml_diagram.jpg) 
+![MVC-UML](https://rawgit.com/kgisl/project-ideas/master/ias/mvc_pattern_uml_diagram.jpg)
 
 
 [//]: # (Links to various sites which are referred to in this glossary)
