@@ -54,10 +54,10 @@ Inspired by
 |Why Functional Programming?| The latest (and final?) paradigm shift to  take advantage of the Utility computing era (aka Cloud Computing) which provides tremendous computing power on tap at exceptionally low cost compared to ownership.
 |Functional programming|  is a programming paradigm that conceives computation as the evaluation of mathematical functions and avoids state and mutable data. Functional programming emphasizes the application of functions, in contrast to imperative programming, which emphasizes changes in state and the execution of sequential commands. Functional programming is defined more by a set of common concerns and themes than any list of distinctions from other paradigms. Often considered important are higher-order and first-class functions, closures, and recursion. Other common features of functional programming languages are continuations, Hindley-Milner type inference systems, non-strict evaluation (including, but not limited to, "laziness"), and monads. |
 
-### Examples of other useful glossary
+### Examples of other useful glossaries
 - [OOP specific](https://drive.google.com/file/d/0Bwu4iGPfYEufd2htbEtqUThqRWM/view?usp=sharing)
 - [Programming specific](http://www.labautopedia.org/mw/List_of_programming_and_computer_science_terms)
-- [Simple](https://pdfs.semanticscholar.org/a6a4/0519cc0d2919a3d4818e103466cbe3a1ff3f.pdf) 
+- [Simplified Computer Science Glossary](https://pdfs.semanticscholar.org/a6a4/0519cc0d2919a3d4818e103466cbe3a1ff3f.pdf) 
 
 ### MISC NOTES 
 
