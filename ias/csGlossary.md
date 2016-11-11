@@ -28,7 +28,7 @@ Inspired by
 |---------------|:------------|
 |Design Pattern| In software engineering, a design pattern is a general repeatable solution (_a.k.a._ algorithm) to a commonly occurring problem in software design. A design pattern isn't a finished design that can be transformed directly into code. It is a description or template for how to solve a problem that can be used in many different situations. |
 |**MVC** Pattern | MVC Pattern stands for Model-View-Controller Pattern. This pattern is used to separate application's concerns. Model - Model represents an object or JAVA POJO carrying data. It can also have logic to update controller if its data changes.|
-|Unified Modeling Language| **UML** is a common language for business analysts, software architects and developers used to describe, specify, design, and document existing or new business processes, structure and behavior of artifacts of software systems. An example of a [MVC diagram](#mvc-uml) is provided below|
+|Unified Modeling Language| **UML** is a common language for business analysts, software architects and developers used to describe, specify, design, and document existing or new business processes, structure and behavior of artifacts of software systems. An example of a [MVC diagram](#mvc-uml) is provided below.|
 |Object| Objects are the coupling of Function and Data 
 |OOP _(PDS-2)_| Object oriented programming concepts including encapsulation, inheritance and [polymorphism](http://bit.ly/PolyVideoKG) ; a C++ STL graph implementation for a [family tree](http://www.boost.org/doc/libs/1_62_0/libs/graph/example/family-tree-eg.cpp)
 |Data Structure _(PDS_1)_| Specific programming structures used for implementing abstract data type like a [graph] ADT; an array, a linked list, a hashmap; here are some new [functional data structures](http://bit.ly/functionalDS)|
@@ -54,10 +54,10 @@ Inspired by
 |Why Functional Programming?| The latest (and final?) paradigm shift to  take advantage of the Utility computing era (aka Cloud Computing) which provides tremendous computing power on tap at exceptionally low cost compared to ownership.
 |Functional programming|  is a programming paradigm that conceives computation as the evaluation of mathematical functions and avoids state and mutable data. Functional programming emphasizes the application of functions, in contrast to imperative programming, which emphasizes changes in state and the execution of sequential commands. Functional programming is defined more by a set of common concerns and themes than any list of distinctions from other paradigms. Often considered important are higher-order and first-class functions, closures, and recursion. Other common features of functional programming languages are continuations, Hindley-Milner type inference systems, non-strict evaluation (including, but not limited to, "laziness"), and monads. |
 
-### Examples of other useful glossary
+### Examples of other useful glossaries
 - [OOP specific](https://drive.google.com/file/d/0Bwu4iGPfYEufd2htbEtqUThqRWM/view?usp=sharing)
 - [Programming specific](http://www.labautopedia.org/mw/List_of_programming_and_computer_science_terms)
-- [Simple](https://pdfs.semanticscholar.org/a6a4/0519cc0d2919a3d4818e103466cbe3a1ff3f.pdf) 
+- [Simplified Computer Science Glossary](https://pdfs.semanticscholar.org/a6a4/0519cc0d2919a3d4818e103466cbe3a1ff3f.pdf) 
 
 ### MISC NOTES 
 
