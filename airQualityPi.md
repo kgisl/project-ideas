@@ -2,6 +2,9 @@
 
 Related projects: [Amazon's Alexa on Raspberry Pi] 
 
+Talk on IOT by Saravanan Theckyam (Tata Elexsi) -http://j.mp/hobbiesToRealWorld
+
+
 ### Why Air Pollution? 
 
 At around the 42nd minute: 200,000 Americans die due to air pollution every year; 500,000 people in India and 50 lakh people around the world. WTH? http://mashable.com/2016/10/04/dicaprio-mars-musk/?utm_cid=mash-com-fb-main-link#wwpKinxJF5qk
