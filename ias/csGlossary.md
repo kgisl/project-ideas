@@ -103,4 +103,5 @@ But **why**? Inspired by
 [Graph algorithms = Iterations + Data Structure?]: https://web.engr.oregonstate.edu/~erwig/papers/GraphAlg=Iter+DS_WG92.pdf
 [Syracuse Algorithm]: http://mathworld.wolfram.com/CollatzProblem.html
 [Structural Programming]: https://www.computer.org/csdl/mags/co/1981/03/01667281.pdf
-[spaghetti code]: https://en.wikipedia.org/wiki/Spaghetti_code
+[spaghetti code]: https://en.wikipedia.org/wiki/Spaghetti_code 
+
