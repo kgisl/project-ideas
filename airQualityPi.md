@@ -3,6 +3,7 @@
 Related projects: [Amazon's Alexa on Raspberry Pi] 
 
 Talk on IOT by Saravanan Theckyam (Tata Elexsi) -http://j.mp/hobbiesToRealWorld
+Using RaspberryPi to control fan for temperature - http://j.mp/raspberryFanController
 
 
 ### Why Air Pollution? 
