@@ -28,7 +28,7 @@ But **why**? Inspired by
 |Machine Learning (ML) | A branch of statistics and computer science; Data mining, one of the categories of ML is enabled by Knowledge Discovery in Data (KDD) which refers to the broad process (_a.k.a._ algorithmic patterns) of finding knowledge (_a.k.a._ patterns) in the Input dataset
 
 ### Programming Related 
-
+_Theory influences design; design influences programming._
 | Term          | Description |
 |---------------|:------------|
 |Design Pattern| In software engineering, a design pattern is a general repeatable solution (_a.k.a._ algorithm) to a commonly occurring problem in software design. A design pattern isn't a finished design that can be transformed directly into code. It is a description or template for how to solve a problem that can be used in many different situations. |
