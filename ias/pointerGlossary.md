@@ -3,7 +3,7 @@
 |Item | Interchangeable with | Description | Example |
 |:----------|:----------|:------------|:-------------------|
 |Integer	| Whole number | Any whole number value from 1 to 100000| 9930
-|Integer variable | NA | a variable type that can be initialized _only_ say a decimal value of **2220**) | int a_variable = 2220; | 
+|Integer variable | - | a variable type that can be initialized _only_ say a decimal value of **2220**) | int a_variable = 2220; | 
 
 |Item | Interchangeable with | Description | Example |
 |:----------|:----------|:------------|:-------------------|
@@ -13,11 +13,11 @@
 |Integer pointer | Integer Pointer Variable | When *de-referencing* (using the `*` operator) is used with the variable, it stores integer in the memory location | **int*** pInteger; *pInteger = 300;   | 
 |Memory location value | Memory Address | Any physical memory location which can be accessed by the CPU | Any hexadecimal number between a range, say 0x1000 -> 0x10000 |
 |Memory variable | Data variable | A human-defined name that might refer to one or more memory locations depending upon the type | **int a;** // 4 bytes starting at 0x4000 |
-|Dereferencing | NA | Using the `*` operator, retrieve or store a value in the memory location pointed to by the pointer variable | `*pA = 400;` | 
+|Dereferencing | - | Using the `*` operator, retrieve or store a value in the memory location pointed to by the pointer variable | `*pA = 400;` | 
 |Pointer in the LHS | - | Store data in the memory location pointed to | `*ppA = 23 + 39023;` 
 |Pointer in the RHS | - | Retrieve data from the memory location pointed to | `int v = *ppA + 23;`  
-|Invalid pointer assignments | NA | Assigning an integer value as the address of a pointer | ppA = 23; // illegal because `23` is not a valid memory location | 
-|Valid pointer assignments | NA | Assigning a pointer variable to another pointer variable | If pA and pB are pointer variables, pA = pB;  |
+|Invalid pointer assignments | - | Assigning an integer value as the address of a pointer | ppA = 23; // illegal because `23` is not a valid memory location | 
+|Valid pointer assignments | - | Assigning a pointer variable to another pointer variable | If pA and pB are pointer variables, pA = pB;  |
 
 ### Code Quiz
 
