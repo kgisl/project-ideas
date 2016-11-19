@@ -3,7 +3,7 @@
 |Item | Interchangeable with | Description | Example |
 |:----------|:----------|:------------|:-------------------|
 |Integer	| Whole number | Any whole number value from 1 to 100000| 9930
-|Integer variable | - | a variable type that can be initialized _only_ say a decimal value of **2220**) | int a_variable = 2220; | 
+|Integer variable | - | a variable type that can be initialized with _only_ a decimal value, e.g. **2220**) | int a_variable = 2220; | 
 
 |Item | Interchangeable with | Description | Example |
 |:----------|:----------|:------------|:-------------------|
@@ -17,7 +17,7 @@
 |Pointer in the LHS | - | Store data in the memory location pointed to | `*ppA = 23 + 39023;` 
 |Pointer in the RHS | - | Retrieve data from the memory location pointed to | `int v = *ppA + 23;`  
 |Invalid pointer assignments | - | Assigning an integer value as the address of a pointer | ppA = 23; // illegal because `23` is not a valid memory location | 
-|Valid pointer assignments | - | Assigning a pointer variable to another pointer variable | If pA and pB are pointer variables, pA = pB;  |
+|Valid pointer assignments | - | Assigning a pointer variable to another pointer variable | If pA and pB are pointer variables, `pA = pB;`  |
 
 ### Code Quiz
 
@@ -55,3 +55,57 @@ The 2-line output in the display is:
 2. "t" and "t"
 3. Non-determinable and "t" 
 ```
+
+#### Quiz 3
+```cLang
+#include <stdio.h> 
+#include <stdlib.h> 
+
+void swap (int*, int*); // declaring swap 
+int* get_a_number();    // uses malloc() to dynamically allocate integers
+
+void swap(int *q,int *p)  // definition of swap 
+{
+    // Step 0 your code goes below
+
+}
+
+int main ()
+{
+    //------------------------------------------------------//
+    /* do not edit*/ int *a = get_a_number();   // do NOT EDIT
+    /* do not edit*/ int *b = get_a_number();   // do NOT EDIT
+    /* do not edit*/ int  c = *get_a_number();  // do NOT EDIT
+    /* do not edit*/ int  d = *get_a_number();  // do NOT EDIT
+    //------------------------------------------------------//
+
+    // Step 0 implement swap function 
+    
+    // Step 1 call the swap functions appropriately with a and b
+
+    // Step 2 call the swap function appropriately with c and d
+
+    // Step 3 print the numbers --------
+    /* DO NOT EDIT */  printf ("%d %d %d %d", *a,*b, c, d); 
+    // -----------------------------
+    
+    return 0;
+}
+
+int* get_a_number()
+{
+    int* number = (int*) malloc ( sizeof (int) ); 
+    scanf("%d", number);
+    return number;
+}
+
+```
+
+Assume you've entered the appropriate code for the `swap` function above. The correct code for `Step 1 and Step 2` is: 
+1. `swap (&a, &b)` and `swap (&c, &d); `
+2. `swap (*a, *b)` and `swap (&c, &d); `
+3. `swap (a, b)` and `swap (c, d); `
+4. `swap (a, b)` and `swap (&c, &d); `
+5. None of the above 
+
+
