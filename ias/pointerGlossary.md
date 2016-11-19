@@ -102,10 +102,9 @@ int* get_a_number()
 ```
 
 Assume you've entered the appropriate code for the `swap` function above. The correct code for `Step 1 and Step 2` is: 
-1. `swap (&a, &b)` and `swap (&c, &d); `  
-2. `swap (*a, *b)` and `swap (&c, &d); `  
-3. `swap (a, b)` and `swap (c, d); `  
-4. `swap (a, b)` and `swap (&c, &d); `  
-5. None of the above   
 
-
+	1. `swap (&a, &b)` and `swap (&c, &d); `  
+	2. `swap (*a, *b)` and `swap (&c, &d); `  
+	3. `swap (a, b)` and `swap (c, d); `  
+	4. `swap (a, b)` and `swap (&c, &d); `  
+	5. None of the above   
