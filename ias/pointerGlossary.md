@@ -1,4 +1,4 @@
-#Pointers 
+##Pointers 
 
 |Item | Interchangeable with | Description | Example |
 |:----------|:----------|:------------|:-------------------|
@@ -21,7 +21,9 @@
 
 ### Code Quiz
 
-#### Quiz 1
+[TOC]
+
+#### Quiz 1  - Pointer basics
 ```cpp
 int b; 
 int* pA;
@@ -37,7 +39,7 @@ The string displayed is
 4. Non-determinable because integer `b` is not initialized 
 ```
 
-#### Quiz 2
+#### Quiz 2  - Pointer basics
 ```cpp
 char buf[] = "this is a long string"; 
 char* pBuf = buf; 
@@ -56,7 +58,7 @@ The 2-line output in the display is:
 3. Non-determinable and "t" 
 ```
 
-#### Quiz 3
+#### Quiz 3  - Swap using Pointers
 ```cLang
 #include <stdio.h> 
 #include <stdlib.h> 
@@ -107,7 +109,7 @@ Assume you've entered the appropriate code for the `swap` function above. The co
 	5. None of the above   
 
 
-#### Quiz 4
+#### Quiz 4  - Bug Finder 
 
 ```c 
 
@@ -156,3 +158,43 @@ int main ()
 
 The above program is almost **perfect** in that it defines a `substring` function which returns a substring of the input ("CatDogMonkey") starting from index 3 and of length 4.  Except there is one small yet major flaw. What is the error? 
 
+#### Quiz 5  - Printer Arithmetic
+
+```c
+#include <stdio.h> 
+#include <stdlib.h>
+
+struct node { 
+  char buf[10]; 
+  int val[2];
+};
+
+typedef struct node Node;
+
+int main ()
+{
+    char* pCharacter = "buffered text";
+    int numbers[20] = {1, 2, 3, 4, 5}; 
+    int* pInteger = numbers; 
+    Node nodes[3]; 
+    Node* pNode = nodes; 
+    
+    /* Line 19 */ printf ("%p %p %p\n", pCharacter++,pInteger++,pNode++); 
+    /* Line 20 */ printf ("%p %p %p\n", pCharacter, pInteger, pNode); 
+    
+    return 0;
+    
+}
+```
+
+If the output at Line 19 (the first `printf` statement) is: 
+`0x400694 0xfff000ba0 0xfff000b60`
+
+then the output at Line 20 (the next `printf` statement) is: 
+
+1. `0x400694 0xfff000ba0 0xfff000b60`
+2. `0x400698 0xfff000ba4 0xfff000b64`
+2. `0x400695 0xfff000ba4 0xfff000b74`
+3. None of the above 
+
+ 
