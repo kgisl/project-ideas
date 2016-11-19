@@ -72,22 +72,19 @@ void swap(int *q,int *p)  // definition of swap
 
 int main ()
 {
-    //------------------------------------------------------//
-    /* do not edit*/ int *a = get_a_number();   // do NOT EDIT
-    /* do not edit*/ int *b = get_a_number();   // do NOT EDIT
-    /* do not edit*/ int  c = *get_a_number();  // do NOT EDIT
-    /* do not edit*/ int  d = *get_a_number();  // do NOT EDIT
-    //------------------------------------------------------//
+    int *a = get_a_number();   
+	int *b = get_a_number();   
+    int  c = *get_a_number();  
+    int  d = *get_a_number();  
 
     // Step 0 implement swap function 
     
-    // Step 1 call the swap functions appropriately with a and b
+    // Step 1 call the swap functions appropriately with a & b
 
-    // Step 2 call the swap function appropriately with c and d
+    // Step 2 call the swap function appropriately with c & d
 
-    // Step 3 print the numbers --------
-    /* DO NOT EDIT */  printf ("%d %d %d %d", *a,*b, c, d); 
-    // -----------------------------
+    // Step 3 print the swapped values --------
+    printf ("%d %d %d %d", *a,*b, c, d); 
     
     return 0;
 }
