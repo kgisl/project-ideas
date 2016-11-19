@@ -29,7 +29,6 @@ int* pB = &b;
 pA = pB;
 printf ("%d is the value pointed to by pA\n", *pA); 
 ```
-
 The string displayed is 
 ```
 1. "pB is the value pointed to by pA"
@@ -44,10 +43,8 @@ char buf[] = "this is a long string";
 char* pBuf = buf; 
 char* pBuf2; 
 pBuf2 = pBuf;   // valid pointer to pointer assignment 
-
 char* anotherP = (char *)malloc (sizeof(buf) * sizeof(char) ); 
 *anotherP = *pBuf; 
-
 printf ("%s is the contents of anotherP\n", anotherP); 
 printf ("%c is the contents of anotherP\n", *anotherP);
 
