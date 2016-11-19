@@ -1,13 +1,15 @@
 ##Pointers 
 
-|Item | Interchangeable with | Description | Example |
+Conceptual understanding of Pointers (_aka_ **indirection**, is one of the 7 fundamental constructs http://j.mp/constructAnalogy) is best achieved by doing a lot of pointer problems. For a good problem set, try this one [here](http://bit.ly/pointerKITE). 
+
+|Item | Interchangeable with  | Description | Example |
 |:----------|:----------|:------------|:-------------------|
 |Integer	| Whole number | Any whole number value from 1 to 100000| 9930
 |Integer variable | - | a variable type that can be initialized with _only_ a decimal value, e.g. **2220**) | int a_variable = 2220; | 
 
 |Item | Interchangeable with | Description | Example |
 |:----------|:----------|:------------|:-------------------|
-|Pointer	| Memory location address |A valid memory location value in hexadecimal | 0x80005|
+|Pointer	| A value; memory location address |A valid memory location value in hexadecimal | `0x400694`|
 |Pointer variable | Pointer | a variable type that can be initialized _only_ with a memory address (_a.k.a._ **Pointer**) of other variables and not an integer (say decimal **2220**) | int* **pA**; pA = &a; | 
 |Pointer type | Data type | refers to the type of the data retrieved or stored when *de-referencing* (using the `*` operator) a pointer variable | **int*** p; **char*** c; **float*** f;  | 
 |Integer pointer | Integer Pointer Variable | When *de-referencing* (using the `*` operator) is used with the variable, it stores integer in the memory location | **int*** pInteger; *pInteger = 300;   | 
@@ -181,12 +183,16 @@ int main ()
     
     /* Line 19 */ printf ("%p %p %p\n", pCharacter++,pInteger++,pNode++); 
     /* Line 20 */ printf ("%p %p %p\n", pCharacter, pInteger, pNode); 
-    
+
+	void* vPointer = numbers; 
+    vPointer++; 
+    /* Line 24 */ printf ("%p ", vPointer);     
     return 0;
     
 }
 ```
 
+##### Question 5.1
 If the output at Line 19 (the first `printf` statement) is: 
 `0x400694 0xfff000ba0 0xfff000b60`
 
@@ -197,4 +203,14 @@ then the output at Line 20 (the next `printf` statement) is:
 2. `0x400695 0xfff000ba4 0xfff000b74`
 3. None of the above 
 
+##### Question 5.2
+With reference to Line 24, the output will be: 
+
+1. `0xfff000ba1`
+2. Compiler will not compile
+3. Undefined behavior
+4. Any one of the above
+	 
+	 > Spoiler Alert: http://stackoverflow.com/a/3524270/307454
+ 
  
