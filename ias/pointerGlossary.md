@@ -105,3 +105,54 @@ Assume you've entered the appropriate code for the `swap` function above. The co
 	3. `swap (a, b)` and `swap (c, d); `  
 	4. `swap (a, b)` and `swap (&c, &d); `  
 	5. None of the above   
+
+
+#### Quiz 4
+
+```c 
+
+#include <stdio.h> 
+#include <stdlib.h>
+#include <string.h>
+
+char* subString (const char* target, int start, int size)
+{
+        
+    if (target ==0 || start+size > strlen(target))
+        return ""; 
+
+    char* result = (char*) malloc (size* sizeof(char));
+    
+    int i = 0;
+    int j = start;
+    for (; j < start + size; i++, j++) {
+        *(result+i) = target[j];
+    }
+    
+    *(result+i) = '\0';
+    
+    return result;
+}
+
+
+int main ()
+{
+    
+    char str[20] = "CatDogMonkey";
+    int start = 3 , size = 4;
+    
+    // scanf("%[^0123456789] %d %d", str, &start, &size);
+    
+    char* result = subString(str, start, size);
+    if (strlen(result))
+        printf ("%s", result);
+    else
+        printf ("NA");
+    
+    return 0;
+    
+}
+```
+
+The above program is almost **perfect** in that it defines a `substring` function which returns a substring of the input ("CatDogMonkey") starting from index 3 and of length 4.  Except there is one small yet major flaw. What is the error? 
+
