@@ -3,12 +3,12 @@
 Conceptual understanding of Pointers (_aka_ **indirection**, is one of the 7 fundamental constructs http://j.mp/constructAnalogy) is best achieved by doing a lot of pointer problems. For a good problem set, try this one [here](http://bit.ly/pointerKITE). 
 
 |Item | Interchangeable with  | Description | Example |
-|:----------|:----------|:------------|:-------------------|
+|:----------|:----------:|:------------|:-------------------|
 |Integer	| Whole number | Any whole number value from 1 to 100000| 9930
 |Integer variable | - | a variable type that can be initialized with _only_ a decimal value, e.g. **2220**) | int a_variable = 2220; | 
 
 |Item | Interchangeable with | Description | Example |
-|:----------|:----------|:------------|:-------------------|
+|:----------|:----------:|:------------|:-------------------|
 |Pointer	| A value; memory location address |A valid memory location value in hexadecimal | `0x400694`|
 |Pointer variable | Pointer | a variable type that can be initialized _only_ with a memory address (_a.k.a._ **Pointer**) of other variables and not an integer (say decimal **2220**) | int* **pA**; pA = &a; | 
 |Pointer type | Data type | refers to the type of the data retrieved or stored when *de-referencing* (using the `*` operator) a pointer variable | **int*** p; **char*** c; **float*** f;  | 
@@ -20,6 +20,8 @@ Conceptual understanding of Pointers (_aka_ **indirection**, is one of the 7 fun
 |Pointer in the RHS | - | Retrieve data from the memory location pointed to | `int v = *ppA + 23;`  
 |Invalid pointer assignments | - | Assigning an integer value as the address of a pointer | ppA = 23; // illegal because `23` is not a valid memory location | 
 |Valid pointer assignments | - | Assigning a pointer variable to another pointer variable | If pA and pB are pointer variables, `pA = pB;`  |
+|Pass by value | - | Arguments in C are passed on to the called function _only by value_ | True or false? **TBD**
+|Call by reference | - | When functions are invoked either by using  pointers (C) or references (C++) | True or false? **TBD**
 
 
 ![DoBetter](https://drive.google.com/uc?id=0Bwu4iGPfYEufejRhb2pMQl85eG8)
