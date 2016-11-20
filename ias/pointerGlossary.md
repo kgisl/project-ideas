@@ -109,11 +109,11 @@ int* get_a_number()
 
 Assume you've entered the appropriate code for the `swap` function above. The correct code for `Step 1 and Step 2` is: 
 
-	1. `swap (&a, &b)` and `swap (&c, &d); `  
-	2. `swap (*a, *b)` and `swap (&c, &d); `  
-	3. `swap (a, b)` and `swap (c, d); `  
-	4. `swap (a, b)` and `swap (&c, &d); `  
-	5. None of the above   
+1. `swap (&a, &b)` and `swap (&c, &d)`  
+2. `swap (*a, *b)` and `swap (&c, &d)`   
+3. `swap (a, b)` and `swap (c, d)`  
+4. `swap (a, b)` and `swap (&c, &d)`  
+5. None of the above   
 
 
 #### Quiz 4  - Bug Finder 
@@ -138,7 +138,7 @@ then the output at Line 20 (the next `printf` statement) is:
 3. None of the above 
 
 ##### Question 5.2
-With reference to Line 24, the output will be: 
+With reference to `Line 24`, the output will be: 
 
 1. `0xfff000ba1`
 2. Compiler will not compile
