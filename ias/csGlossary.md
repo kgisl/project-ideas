@@ -29,6 +29,7 @@ But **why**? Inspired by
 
 ### Programming Related 
 _Theory influences design; design influences programming._
+
 | Term          | Description |
 |---------------|:------------|
 |Design Pattern| In software engineering, a design pattern is a general repeatable solution (_a.k.a._ algorithm) to a commonly occurring problem in software design. A design pattern isn't a finished design that can be transformed directly into code. It is a description or template for how to solve a problem that can be used in many different situations. |
@@ -55,7 +56,7 @@ _Theory influences design; design influences programming._
 |Everything is a Graph| “So in a sense, graphs can give us an equivalent yet complementary view to the object-oriented paradigm. In OO we have objects; in graphs we have nodes. In OO, we have "relations between objects"; in graphical models we have edges. So we can conclude that Everything is a Graph.” http://buff.ly/2fx7JBU 
 |Practically, everything is a graph | Read about the propaganda  [here](http://www.tcl-sfs.uni-tuebingen.de/~cornell/prolog/Propaganda.html) and [here](http://www.tcl-sfs.uni-tuebingen.de/~cornell/prolog/Graphs001.html) as well |
 |Structural Programming|is an archetype to achieve clarity, quality and reduced development time by making extensive use of modularity with only three constructs: sequence, selection and iteration |
-|Why Structural Programming?| It is a precursor to OOP. **Edsger W.Dijkstra** pervasively used [Structural Programming] as a way to avoid [spaghetti code]. It is a logical thinking approach to solve a problem in all areas by applying decomposition to generate a hierarchical structure.|
+|Why Structural Programming?| It is a precursor to OOP. **Edsger W.Dijkstra** pervasively used [Structurpoal Programming] as a way to avoid [spaghetti code]. It is a logical thinking approach to solve a problem in all areas by applying decomposition to generate a hierarchical structure.|
 |Why Functional Programming?| The latest (and final?) paradigm shift to  take advantage of the Utility computing era (aka Cloud Computing) which provides tremendous computing power on tap at exceptionally low cost compared to ownership.
 |Functional programming|  is a programming paradigm that conceives computation as the evaluation of mathematical functions and avoids state and mutable data. Functional programming emphasizes the application of functions, in contrast to imperative programming, which emphasizes changes in state and the execution of sequential commands. Functional programming is defined more by a set of common concerns and themes than any list of distinctions from other paradigms. Often considered important are higher-order and first-class functions, closures, and recursion. Other common features of functional programming languages are continuations, Hindley-Milner type inference systems, non-strict evaluation (including, but not limited to, "laziness"), and monads. |
 
