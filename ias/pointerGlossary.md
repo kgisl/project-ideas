@@ -20,9 +20,11 @@ Conceptual understanding of Pointers (_aka_ **indirection**, is one of the 7 fun
 |Pointer in the RHS | - | Retrieve data from the memory location pointed to | `int v = *ppA + 23;`  
 |Invalid pointer assignments | - | Assigning an integer value as the address of a pointer | ppA = 23; // illegal because `23` is not a valid memory location | 
 |Valid pointer assignments | - | Assigning a pointer variable to another pointer variable | If pA and pB are pointer variables, `pA = pB;`  |
-|Pass by value | - | Arguments in C are passed on to the called function _only by value_ | True or false? **TBD**
-|Call by reference | - | When functions are invoked either by using  pointers (C) or references (C++) | True or false? **TBD**
+|Pass by value | Call by value | Function arguments in [C][call by value in C] and [Java][call by value in Java] are strictly passed on as parameters to the called function _only by value_ | True or false? **TBD**
+|Call by reference | Pass by reference | When functions are called with arguments that are either pointers (C) or references (C++) | True or false? **TBD**
 
+[call by value in Java]: http://buff.ly/2g98GBN
+[call by value in C]: http://j.mp/callByValueC
 
 ![DoBetter](https://drive.google.com/uc?id=0Bwu4iGPfYEufejRhb2pMQl85eG8)
 
@@ -76,7 +78,6 @@ int* get_a_number();    // uses malloc() to dynamically allocate integers
 void swap(int *q,int *p)  // definition of swap 
 {
     // Step 0 your code goes below
-
 }
 
 int main ()
@@ -93,8 +94,7 @@ int main ()
     // Step 2 call the swap function appropriately with c & d
 
     // Step 3 print the swapped values --------
-    printf ("%d %d %d %d", *a,*b, c, d); 
-    
+    printf ("%d %d %d %d", *a,*b, c, d);
     return 0;
 }
 
