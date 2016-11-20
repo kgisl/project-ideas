@@ -20,13 +20,13 @@ Conceptual understanding of Pointers (_aka_ **indirection**, is one of the 7 fun
 |Pointer in the RHS | - | Retrieve data from the memory location pointed to | `int v = *ppA + 23;`  
 |Invalid pointer assignments | - | Assigning an integer value as the address of a pointer | ppA = 23; // illegal because `23` is not a valid memory location | 
 |Valid pointer assignments | - | Assigning a pointer variable to another pointer variable | If pA and pB are pointer variables, `pA = pB;`  |
-|Pass by value | Call by value | Function arguments in [C][call by value in C] and [Java][call by value in Java] are strictly passed on as parameters to the called function _only by value_ | True or false? **TBD**
+|Pass by value | Call by value | Function arguments in [C][call by value in C] and [Java][call by value in Java] are strictly passed on as parameters to the called function _only by value_ | True or false? Read the [tutorial][call by value tutorial]
 |Call by reference | Pass by reference | When functions are called with arguments that are either pointers (C) or references (C++) | True or false? **TBD**
 
 [call by value in Java]: http://buff.ly/2g98GBN
+[call by value tutorial]: http://javapapers.com/core-java/java-pass-by-value-and-pass-by-reference/
 [call by value in C]: http://j.mp/callByValueC
 
-![DoBetter](https://drive.google.com/uc?id=0Bwu4iGPfYEufejRhb2pMQl85eG8)
 
 ### Code Quiz
 
@@ -217,5 +217,8 @@ With reference to Line 24, the output will be:
 4. Any one of the above
 	 
 	 > Spoiler Alert: http://stackoverflow.com/a/3524270/307454
- 
- 
+
+
+### Closing
+
+![DoBetter](https://drive.google.com/uc?id=0Bwu4iGPfYEufejRhb2pMQl85eG8)
