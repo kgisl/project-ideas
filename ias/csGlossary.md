@@ -20,6 +20,10 @@ But **why**? Inspired by
 |Function    | a combination of [constructs][Constructs] referred to as "steps" that implement a specific algorithm |
 |Input       | data (a set of variables) that is provided to a function to generate the output, can be represented as a Graph |
 |Output      | The return value _(s)_ of a function, can be represented as a Graph |
+|Bounded Queue| A queue limited to a fixed number of items|
+|Circular Queue| An implementation of a bounded queue using an array.|
+|Hash Function| A function that maps keys to integers, usually to get an even distribution on a smaller set of values.|
+|Binary Tree| A specific type of tree data structure in which each node has at most two subtrees, one left and one right.|
 |Complexity| Computer science also is about optimization; efficient use of time and space; Space and time complexity analysis; [Big O Notation]
 
 ### Trends
@@ -46,7 +50,8 @@ _Theory influences design; design influences programming._
 |Code Optimization|A method of code modification to improve code quality and efficiency|
 |TDD | Test driven development, an important coding skill that is recommended for fresh talent that is entering the industry |
 |API | Application Programming Interface, the implementation of an algorithm in a specific language/technology; The API in the [APIs Are Eating The World]
-|Memory| Physical entities (bits, nibbles, CPU registers, cache, RAM, disk, tape) that help store and retrieve data 
+|Memory| Physical entities (bits, nibbles, CPU registers, cache, RAM, disk, tape) that help store and retrieve data
+|Aggregate| An array or a struct without a constructor.| 
 
 ### Interesting! 
 | Term          | Description |
