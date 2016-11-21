@@ -149,6 +149,6 @@ With reference to `Line 24`, the output will be:
 
 ### What next?
 
-Conceptual understanding of Pointers (_aka_ **indirection**, is one of the 7 fundamental constructs http://j.mp/constructAnalogy) is best achieved by doing a lot of pointer problems. For a good problem set, try this one [here](http://bit.ly/pointerKITE). 
+Conceptual understanding of Pointers (_aka_ **indirection**, is one of the 7 fundamental constructs http://j.mp/constructAnalogy) is best achieved by doing a lot of pointer problems. For a good problem set, try this one here at http://bit.ly/pointerKITE. 
 
 ![DoBetter](https://drive.google.com/uc?id=0Bwu4iGPfYEufejRhb2pMQl85eG8)
