@@ -21,11 +21,12 @@
 |Valid pointer assignments | - | Assigning a pointer variable to another pointer variable | If pA and pB are pointer variables, `pA = pB;`  |
 |Pass by value | Call by value | Function arguments in [C][call by value in C] and [Java][call by value in Java] are strictly passed on as parameters to the called function _only by value_ | True or false? Read the [tutorial][call by value tutorial]
 |Call by reference | Pass by reference | When functions are called with arguments that are either pointers (C) or references (C++) | True or false? **TBD**
+|Reference | reference variable | An alias for another variable that cannot be re-assigned (C++). Primarily introduced to allow for [operator overloading][operator overloading why?]. | `int a; int& b = a;` 
 
 [call by value in Java]: http://buff.ly/2g98GBN
 [call by value tutorial]: http://javapapers.com/core-java/java-pass-by-value-and-pass-by-reference/
 [call by value in C]: http://j.mp/callByValueC
-
+[operator overloading why?]:  http://www.stroustrup.com/bs_faq2.html#pointers-and-references
 
 ### Code Quiz
 
