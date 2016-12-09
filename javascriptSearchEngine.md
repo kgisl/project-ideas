@@ -4,5 +4,5 @@ http://www.brettb.com/BuildingAJavaScriptSearchEngine.asp
 
 https://www.youtube.com/watch?v=Go3P73-KV30&feature=youtu.be&t=2253 
 
-Use the Node4js as visualization tool. 
+Use the Neo4j as visualization tool. 
 
