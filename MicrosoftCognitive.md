@@ -1,6 +1,6 @@
 ### Q and A Bot using Microsoft Cognitive Service
 
-A bare-bones prototype is available at https://github.com/kgashok/shiny-waffle
+A bare-bones prototype is available at https://github.com/kgashok/shiny-waffle  
 It consumes the API provided https://qnamaker.ai/
 
 #### Ideas for extension
