@@ -13,7 +13,7 @@ But **why**? Inspired by
 | Term          | Description |
 |---------------|:------------|
 |Computer Science | is the study of special type of functions (a.k.a. Algorithms) |
-|Problem Solving| The ultimate goal of computer scientists |
+|Problem Solving| The ultimate goal of computer scientists. It is the most desired skill up until 2020 http://j.mp/top10Skills |
 |Algorithm   |  a _solution_ to a problem; a step-by-step list of instructions for solving any instance of the problem that might arise; is a special form of function (a mapping); is the [data model]? |
 |Data | The generic name for input and output that is provided to a function, represented usually by a combination of special cases of a Graph, from single variable to linear and non-linear data structures |
 |Graph       | the most general purpose description of representing data for an algorithm; an abstract data type; An example of one of [the simplest types of graphs is a singly linked list]!|
