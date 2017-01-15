@@ -1,6 +1,6 @@
 # Computer Science Glossary
 
-**tl;dr 0** -  Computer Science is the study of money making Algorithms  
+**tl;dr 0** -  Computer Science is the study of how to build money making Algorithms  
 **tl;dr 1** -  [Algorithm is a Mapping] = Functional Mapping of Input Data (graph ADT) to Output Data (graph ADT)  
 **tl;dr 2** -  "[Practically everything (_including an algorithm_) is a Graph.][Everything is a graph]"
 
