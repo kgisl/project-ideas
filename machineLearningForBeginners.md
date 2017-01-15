@@ -8,3 +8,7 @@ https://miguelgfierro.com/blog/2016/a-gentle-introduction-to-the-basics-of-machi
 # Inroduction to NLP in Python 
 
 https://github.com/miguelgfierro/sciblog_support/blob/master/Intro_to_NLP_with_fastText/Intro_to_NLP.ipynb
+
+# Parity in Speech Recognition 
+
+http://blogs.microsoft.com/next/2016/10/18/historic-achievement-microsoft-researchers-reach-human-parity-conversational-speech-recognition/#sm.001owgk2n627efc10bp28d5a8c1dy
