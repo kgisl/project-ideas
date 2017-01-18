@@ -16,3 +16,7 @@ http://blogs.microsoft.com/next/2016/10/18/historic-achievement-microsoft-resear
 
 # Machine learning book in Python 
 https://drive.google.com/file/d/0Bwu4iGPfYEufcERvcldacnVWaWM/view?usp=sharing
+
+# Rules of Machine Learning 
+
+http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf
