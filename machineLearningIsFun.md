@@ -2,7 +2,7 @@
 
 “Machine Learning is Fun!” by @ageitgey https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.q60ne358a
 
-## 6 Part series 
+## 6 Part series - all in Python! 
 - https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.q60ne358a
 - https://medium.com/@ageitgey/machine-learning-is-fun-part-2-a26a10b68df3#.l1s42vsmx
 - https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721#.l9z90kq11
