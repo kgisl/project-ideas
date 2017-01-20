@@ -1,3 +1,7 @@
+### Machine Learning from Facebook 
+http://www.infoworld.com/article/3159120/artificial-intelligence/facebook-brings-gpu-powered-machine-learning-to-python.html
+
+
 ### Machine Learning using Python, Caffe
 
 https://github.com/humphd/have-fun-with-machine-learning
