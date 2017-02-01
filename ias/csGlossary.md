@@ -1,6 +1,6 @@
 # Computer Science Glossary
 
-**tl;dr 0** -  Computer Science is the study of how to build money making Algorithms  
+**tl;dr 0** -  Computer Science is the study of money making Algorithms  
 **tl;dr 1** -  [Algorithm is a Mapping] = Functional Mapping of Input Data (graph ADT) to Output Data (graph ADT)  
 **tl;dr 2** -  "[Practically everything (_including an algorithm_) is a Graph.][Everything is a graph]"
 
@@ -13,7 +13,7 @@ But **why**? Inspired by
 | Term          | Description |
 |---------------|:------------|
 |Computer Science | is the study of special type of functions (a.k.a. Algorithms) |
-|Problem Solving| The ultimate goal of computer scientists. It is the most desired skill up until 2020 http://j.mp/top10Skills |
+|Problem Solving| The ultimate goal of computer scientists |
 |Algorithm   |  a _solution_ to a problem; a step-by-step list of instructions for solving any instance of the problem that might arise; is a special form of function (a mapping); is the [data model]? |
 |Data | The generic name for input and output that is provided to a function, represented usually by a combination of special cases of a Graph, from single variable to linear and non-linear data structures |
 |Graph       | the most general purpose description of representing data for an algorithm; an abstract data type; An example of one of [the simplest types of graphs is a singly linked list]!|
@@ -35,7 +35,7 @@ _Theory influences design; design influences programming._
 |Design Pattern| In software engineering, a design pattern is a general repeatable solution (_a.k.a._ algorithm) to a commonly occurring problem in software design. A design pattern isn't a finished design that can be transformed directly into code. It is a description or template for how to solve a problem that can be used in many different situations. |
 |**MVC** Pattern | MVC Pattern stands for Model-View-Controller Pattern. This pattern is used to separate application's concerns. Model - Model represents an object or JAVA POJO carrying data. It can also have logic to update controller if its data changes.|
 |Unified Modeling Language| **UML** is a common language for business analysts, software architects and developers used to describe, specify, design, and document existing or new business processes, structure and behavior of artifacts of software systems. An example of a [MVC diagram](#mvc-uml) is provided below.|
-|Object| Objects are the coupling of Function and Data 
+|Object| Objects are the coupling of Function and Data; A region of storage with associated semantics. After the declaration `int i;` we say that "i is an object of type int." In OO/C++, "object" usually means "an instance of a class." Thus a class defines the behavior of possibly many objects (instances). In other words, a class is a blueprint based on which objects are created. 
 |OOP _(PDS-2)_| Object oriented programming concepts including encapsulation, inheritance and [polymorphism](http://bit.ly/PolyVideoKG) ; by way of an example, here's a C++ STL graph implementation for a [family tree](http://www.boost.org/doc/libs/1_62_0/libs/graph/example/family-tree-eg.cpp)
 |Data Structure _(PDS_1)_| Specific programming structures used for implementing abstract data type like a [graph] ADT; an array, a linked list, a hashmap; here are some new [functional data structures](http://bit.ly/functionalDS)|
 |[Constructs] _(FOCP)_ | Building blocks of a program - there are 7 fundamental ones (variables, sequences, selection, repetition, function (aka sub-routines), indirection and recursion); and then there are [31 variants]
