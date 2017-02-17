@@ -39,7 +39,7 @@
 |            	| Haripriya.M              	|                                                               	|                                       	|
 |            	| Jeevitha.R               	|                                                               	|                                       	|
 |            	| Elango.G                 	|                                                               	|                                       	|
-| 11         	| Gokul Prasath.S          	| Cuba Based Taxi Management System                                                           	| https://github.com/gitUserid/repoName 	|
+| 11         	| Gokul Prasath.S          	| Tenant Management System                                                           	| https://github.com/GokulPrasath/project	|
 |            	| Devishree.A              	|                                                               	|                                       	|
 |            	| Illakiya Priya.P         	|                                                               	|                                       	|
 |            	| Mahalakshmi.J            	|                                                               	|                                       	|
