@@ -27,8 +27,8 @@
 | 7          	| Saranya.G                	| IOT                                                           	| https://github.com/gitUserid/repoName 	|
 |            	| Kaviya.P                 	|                                                               	|                                       	|
 |            	| Ashok.I                  	|                                                               	|                                       	|
-|            	| Elangovan.E              	|                                                               	| https://github.com/gitUserid/repoName 	|
-| 8          	| Dhaarnish.R.S            	| IOT                                                           	|                                       	|
+|            	| Elangovan.E              	|                                                               	|https://github.com/kiruba555 	|
+| 8          	| Dhaarnish.R.S            	| Library Management System                                                           	|                                       	|
 |            	| Boopathy Raj.T           	|                                                               	|                                       	|
 |            	| Keerthana.B              	|                                                               	|                                       	|
 |            	| Kiruba.A                 	|                                                               	|                                       	|
@@ -43,7 +43,7 @@
 |            	| Devishree.A              	|                                                               	|                                       	|
 |            	| Illakiya Priya.P         	|                                                               	|                                       	|
 |            	| Mahalakshmi.J            	|                                                               	|                                       	|
-| 12         	| Keerthana.K              	| Cuba based taxi management software                           	| https://github.com/gitUserid/repoName 	|
+| 12         	| Keerthana.K              	| Cuba based taxi management software                           	| https://github.com/AngaviBalraj/Cuba-project	|
 |            	| Angavi.B                 	|                                                               	|                                       	|
 |            	| Liniee Thabita.W         	|                                                               	|                                       	|
 |            	| Krishnaveni.M            	|                                                               	|                                       	|
@@ -52,7 +52,7 @@
 |            	| Rajadhurai.S             	|                                                               	|                                       	|
 |            	| Sarulatha.G              	|                                                               	|                                       	|
 |            	| Subhikshaa.K             	|                                                               	|                                       	|
-| 15         	| Niranjan.A.J             	| Citizen Voice-Android app                                     	| https://github.com/gitUserid/repoName 	|
+| 15         	| Niranjan.A.J             	| Citizen Voice-Android app                                     	| https://github.com/Niranjanaj 	|
 |            	| Nivedha.S                	|                                                               	|                                       	|
 |            	| Sangeetha.J              	|                                                               	|                                       	|
 |            	| Vinithkumar.G            	|                                                               	|                                       	|
@@ -60,7 +60,7 @@
 |            	| Sureshkumar.G            	|                                                               	|                                       	|
 |            	| Rajamegam.G              	|                                                               	|                                       	|
 |            	| Swathiga,Devi.P          	|                                                               	|                                       	|
-| 17         	| Suriya.S.K               	| IOT                                                           	| https://github.com/gitUserid/repoName 	|
+| 17         	| Suriya.S.K               	| Facebook Bot                                                        	| https://github.com/SuriyaJin 	|
 |            	| Padma,Priya.A            	|                                                               	|                                       	|
 |            	| Sindooja.M               	|                                                               	|                                       	|
 |            	| Sarath,Kumar.P           	|                                                               	|                                       	|
@@ -85,7 +85,7 @@
 |            	| Priyankaalamelu.R        	|                                                               	|                                       	|
 |            	| Shivadharsani.S          	|                                                               	|                                       	|
 |            	| Muthu,Nivas .R           	|                                                               	|                                       	|
-| 23         	| Rishab.M                 	| Pharmacy,app-android                                          	| https://github.com/gitUserid/repoName 	|
+| 23         	| Rishab.M                 	| Pharmacy,app-android                                          	| https://github.com/vijayalakshmipl/Pharmacy- 	|
 |            	| Pavithra.M               	|                                                               	|                                       	|
 |            	| Vijayalakshmi.P.L        	|                                                               	|                                       	|
 |            	| Sindhuja.B               	|                                                               	|                                       	|
