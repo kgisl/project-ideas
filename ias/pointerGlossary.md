@@ -10,7 +10,7 @@
 |Item | Interchangeable with | Description | Example |
 |:----------|:----------:|:------------|:-------------------|
 |Pointer	| A value; memory location address |A valid memory location value in hexadecimal | `0x400694`|
-|Pointer variable | Pointer | a variable type that can be initialized _only_ with a memory address (_a.k.a._ **Pointer**) of other variables and not an integer (say decimal **2220**) | int* **pA**; pA = &a; | 
+|Pointer variable | Pointer | a variable type that can be initialized _only_ with a memory address (_a.k.a._ **Pointer**) of other variables and not an integer (for e.g. decimal **2220**) | int* **pA**; pA = &a; | 
 |Pointer type | Data type | refers to the type of the data retrieved or stored when *de-referencing* (using the `*` operator) a pointer variable | **int*** p; **char*** c; **float*** f;  | 
 |Integer pointer | Integer Pointer Variable | When *de-referencing* (using the `*` operator) is used with the variable, it stores integer in the memory location | **int*** pInteger; *pInteger = 300;   | 
 |Memory location value | Memory Address | Any physical memory location which can be accessed by the CPU | Any hexadecimal number between a range, say 0x1000 -> 0x10000 |
