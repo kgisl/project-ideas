@@ -1,4 +1,6 @@
 import Markdown 
+import Html exposing (li, text, ul, div)
+
 
 type alias Filter = 
   { divisor : Int, 
@@ -30,13 +32,18 @@ applyFilters filters number =
     else 
       res
 
+viewElement element = 
+  li [] [ text element]
 
 main = 
   let     
     output  = 
       List.range 1 110
         |> List.map (applyFilters inputFilters) 
-        |> toString 
+        -- |> toString 
+        |> List.map viewElement
  
   in
-    Markdown.toHtml [] output
+    -- Markdown.toHtml [] output
+    ul [] output 
+ 
