@@ -1,5 +1,5 @@
-import Graphics.Element exposing (..) 
-   
+import Markdown 
+
 type alias Filter = 
   { divisor : Int, 
     string : String
@@ -31,10 +31,12 @@ applyFilters filters number =
       res
 
 
-main: Element
 main = 
   let     
     output  = 
-      List.map (applyFilters inputFilters) [1..110]   
-  in 
-    output |> List.map show |> flow down
+      List.range 1 110
+        |> List.map (applyFilters inputFilters) 
+        |> toString 
+ 
+  in
+    Markdown.toHtml [] output
