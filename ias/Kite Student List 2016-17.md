@@ -1,7 +1,7 @@
 
 | Batch Name 	| Student Name             	| Project Name                                                  	| Repository Name                       	|
 |------------	|--------------------------	|---------------------------------------------------------------	|---------------------------------------	|
-| 1          	| Ganga.M                  	| Daily reporting tool android app                              	|https://github.com/karthickmanian/DailyReportingTools 	|
+| 1          	| Ganga.M                  	| Daily reporting tool android app                              	|https://github.com/Kiruthikakumar05/Daily_Reporting_Tool 	|
 |            	| Kiruthika.K              	|                                                               	|                                       	|
 |            	| Karthickmanian.S         	|                                                               	|                                       	|
 | 2          	| Jayesh,Solanki           	| App for Corporation Public Service                         	| https://github.com/solankijayesh/CPS_App 	|
@@ -20,14 +20,14 @@
 |            	| Bhargav.A                	|                                                               	|                                       	|
 |            	| Indhumathi.R             	|                                                               	|                                       	|
 |            	| Madhanmohanprasanth.M    	|                                                               	|                                       	|
-| 6          	| Kousika.G                	| Purchase and Inventory System - OpenERP                       	| https://github.com/KousikaGanesh/Purchase_and_Inventory_System 	|
+| 6          	| Kousika.G                	| Purchase and Inventory System - OpenERP                       	| https://github.com/KousikaGanesh/purchaseandInventory	|
 |            	| Deepika.G                	|                                                               	|                                       	|
 |            	| Manasha Devi.V           	|                                                               	|                                       	|
 |            	| Kalai Sushmitha.R        	|                                                               	|                                       	|
-| 7          	| Saranya.G                	| IOT                                                           	| https://github.com/gitUserid/repoName 	|
+| 7          	| Saranya.G                	| Asset Management System with Auditing Network PC's using Cuba                                                           	| https://github.com/AshokI 	|
 |            	| Kaviya.P                 	|                                                               	|                                       	|
 |            	| Ashok.I                  	|                                                               	|                                       	|
-|            	| Elangovan.E              	|                                                               	|https://github.com/kiruba555 	|
+|            	| Elangovan.E              	|                                                               	|https://github.com/Dhaar/dhaarr 	|
 | 8          	| Dhaarnish.R.S            	| Library Management System                                                           	|                                       	|
 |            	| Boopathy Raj.T           	|                                                               	|                                       	|
 |            	| Keerthana.B              	|                                                               	|                                       	|
@@ -39,11 +39,11 @@
 |            	| Haripriya.M              	|                                                               	|                                       	|
 |            	| Jeevitha.R               	|                                                               	|                                       	|
 |            	| Elango.G                 	|                                                               	|                                       	|
-| 11         	| Gokul Prasath.S          	| Tenant Management System                                                           	| https://github.com/GokulPrasath/project	|
+| 11         	| Gokul Prasath.S          	| Tenant information portal for city police web app using Laravel PHP                                                          	| https://github.com/GokulPrasath/Tenant-Information-Portal-for-city-police	|
 |            	| Devishree.A              	|                                                               	|                                       	|
 |            	| Illakiya Priya.P         	|                                                               	|                                       	|
 |            	| Mahalakshmi.J            	|                                                               	|                                       	|
-| 12         	| Keerthana.K              	| Cuba based taxi management software                           	| https://github.com/AngaviBalraj/Cuba-project	|
+| 12         	| Keerthana.K              	| Cuba based taxi management software                           	| https://github.com/AngaviBalraj/Taxi	|
 |            	| Angavi.B                 	|                                                               	|                                       	|
 |            	| Liniee Thabita.W         	|                                                               	|                                       	|
 |            	| Krishnaveni.M            	|                                                               	|                                       	|
@@ -52,7 +52,7 @@
 |            	| Rajadhurai.S             	|                                                               	|                                       	|
 |            	| Sarulatha.G              	|                                                               	|                                       	|
 |            	| Subhikshaa.K             	|                                                               	|                                       	|
-| 15         	| Niranjan.A.J             	| Citizen Voice-Android app                                     	| https://github.com/Niranjanaj 	|
+| 15         	| Niranjan.A.J             	| Citizen Voice-Android app                                     	| https://github.com/Niranjanaj/project 	|
 |            	| Nivedha.S                	|                                                               	|                                       	|
 |            	| Sangeetha.J              	|                                                               	|                                       	|
 |            	| Vinithkumar.G            	|                                                               	|                                       	|
@@ -60,20 +60,19 @@
 |            	| Sureshkumar.G            	|                                                               	|                                       	|
 |            	| Rajamegam.G              	|                                                               	|                                       	|
 |            	| Swathiga,Devi.P          	|                                                               	|                                       	|
-| 17         	| Suriya.S.K               	| Facebook Bot                                                        	| https://github.com/SuriyaJin 	|
+| 17         	| Suriya.S.K               	| Facebook Bot                                                        	| https://github.com/SuriyaJin/FacebookBot	|
 |            	| Padma,Priya.A            	|                                                               	|                                       	|
 |            	| Sindooja.M               	|                                                               	|                                       	|
 |            	| Sarath,Kumar.P           	|                                                               	|                                       	|
-| 18         	| Sudharsan.R              	| Presence Monitoring System                                            	| https://github.com/Sudharsanrajendran/PresenceMonitoringSystem
-|
+| 18         	| Sudharsan.R              	| Presence Monitoring System                                      | https://github.com/Sudharsanrajendran/PresenceMonitoringSystem |
 |            	| Naga,Santosh.S           	|                                                               	|                                       	|
 |            	| Vinitha.R                	|                                                               	|                                       	|
 |            	| Pavithra.K               	|                                                               	|                                       	|
-| 19         	| Tamilarasan.V            	| BackToCollege-App for alumni students -Android                	| https://github.com/gitUserid/repoName 	|
+| 19         	| Tamilarasan.V            	| BackToCollege-App for alumni students -Android                	| https://github.com/tamilarasanvr/Back-To-College-App-for-alunmi	|
 |            	| Sharon.R                 	|                                                               	|                                       	|
 |            	| Sathishkumar.V           	|                                                               	|                                       	|
 |            	| Lavanya.P                	|                                                               	|                                       	|
-| 20         	| Mariya Sabatiny.J        	| Expense Manager-app Android                                   	| https://github.com/VanmathyS/ExpenseManager 	|
+| 20         	| Mariya Sabatiny.J        	| Expense Manager-app Android                                   	| https://github.com/VanmathyS/ExpenseManager	|
 |            	| Vanmathy.S               	|                                                               	|                                       	|
 |            	| Ragul .G                 	|                                                               	|                                       	|
 |            	| Pavithra.B               	|                                                               	|                                       	|
@@ -93,7 +92,7 @@
 |            	| Soundarya,Devi.D         	|                                                               	|                                       	|
 |            	| Ragavi,Priya . S         	|                                                               	|                                       	|
 |            	| Sangeetha.S              	|                                                               	|                                       	|
-| 25         	| Uma,Supriya.P            	| Grievance Management,System Web application,using Laravel Php 	| https://github.com/gitUserid/repoName 	|
+| 25         	| Uma,Supriya.P            	| Grievance Management,System Web application,using Laravel Php 	| https://github.com/BhuviBhuvaneswari/Cloud_Cloder	|
 |            	| Safeek.S                 	|                                                               	|                                       	|
 |            	| Revathi.G                	|                                                               	|                                       	|
 |            	| Buvaneswari.N            	|                                                               	|                                       	|
