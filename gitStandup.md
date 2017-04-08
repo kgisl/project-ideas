@@ -6,5 +6,5 @@ https://dev.to/ben/git-standup-how-did-i-ever-live-without-you
 
 https://github.com/kamranahmedse/git-standup
 
-## Customize it for KGISL 
+## Customize it for KGISL using Elm?
 
