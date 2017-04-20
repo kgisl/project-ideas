@@ -1,0 +1,8 @@
+## Use Blockchain to generate EMR 
+
+https://github.com/blockstack
+
+https://medium.com/mit-media-lab-digital-currency-initiative/medrec-electronic-medical-records-on-the-blockchain-c2d7e1bc7d09
+
+https://www.media.mit.edu/research/groups/1454/medrec
+
