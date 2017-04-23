@@ -1,4 +1,4 @@
-##Pointers 
+## Pointers 
 
 Conceptual understanding of Pointers (_aka_ **indirection**, is one of the 7 fundamental constructs http://j.mp/constructAnalogy) is best achieved by doing a lot of pointer problems. For a good problem set, try this one [here](http://bit.ly/pointerKITE). 
 
