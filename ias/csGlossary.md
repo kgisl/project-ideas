@@ -15,6 +15,7 @@ But **why**? Inspired by
 |Computer Science | is the study of special type of functions (a.k.a. Algorithms) |
 |Problem Solving| The ultimate goal of computer scientists |
 |Algorithm   |  a _solution_ to a problem; a step-by-step list of instructions for solving any instance of the problem that might arise; is a special form of function (a mapping); is the [data model]? |
+|Abstraction | Layers "hidden under the hood" to simplify the solution development; An email send request from application layer is handled by the series of network layers under the hood. The programmer only uses an interface(function call) from the layer below without knowing its implementation details. You can build/expand the features of one layer without affecting other. Abstraction is the cleaner way to arrange/build the complex system in layers. |
 |Data | The generic name for input and output that is provided to a function, represented usually by a combination of special cases of a Graph, from single variable to linear and non-linear data structures |
 |Graph       | the most general purpose description of representing data for an algorithm; an abstract data type; An example of one of [the simplest types of graphs is a singly linked list]!|
 |Function    | a combination of [constructs][Constructs] referred to as "steps" that implement a specific algorithm |
