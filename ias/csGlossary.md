@@ -50,7 +50,6 @@ _Theory influences design; design influences programming._
 |API | Application Programming Interface, the implementation of an algorithm in a specific language/technology; The API in the [APIs Are Eating The World]
 |Memory| Physical entities (bits, nibbles, CPU registers, cache, RAM, disk, tape) that help store and retrieve data |
 |Internet | The internetwork (internet) of machines enables the interaction between anything (human-machine/machine-machine/human-human) from anywhere at anytime. The internet extends your memory unlimited. With the internet, you can access ‘everything’. |
-|Three laws | The computing capacity doubles every 18 months (Moore). The storage capacity doubles every 12 months (Kryder). The internet bandwidth doubles every 24 months (Nielsen).|
 
 ### Interesting! 
 | Term          | Description |
@@ -63,6 +62,7 @@ _Theory influences design; design influences programming._
 |Why Structural Programming?| It is a precursor to OOP. **Edsger W.Dijkstra** pervasively used [Structurpoal Programming] as a way to avoid [spaghetti code]. It is a logical thinking approach to solve a problem in all areas by applying decomposition to generate a hierarchical structure.|
 |Why Functional Programming?| The latest (and final?) paradigm shift to  take advantage of the Utility computing era (aka Cloud Computing) which provides tremendous computing power on tap at exceptionally low cost compared to ownership.
 |Functional programming|  is a programming paradigm that conceives computation as the evaluation of mathematical functions and avoids state and mutable data. Functional programming emphasizes the application of functions, in contrast to imperative programming, which emphasizes changes in state and the execution of sequential commands. Functional programming is defined more by a set of common concerns and themes than any list of distinctions from other paradigms. Often considered important are higher-order and first-class functions, closures, and recursion. Other common features of functional programming languages are continuations, Hindley-Milner type inference systems, non-strict evaluation (including, but not limited to, "laziness"), and monads. |
+|Three laws | The computing capacity doubles every 18 months (Moore). The storage capacity doubles every 12 months (Kryder). The internet bandwidth doubles every 24 months (Nielsen).|
 
 ### Examples of other useful glossaries
 - [Pointer specific](https://github.com/kgisl/project-ideas/blob/master/ias/pointerGlossary.md)
@@ -110,4 +110,3 @@ _Theory influences design; design influences programming._
 [Syracuse Algorithm]: http://mathworld.wolfram.com/CollatzProblem.html
 [Structural Programming]: https://www.computer.org/csdl/mags/co/1981/03/01667281.pdf
 [spaghetti code]: https://en.wikipedia.org/wiki/Spaghetti_code 
-
