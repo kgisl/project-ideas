@@ -48,7 +48,8 @@ _Theory influences design; design influences programming._
 |Code Optimization|A method of code modification to improve code quality and efficiency|
 |TDD | Test driven development, an important coding skill that is recommended for fresh talent that is entering the industry |
 |API | Application Programming Interface, the implementation of an algorithm in a specific language/technology; The API in the [APIs Are Eating The World]
-|Memory| Physical entities (bits, nibbles, CPU registers, cache, RAM, disk, tape) that help store and retrieve data 
+|Memory| Physical entities (bits, nibbles, CPU registers, cache, RAM, disk, tape) that help store and retrieve data
+|Three laws | The computing capacity doubles every 18 months (Moore). The storage capacity doubles every 12 months (Kryder). The internet bandwidth doubles every 24 months (Nielsen).|
 
 ### Interesting! 
 | Term          | Description |
