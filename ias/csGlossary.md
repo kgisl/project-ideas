@@ -28,7 +28,7 @@ But **why**? Inspired by
 | Term          | Description |
 |---------------|:------------|
 |Machine Learning (ML) | A branch of statistics and computer science; Data mining, one of the categories of ML is enabled by Knowledge Discovery in Data (KDD) which refers to the broad process (_a.k.a._ algorithmic patterns) of finding knowledge (_a.k.a._ patterns) in the Input dataset |
-|Artifical Intelligence (AI) | Computational algorithms that intend to replicate human intelligence and, ideally, improve upon it. http://j.mp/marketingAI |
+|Artifical Intelligence (AI) | Computational algorithms that intend to replicate human intelligence and, ideally, improve upon it. For example, http://j.mp/marketingAI |
 
 ### Programming Related 
 _Theory influences design; design influences programming._
