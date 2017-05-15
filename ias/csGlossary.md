@@ -5,7 +5,7 @@
 **tl;dr 2** -  "[Practically everything (_including an algorithm_) is a Graph.][Everything is a graph]"
 
 But **why**? Inspired by 
- - An example of one of [the simplest types of graphs is a singly linked list!]...and to reinforce this I found this:
+- An example of one of [the simplest types of graphs is a singly linked list!]...and to reinforce this I found this:
 	 - ![Image](https://ece.uwaterloo.ca/~dwharder/aads/Abstract_data_types/images/ADT.png)
 
  - From [ZeroToHero] in 60 minutes in Computer Science 
@@ -27,7 +27,8 @@ But **why**? Inspired by
 ### Trends
 | Term          | Description |
 |---------------|:------------|
-|Machine Learning (ML) | A branch of statistics and computer science; Data mining, one of the categories of ML is enabled by Knowledge Discovery in Data (KDD) which refers to the broad process (_a.k.a._ algorithmic patterns) of finding knowledge (_a.k.a._ patterns) in the Input dataset
+|Machine Learning (ML) | A branch of statistics and computer science; Data mining, one of the categories of ML is enabled by Knowledge Discovery in Data (KDD) which refers to the broad process (_a.k.a._ algorithmic patterns) of finding knowledge (_a.k.a._ patterns) in the Input dataset |
+|Artifical Intelligence (AI) | Computational algorithms that intend to replicate human intelligence and, ideally, improve upon it. http://j.mp/marketingAI |
 
 ### Programming Related 
 _Theory influences design; design influences programming._
@@ -38,6 +39,7 @@ _Theory influences design; design influences programming._
 |**MVC** Pattern | MVC Pattern stands for Model-View-Controller Pattern. This pattern is used to separate application's concerns. Model - Model represents an object or JAVA POJO carrying data. It can also have logic to update controller if its data changes.|
 |Unified Modeling Language| **UML** is a common language for business analysts, software architects and developers used to describe, specify, design, and document existing or new business processes, structure and behavior of artifacts of software systems. An example of a [MVC diagram](#mvc-uml) is provided below.|
 |Object| Objects are the coupling of Function and Data; A region of storage with associated semantics. After the declaration `int i;` we say that "i is an object of type int." In OO/C++, "object" usually means "an instance of a class." Thus a class defines the behavior of possibly many objects (instances). In other words, a class is a blueprint based on which objects are created. 
+|Abstraction | Layers "hidden under the hood" to simplify the solution development; An email send request from application layer is handled by the series of network layers under the hood. The programmer only uses an interface(function call) from the layer below without knowing its implementation details. You can build/expand the features of one layer without affecting other. Abstraction is the cleaner way to arrange/build the complex system in layers. |
 |OOP _(PDS-2)_| Object oriented programming concepts including encapsulation, inheritance and [polymorphism](http://bit.ly/PolyVideoKG) ; by way of an example, here's a C++ STL graph implementation for a [family tree](http://www.boost.org/doc/libs/1_62_0/libs/graph/example/family-tree-eg.cpp)
 |Data Structure _(PDS_1)_| Specific programming structures used for implementing abstract data type like a [graph] ADT; an array, a linked list, a hashmap; here are some new [functional data structures](http://bit.ly/functionalDS)|
 |[Constructs] _(FOCP)_ | Building blocks of a program - there are 7 fundamental ones (variables, sequences, selection, repetition, function (aka sub-routines), indirection and recursion); and then there are [31 variants]
@@ -48,7 +50,8 @@ _Theory influences design; design influences programming._
 |Code Optimization|A method of code modification to improve code quality and efficiency|
 |TDD | Test driven development, an important coding skill that is recommended for fresh talent that is entering the industry |
 |API | Application Programming Interface, the implementation of an algorithm in a specific language/technology; The API in the [APIs Are Eating The World]
-|Memory| Physical entities (bits, nibbles, CPU registers, cache, RAM, disk, tape) that help store and retrieve data 
+|Memory| Physical entities (bits, nibbles, CPU registers, cache, RAM, disk, tape) that help store and retrieve data |
+|Internet | The internetwork (internet) of machines enables the interaction between anything (human-machine/machine-machine/human-human) from anywhere at anytime. The internet extends your memory unlimited. With the internet, you can access ‘everything’. |
 
 ### Interesting! 
 | Term          | Description |
@@ -62,6 +65,7 @@ _Theory influences design; design influences programming._
 |Why Structural Programming?| It is a precursor to OOP. **Edsger W.Dijkstra** pervasively used [Structurpoal Programming] as a way to avoid [spaghetti code]. It is a logical thinking approach to solve a problem in all areas by applying decomposition to generate a hierarchical structure.|
 |Why Functional Programming?| The latest (and final?) paradigm shift to  take advantage of the Utility computing era (aka Cloud Computing) which provides tremendous computing power on tap at exceptionally low cost compared to ownership.
 |Functional programming|  is a programming paradigm that conceives computation as the evaluation of mathematical functions and avoids state and mutable data. Functional programming emphasizes the application of functions, in contrast to imperative programming, which emphasizes changes in state and the execution of sequential commands. Functional programming is defined more by a set of common concerns and themes than any list of distinctions from other paradigms. Often considered important are higher-order and first-class functions, closures, and recursion. Other common features of functional programming languages are continuations, Hindley-Milner type inference systems, non-strict evaluation (including, but not limited to, "laziness"), and monads. |
+|Three laws | The computing capacity doubles every 18 months (Moore). The storage capacity doubles every 12 months (Kryder). The internet bandwidth doubles every 24 months (Nielsen).|
 
 ### Examples of other useful glossaries
 - [Pointer specific](https://github.com/kgisl/project-ideas/blob/master/ias/pointerGlossary.md)
@@ -109,4 +113,3 @@ _Theory influences design; design influences programming._
 [Syracuse Algorithm]: http://mathworld.wolfram.com/CollatzProblem.html
 [Structural Programming]: https://www.computer.org/csdl/mags/co/1981/03/01667281.pdf
 [spaghetti code]: https://en.wikipedia.org/wiki/Spaghetti_code 
-
