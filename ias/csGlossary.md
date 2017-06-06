@@ -49,6 +49,7 @@ _Theory influences design; design influences programming._
 |Pseudocode| Pseudocode is an informal high-level description of a computer program (_a.k.a_ algorithm). It uses the structural conventions of a normal programming language, but is intended for human reading rather than machine reading. Variable declarations, system specific code and some subroutines are omitted. |
 |Code Optimization|A method of code modification to improve code quality and efficiency|
 |TDD | Test driven development, an important coding skill that is recommended for fresh talent that is entering the industry |
+|Drill Down| The act of focusing in, to get the information needed (through drill down the database)
 |API | Application Programming Interface, the implementation of an algorithm in a specific language/technology; The API in the [APIs Are Eating The World]
 |Memory| Physical entities (bits, nibbles, CPU registers, cache, RAM, disk, tape) that help store and retrieve data |
 |Internet | The internetwork (internet) of machines enables the interaction between anything (human-machine/machine-machine/human-human) from anywhere at anytime. The internet extends your memory unlimited. With the internet, you can access ‘everything’. |
