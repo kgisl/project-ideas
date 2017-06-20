@@ -1,3 +1,9 @@
+# Related link 
+
+http://ravimohan.blogspot.in/2007/04/learning-from-sudoku-solvers.html
+
+```python
+
 # Code from Norvig's sudoku solver 
 
 ## Solve Every Sudoku Puzzle
@@ -201,3 +207,6 @@ if __name__ == '__main__':
 ## http://www.sudokudragon.com/sudokustrategy.htm
 ## http://www.krazydad.com/blog/2005/09/29/an-index-of-sudoku-strategies/
 ## http://www2.warwick.ac.uk/fac/sci/moac/currentstudents/peter_cock/python/sudoku/
+
+```
+
