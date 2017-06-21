@@ -18,3 +18,9 @@ http://textminingonline.com/getting-started-with-keyword-extraction
 https://github.com/turian/kea-service
 
 https://link.springer.com/chapter/10.1007/978-3-319-20910-4_18
+
+http://www.cs.waikato.ac.nz/ml/weka/book.html
+
+Online Free Text Extraction services 
+
+http://recremisi.blogspot.in/p/online-term-extractors.html
