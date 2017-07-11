@@ -2,14 +2,14 @@
 
 ![Image](https://drive.google.com/uc?id=0Bwu4iGPfYEufWVlRTmg1SlB5OWMyV2xOZ0gwamxqN2tlM3pJ)
 
-### Pointer vs Integers 
+### Integers and Integer variables (known) 
 |Item | Interchangeable with  | Description | Example |
 |:----------|:----------:|:------------|:-------------------|
 |Integer	| Whole number | Any whole number value from 1 to 100000| 9930
 |Integer variable | - | a variable type that can be initialized with _only_ a decimal value, e.g. **2220**) | int a_variable = 2220; | 
 
 
-### Other Pointer concepts 
+### Pointers and pointer variables (Unknown)
 
 |Item | Interchangeable with | Description | Example |
 |:----------|:----------:|:------------|:-------------------|
