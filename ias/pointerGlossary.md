@@ -2,7 +2,11 @@
 
 ![Image](https://drive.google.com/uc?id=0Bwu4iGPfYEufWVlRTmg1SlB5OWMyV2xOZ0gwamxqN2tlM3pJ)
 
-### Integers and Integer variables (known) 
+Very important counter-perspective to read:   
+  - "I think the main barrier to understanding pointers is bad teachers." http://bit.ly/pointersAndBadTeachers  
+  - The Pointer conspiracy - http://bit.ly/pointerConspiracy
+
+### Integers and Integer variables (Known) 
 |Item | Interchangeable with  | Description | Example |
 |:----------|:----------:|:------------|:-------------------|
 |Integer	| Whole number | Any whole number value from 1 to 100000| 9930
