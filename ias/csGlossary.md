@@ -87,7 +87,7 @@ _Theory influences design; design influences programming._
 
 ### MISC NOTES 
 
-####The persuasion for Functional Programming  
+#### The persuasion for Functional Programming  
 - Binary search shows you will find the right person within 17 selections across a 1,000,000 million address book 
 - The analysis of the Rubik's cube using graphs recently revealed that there is always a solution with 21 moves (or less) regardless of the cube's initial state....amazing isn't it?
 - Whatsapp - Erlang is at the core of it  
