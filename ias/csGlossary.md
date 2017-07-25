@@ -1,14 +1,14 @@
 **Table of Contents**
 
 * [Computer Science Glossary](#computer-science-glossary)  
-		* [Conceptual](#conceptual)  
-		* [Trends](#trends)  
-		* [Programming Related](#programming-related)  
-		* [Interesting!](#interesting)  
-		* [Examples of other useful glossaries](#examples-of-other-useful-glossaries)  
-		* [MISC NOTES](#misc-notes)  
-			* [The persuasion for Functional Programming](#the-persuasion-for-functional-programming)  
-			* [MVC-UML](#mvc-uml)  
+	* [Conceptual](#conceptual)  
+	*  [Trends](#trends)  
+	* [Programming Related](#programming-related)  
+	* [Interesting!](#interesting)  
+	* [Examples of other useful glossaries](#examples-of-other-useful-glossaries)  
+	* [MISC NOTES](#misc-notes)  
+		* [The persuasion for Functional Programming](#the-persuasion-for-functional-programming)  
+		* [MVC-UML](#mvc-uml)  
 
 # Computer Science Glossary
 
