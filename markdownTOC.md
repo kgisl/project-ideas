@@ -1,12 +1,4 @@
 
-**Table of Contents**
-
-* [Generate ToC](#generate-toc)  
-	* [The Challenge](#the-challenge)  
-	* [Additional Notes for Solution](#additional-notes)  
-	* [Example](#example)  
-* [Guidelines](#guidelines)  
-
 
 # Generate ToC 
 
