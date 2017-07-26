@@ -1,7 +1,7 @@
 
 # Generate ToC 
 
-**Skills Required**:  HTML, CSS and Javascript and basic familiarity with the Markdown format.
+**Skills Required**:  HTML, CSS and Javascript and basic familiarity (especially headers) with the Markdown format.
 
 ## The Challenge 
 
