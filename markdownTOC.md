@@ -38,6 +38,6 @@ The gist page (https://gist.github.com/kgashok/1be5157b5c2225b5948cc73d153bf531)
 ## Guidelines
 
 - Finding existing solutions/projects/tools (open source or otherwise) and re-purposing them to achieve the below objective is highly encouraged. Don't reinvent something that is also working well. 
-- Hack on something that already works but not perfectly well 
-
+- Hack on something that already works but has some quirks and does not match what is exactly required 
+- Simplify the problem to something that you think you can get going right away
 
