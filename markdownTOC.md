@@ -1,4 +1,13 @@
 
+**Table of Contents**
+
+* [Generate ToC](#generate-toc)  
+	* [The Challenge](#the-challenge)  
+	* [Additional Notes](#additional-notes)  
+	* [Example](#example)  
+	* [Guidelines](#guidelines)  
+
+
 # Generate ToC 
 
 **Skills Required**:  HTML, CSS and Javascript and basic familiarity (especially headers) with the Markdown format. 
@@ -28,5 +37,7 @@ The gist page (https://gist.github.com/kgashok/1be5157b5c2225b5948cc73d153bf531)
 
 ## Guidelines
 
-Finding existing solutions/projects/tools (open source or otherwise) and re-purposing them to achieve the below objective is highly encouraged. Don't reinvent something that is also working well. 
+- Finding existing solutions/projects/tools (open source or otherwise) and re-purposing them to achieve the below objective is highly encouraged. Don't reinvent something that is also working well. 
+- Hack on something that already works but not perfectly well 
+
 
