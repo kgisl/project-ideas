@@ -35,7 +35,7 @@ The gist page (https://gist.github.com/kgashok/1be5157b5c2225b5948cc73d153bf531)
 
 > ![tocImage](https://files.gitter.im/kgisl/campsite/wkDQ/Screenshot-2017-07-26-at-13.45.33.png)
 
-## Guidelines
+# Guidelines
 
 - Finding existing solutions/projects/tools (open source or otherwise) and re-purposing them to achieve the below objective is highly encouraged. Don't reinvent something that is also working well. 
 - Hack on something that already works but has some quirks and does not match what is exactly required 
