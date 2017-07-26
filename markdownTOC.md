@@ -40,17 +40,17 @@ The **ToC** in the above image is based on the markdown code that is to be gener
 **Table of Contents**
 
 * [Pointers](#pointers)  
-	* [Integers and Integer variables (Known)](#integers-and-integer-variables-known)  
-	* [Pointers and pointer variables (Unknown)](#pointers-and-pointer-variables-unknown)  
-	* [Code Quiz](#code-quiz)  
-		* [Quiz 1  - Pointer basics](#quiz-1----pointer-basics)  
-		* [Quiz 2  - Pointer basics](#quiz-2----pointer-basics)  
-		* [Quiz 3  - Swap using Pointers](#quiz-3----swap-using-pointers)  
-		* [Quiz 4  - Bug Finder](#quiz-4----bug-finder)  
-		* [Quiz 5  - Printer Arithmetic](#quiz-5----printer-arithmetic)  
-			* [Question 5.1](#question-51)  
-			* [Question 5.2](#question-52)  
-	* [What next?](#what-next)  
+  * [Integers and Integer variables (Known)](#integers-and-integer-variables-known)  
+  * [Pointers and pointer variables (Unknown)](#pointers-and-pointer-variables-unknown)  
+  * [Code Quiz](#code-quiz)  
+    * [Quiz 1  - Pointer basics](#quiz-1----pointer-basics)  
+    * [Quiz 2  - Pointer basics](#quiz-2----pointer-basics)  
+    * [Quiz 3  - Swap using Pointers](#quiz-3----swap-using-pointers)
+    * [Quiz 4  - Bug Finder](#quiz-4----bug-finder)  
+    * [Quiz 5  - Printer Arithmetic](#quiz-5----printer-arithmetic) 
+      * [Question 5.1](#question-51)  
+      * [Question 5.2](#question-52)  
+    * [What next?](#what-next)  
 ```
 
 
