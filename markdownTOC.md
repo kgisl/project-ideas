@@ -1,6 +1,11 @@
 
 # Generate ToC 
 
+Approach this individually or as a team. Deadline: Aug 1, 2017
+
+Skills Required:  HTML, CSS and Javascript and some familiarity with the header format in Markdown. 
+
+Prize: KGISL **Bronze Badge** and upto Rs 2,500 for a workable solution 
 
 ## The Challenge 
 
