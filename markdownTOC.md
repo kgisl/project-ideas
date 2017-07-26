@@ -1,13 +1,11 @@
 
 # Generate ToC 
 
-Approach this individually or as a team. Deadline: Aug 1, 2017
-
-Skills Required:  HTML, CSS and Javascript and some familiarity with the header format in Markdown. 
-
-Prize: KGISL **Bronze Badge** and upto Rs 2,500 for a workable solution 
+**Skills Required**:  HTML, CSS and Javascript and familiarity with the Markdown format.
 
 ## The Challenge 
+
+**Prize:** KGISL **Bronze Badge** and upto Rs 2,500 for a working solution. Approach this individually or as a team. **Deadline: Aug 15, 2017**
 
 - It is quite straightforward to generate a table of contents (ToC) in Microsoft Word. Take a look at this video here -  http://bit.ly/gitHubFCC 
 
