@@ -5,7 +5,7 @@
 	* [The Challenge](#the-challenge)  
 	* [Additional Notes](#additional-notes)  
 	* [Example](#example)  
-	* [Guidelines](#guidelines)  
+* [Guidelines](#guidelines)  
 
 
 # Generate ToC 
