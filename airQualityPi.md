@@ -73,7 +73,7 @@ Their presentation is available at http://j.mp/airPiKG
 ### Setting up a Raspberry Pi to provide data on the web 
 http://antrikshy.com/blog/make-raspberry-pi-accessible-over-web-arch-linux
 
-###Other Information
+### Other Information  
 http://indiatoday.intoday.in/education/story/chennai-air-quality-index-on-twitter/1/649648.html
 
 This can be installed using the USD 5.00 Raspberry Pis in many places. 
@@ -84,7 +84,7 @@ A worthy project.
 https://www.udemy.com/hands-on-internet-of-things-raspberry-pi/learn/v4/t/lecture/4701948
 
 
-###Project Leads 
+### Project Leads 
  - Team_A - Sudharsan R (KITE, 2017) and Advik G (PSG, 2020)
  - Team_B - Who else wants to do this? 
 
