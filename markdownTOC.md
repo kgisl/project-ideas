@@ -19,6 +19,6 @@
 
 ## Example 
 
-The gist page (https://gist.github.com/kgashok/1be5157b5c2225b5948cc73d153bf531) has a table of contents, which is what we need to create for the given page. 
+The gist page (https://gist.github.com/kgashok/1be5157b5c2225b5948cc73d153bf531) has a table of contents, which is what we need to create based on any given page (wiki, md file or gist file on **github**). 
 
 > ![tocImage](https://files.gitter.im/kgisl/campsite/wkDQ/Screenshot-2017-07-26-at-13.45.33.png)
