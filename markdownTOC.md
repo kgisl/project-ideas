@@ -64,3 +64,6 @@ The **ToC** in the above image is based on the markdown code that is to be gener
 - Hack on something that already works but has some quirks and does not match what is exactly required 
 - Simplify the problem to something that you think you can get going right away
 
+## A suggested approach
+
+Bookmarklets help "extend" the browser to do something _extra_ when you are surfing to a particular website. Take a look at one of the ways to accomplish this TOC challenge using bookmarklets - http://bit.ly/tocChallengeVideo
