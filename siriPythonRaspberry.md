@@ -7,3 +7,4 @@ https://thereallycoolstuff.wordpress.com/2017/04/29/siricontrol-a-voice-control-
 
 https://github.com/theraspberryguy/SiriControl-System
 
+https://thereallycoolstuff.wordpress.com/about/
