@@ -1,13 +1,14 @@
 # CyberDojo: Design for Deliberate Programming Practice 
 
-[**KovaiPy**](http://kovaipy.org/) invites you to talk on "CyberDojo: Design for Deliberate Programming Practice" by Jon Jagger, Software Consultant (UK) on Aug 19 at 2pm at KGISL Institute of Technology (2nd floor, Administration Block). He will talk about 
+[**KovaiPy**](http://kovaipy.org/) invites you to presentation on "CyberDojo: Design for Deliberate Programming Practice" by Jon Jagger, Software Consultant (UK) on Aug 19 at **2pm-3pm** at KGISL Institute of Technology (2nd floor, Administration Block), KGISL Campus, Saravanampatti. The talk will be about
 
 - The design and evolution of Cyber-Dojo ( http://cyber-dojo.org)   
 	- Choice of technology stack; it was built using Docker, Ruby, Rails, and Git and hosted on Google Compute Engine
 - What is Deliberate Practice? What is a dojo? What is a cyber-dojo?   
 - Possible open source contribution by software researchers / developers / faculty / students 
 
-Immediately following his talk and a short tea break, there will be a 90-minute workshop on using CyberDojo to learn **Python and/or Java** (or both, based on time constraints). Currently, we are limiting the workshop to 50 participants (please bring your own laptops or borrow one, if you are a student, please send a request to pramyaen@gmail.com ASAP). Please reserve your tickets for both the talk and the workshop at https://www.meetup.com/KovaiPy/ 
+## Programming Workshop in CyberDojo
+Immediately following Jon's talk, there will be a 1.5 hour workshop on using CyberDojo to practice programming in **Python and/or Java** (or both, based on time constraints). Currently, we are limiting the workshop to 50 participants (please bring your own laptops or borrow one; if you are a student, please send a request to pramyaen@gmail.com as soon as possible). Please reserve your tickets for both the talk and the workshop at https://www.meetup.com/KovaiPy/ 
 
 
 # About Jon Jagger 
