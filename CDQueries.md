@@ -8,6 +8,7 @@
 4. How to put a wrapper for User Identification / Session tracking around CyberDojo 
 5. How to link up PythonTutor, and CloudCoder with CyberDojo
 6. Setting up various Javascript frameworks for legacy -> new paradigm of coding in JS
+7. Procedure for upgrading CyberDo when new release is available. As of during the update, the instance is corrupting or we have to start the fresh installation, because of which we couldn't retrieve old session.
 
 ## Student Project Ideas
 
