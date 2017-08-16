@@ -7,6 +7,14 @@
 3. Migrating from one version to the other - what is the recommended steps to do this
 4. How to put a wrapper for User Identification / Session tracking around CyberDojo 
 5. How to link up PythonTutor, and CloudCoder with CyberDojo
+6. Setting up various Javascript frameworks for legacy -> new paradigm of coding in JS
+
+## Student Project Ideas
+
+Assigned students and faculty can explore this alongside Jon Jagger on Sat and Sunday after the workshop
+
+  - Responsibility - Ramya, Ashok R
+
 
 
 
