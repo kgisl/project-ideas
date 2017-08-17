@@ -23,4 +23,3 @@ We are already in two categories. We should build momentum in those areas.
 @Ramya V like CoderDojo club, we must have a VirtualAssitant Club 
 (assign yourself + KITE/CAS student) and an RPA Club (assign Dushyanth + KITE/CAS student). 
 At least 3-4 teams must deliver projects in these areas. 
-
