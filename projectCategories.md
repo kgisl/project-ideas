@@ -19,7 +19,7 @@ execute a task or a process.
 Currently used in interactive voice response systems and mobile applications. 
 **Sample vendors**: NICE, Nuance Communications, OpenText, Verint Systems.
 
-We are already in two categories. We should build momentum in those areas. 
-@Ramya V like CoderDojo club, we must have a VirtualAssitant Club 
-(assign yourself + KITE/CAS student) and an RPA Club (assign Dushyanth + KITE/CAS student). 
+We are already in three AI categories. We should build momentum in those areas. 
+A VirtualAssitant Club (assign yourself + KITE/CAS student) and an RPA Club (assign Dushyanth + KITE/CAS student). 
+
 At least 3-4 teams must deliver projects in these areas. 
