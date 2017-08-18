@@ -15,8 +15,13 @@
 Assigned students and faculty can explore this alongside Jon Jagger on Sat and Sunday after the workshop
 
   - Responsibility - Ramya, Ashok R
+  
 
-
-
+  - Student Team from IT
+      -- Himanshu
+      -- Pavithran
+      -- Nilavan
+      -- Vallilikannu
+ - Faculty Lead : Joel Anandraj
 
   
