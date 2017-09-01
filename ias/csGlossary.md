@@ -36,6 +36,9 @@ But **why**? Inspired by
 | Output      | The return value _(s)_ of a function, can be represented as a Graph |
 | Complexity| Computer science also is about optimization; efficient use of time and space; Space and time complexity analysis; [Big O Notation]
 
+
+**VVIP is Algorithm:** An algorithm is a well defined procedure for performing a task. A household example of an algorithm is a recipe -- for example, the list of ingredients together with the sequence of instructions needed to bake a pie. In order for a computer to perform a task, it needs ingredients -- the **data** -- and instructions -- the **algorithm**.
+
 ## Trends
 | Term          | Description |
 |---------------|:------------|
