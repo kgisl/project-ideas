@@ -1,3 +1,12 @@
+# Promises instead of Callbacks
+
+j.mp/usePromiseInsteadOfCallbacks - Unless you know how to code Callbacks in Javascript,   
+you have not understood the language enough...
+and then you have Promises! (one of my favourite P words!)
+
+https://medium.com/@bluepnume/even-with-async-await-you-probably-still-need-promises-9b259854c161
+
+
 ### MasterClass on Callbacks 
 kgisl/A-Tale-Of-Three-ListsA-Tale-Of-Three-Lists
 
