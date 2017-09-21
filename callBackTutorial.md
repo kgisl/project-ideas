@@ -6,6 +6,8 @@ and then you have Promises! (one of my favourite P words!)
 
 https://medium.com/@bluepnume/even-with-async-await-you-probably-still-need-promises-9b259854c161
 
+Existing abstractions using Promises - https://github.com/kgisl/promise-fun
+
 
 ### MasterClass on Callbacks 
 kgisl/A-Tale-Of-Three-ListsA-Tale-Of-Three-Lists
