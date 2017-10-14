@@ -12,3 +12,5 @@
 | Onsite Support          |               |         |            |             |
 | Offline Support         |               |         |            |             |
 | Opensource Contribution |               |         |            |             |
+
+*Note:* First year students will be given oppuritinuty to explore other efforts based on their interest, which will help to categorize the students on specfic domain. And they will be provided oppurtiny in specfic domain from seond year.
