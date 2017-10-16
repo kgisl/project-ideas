@@ -17,8 +17,7 @@
 | Offline Support         |               |         |            |             |
 | Opensource Contribution |               |         |            |             |
 
-*Note:* First year students will be given opportunity to explore other efforts based on their interest, which will help to categorize the students on specific domain. And they will be provided opportunity in specific domain from second year.
-
+*Note:* First-year students will be given the opportunity to explore other efforts based on their interest, which will help to categorize the students on the specfic domain. And they will be provided opportunity in the specfic domain from the second year.
 
 ## Specific Projects
 
