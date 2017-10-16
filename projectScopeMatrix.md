@@ -4,6 +4,7 @@
 | Banking                 |               |         |            |             |
 | Finance                 |               |         |            |             |
 | Healthcare              |               |         |            |             |
+| Insurance               |               |         |            |             |
 | RPA                     |               |         |            |             |
 | AI & Chatbot            |               |         |            |             |
 | Call Taxi Management    |               |         |            |             |
