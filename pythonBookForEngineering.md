@@ -2,3 +2,4 @@
 
 http://pymbook.readthedocs.io/en/latest/index.html
 
+Use Gitbook instead? It will be easier for editing?
