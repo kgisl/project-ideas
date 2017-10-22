@@ -3,3 +3,4 @@
 https://lym.readthedocs.io/en/latest/
 
 Use GitBook instead? Easier to edit? 
+Better to stick with RST - https://en.wikipedia.org/wiki/ReStructuredText#Applications
