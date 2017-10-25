@@ -12,3 +12,7 @@ https://github.com/dvf/blockchain
 
 Use Docker to run the Blockchain as well 
 
+
+For balance, read
+
+https://hackernoon.com/blockchains-dont-scale-not-today-at-least-but-there-s-hope-2cb43946551a
