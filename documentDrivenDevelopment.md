@@ -12,11 +12,11 @@ https://gist.github.com/zsup/9434452
 
 So, the preferred order of operations for new features:
 
-Write documentation
-Get feedback on documentation
-Test-driven development (where tests align with documentation)
-Push features to staging
-Functional testing on staging, as necessary
-Deliver feature
-Publish documentation
-Increment versions
+- Write documentation  
+- Get feedback on documentation
+- Test-driven development (where tests align with documentation)
+- Push features to staging
+- Functional testing on staging, as necessary
+- Deliver feature
+- Publish documentation
+- Increment versions
