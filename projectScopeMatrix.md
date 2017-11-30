@@ -23,3 +23,22 @@
 ## Specific Projects
 
 - Education / Testing - CloudCoder (https://medium.com/@eliasnogueira/trust-your-pipeline-automatically-testing-an-end-to-end-java-application-4a33232180c3) 
+
+
+| Entites/Efforts         | Domain Experts |
+|:------------------------|:--------------|
+|    -                    |               | 
+| Banking                 |               |
+| Finance                 |               |
+| Healthcare              | Sivaraj       |
+| Insurance               | Yukthika      |
+| Education               | Sivaraj , RR  |
+| RPA                     |               |
+| AI & Chatbot            |               |
+| Call Taxi Management    | Jayaraj       |
+| ERP (Manufacturing)     | Dinesh,Gopi       |
+| ERP (Construction)      |  Karthika, Sengottuvelu             |
+| Onsite Support          |   Arjun(Witronics)            |
+| Offline Support         |               |
+| Opensource Contribution |               |
+| Data Analytics          |  Sunil             |
