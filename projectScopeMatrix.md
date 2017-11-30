@@ -28,17 +28,18 @@
 | Entites/Efforts         | Domain Experts |
 |:------------------------|:--------------|
 |    -                    |               | 
-| Banking                 |               |
-| Finance                 |               |
+| Banking                 | Raj Baalaji,Rajkumar,AlexVinoRaj    |
+| Finance                 | Sukrutha Kini |
 | Healthcare              | Sivaraj       |
 | Insurance               | Yukthika      |
 | Education               | Sivaraj , RR  |
-| RPA                     |               |
-| AI & Chatbot            |               |
+| RPA                     |  Arun, Murugesh |
+| AI & Chatbot            |    YTD        |
 | Call Taxi Management    | Jayaraj       |
-| ERP (Manufacturing)     | Dinesh,Gopi       |
+| ERP (Manufacturing)     | Dinesh,Gopi   
 | ERP (Construction)      |  Karthika, Sengottuvelu             |
 | Onsite Support          |   Arjun(Witronics)            |
 | Offline Support         |               |
 | Opensource Contribution |               |
 | Data Analytics          |  Sunil             |
+
