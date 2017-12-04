@@ -30,4 +30,4 @@
 | 28     	| Machine Learning + React Native migration of Call Taxi                            	| Vignesh (Facebook Circle) 	| Call Taxi Mgmt    	|
 | 29     	| Devops Implementation using Ansible                                               	| Karthik (Cisco)           	| Devops            	|
 | 30     	| Smart Parking Implementation                                                      	| Arjun (Wiitronics)        	| Onsite support    	|
-| 31     	|                                                                                   	|                           	|                   	|
+| 31     	|  Cyberdojo - a second download option from the dashboard page.                                                                                 	|            Jon Jagger (cyber-dojo)               	|       Opensource Contribution            	|
