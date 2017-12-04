@@ -22,14 +22,14 @@ Very important counter-perspective to read:
   - "I think the main barrier to understanding pointers is bad teachers." http://bit.ly/pointersAndBadTeachers  
   - The Pointer conspiracy - http://bit.ly/pointerConspiracy
 
-### Integers and Integer variables (Known) 
+### Integers and Integer variables (_Known_) 
 |Item | Interchangeable with  | Description | Example |
 |:----------|:----------:|:------------|:-------------------|
 |Integer	| Whole number | Any whole number value from 1 to 100000| 9930
 |Integer variable | - | a variable type that can be initialized with _only_ a decimal,(e.g. **2220**) or octal or hexadecimal value | int a_variable = 2220; | 
 
 
-### Pointers and pointer variables (Unknown)
+### Pointers and pointer variables (_Unknown_)
 
 |Item | Interchangeable with | Description | Example |
 |:----------|:----------:|:------------|:-------------------|
