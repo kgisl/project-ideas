@@ -2,9 +2,9 @@
 
 
 
-# G.sudhakar
+# Project Coordinator : G Sudhakar
 
-S.Balamurugan (1st year mech) & R.Barath raj(1st year CSE)
+# Students name: S.Balamurugan (1st year mech) & R.Barath raj(1st year CSE)
 
 |Task| 	Status|
 |:-----|:-------------|
