@@ -26,7 +26,7 @@ Very important counter-perspective to read:
 |Item | Interchangeable with  | Description | Example |
 |:----------|:----------:|:------------|:-------------------|
 |Integer	| Whole number | Any whole number value from 1 to 100000| 9930
-|Integer variable | - | a variable type that can be initialized with _only_ a decimal value, e.g. **2220**) | int a_variable = 2220; | 
+|Integer variable | - | a variable type that can be initialized with _only_ a decimal,(e.g. **2220**) or octal or hexadecimal value | int a_variable = 2220; | 
 
 
 ### Pointers and pointer variables (Unknown)
