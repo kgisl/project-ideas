@@ -20,8 +20,9 @@
 | 18     	| Commission charges suggestion model                                               	| Sunil                     	| DA                	|
 | 19     	| Portfolio prediction based on external events                                     	| Sunil                     	| DA                	|
 | 20     	| Tax saving vs Returns suggestion model                                            	| Sunil                     	| DA                	|
-| 21    	| Implementation of Non - Motor insurance                                           	| Yukthika                  	| Insurance         	|
-| 22     	| Implementation of Motor insurance                                                 	| Yukthuka                  	| Insurance         	|
+| 21    	| Nsure Motor Policy Issuance System
+                                          	| Yukthika                  	| Insurance         	|
+| 22     	| Nsure Personal Accident Policy Issuance System                                                 	| Yukthuka                  	| Insurance         	|
 | 23     	| Construction ERP implementation                                                   	| Karthika , Gopi           	| ERP               	|
 | 24     	| Manufacturing ERP (PO & inventory)                                                	| Dinesh Kumar              	| ERP               	|
 | 25     	| Manufacturing ERP (Machine Shop)                                                  	| Dinesh Kumar              	| ERP               	|
@@ -31,3 +32,4 @@
 | 29     	| Devops Implementation using Ansible                                               	| Karthik (Cisco)           	| Devops            	|
 | 30     	| Smart Parking Implementation                                                      	| Arjun (Wiitronics)        	| Onsite support    	|
 | 31     	|  Cyberdojo - a second download option from the dashboard page.                                                                                 	|            Jon Jagger (cyber-dojo)               	|       Opensource Contribution            	|
+| 32     	|  Nsure Fire Policy Issuance System                                                                                 	|            Yukthika             	|       Insurance            	|
