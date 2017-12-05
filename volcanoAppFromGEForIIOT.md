@@ -9,3 +9,10 @@ https://github.com/PredixDev/predix-volcano-app
 I only mentioned it in passing, but the 12-factor app concept is explained here:
 https://12factor.net/
 
+## Demo 
+
+https://www.ge.com/digitalvolcano/
+
+## The Actual App
+
+https://volcano-app.run.aws-usw02-pr.ice.predix.io/
