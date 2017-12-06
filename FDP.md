@@ -6,14 +6,14 @@
 |------|----------------|------------------------------|--------------|
 | 1    | Anvar          | Datastructure                | C            |
 | 2    | Selvavinayagam | Cryptography                 | C            |
-|      | MadhuRamya     | Network                      | Java         |
-|      | Rajasekaran    | Threading                    | Java, Python |
-|      | Mervin         | Date and Time                | C, Python    |
-|      | Shirley        | Network                      | Java, C      |
-|      | Archana        | Text                         | C            |
-|      | Joel Anandraj  | Data Compression& Archieving | C, Python    |
-|      | Dhanalakshmi   | Mathematics                  | Python       |
-|      | Nandhini       | Datastructure                | Java         |
+| 3    | MadhuRamya     | Network                      | Java         |
+| 4     | Rajasekaran    | Threading                    | Java, Python |
+| 5     | Mervin         | Date and Time                | C, Python    |
+| 6     | Shirley        | Network                      | Java, C      |
+| 7    | Archana        | Text                         | C            |
+| 8    | Joel Anandraj  | Data Compression& Archieving | C, Python    |
+| 9     | Dhanalakshmi   | Mathematics                  | Python       |
+| 10     | Nandhini       | Datastructure                | Java         |
 |      |                |                              |              |
 |      |                |                              |              |
 |      |                |                              |              |
