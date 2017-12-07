@@ -32,4 +32,10 @@
 | 30   | Devops Implementation using Ansible                                              | Karthi (Cisco)     | Devops            |
 | 31   | Smart Parking Implementation                                                     | Arjun (Wiitronics) | Onsite support    |
 | 32   | Cyberdojo - a second download option from the dashboard page.                    | Jon Jagger         | OS Contribution   |
-| 33   |                                                                                  |                    |                   |
+| 33   | Hospital Management System (HMS)                                                 |  Sivaraj & Team       | Healthcare                |
+| 34   | Doctor App (IO/IP, Discharged patient details, Appointment Details               |  Sivaraj & Team       | Healthcare                |
+| 35   | Patient Apps (Visit history,Investigation history,Book Appointment,Select Check In)|  Sivaraj & Team       | Healthcare                |
+| 36  | Internal test (CIA,Model) Paper valuation by using scanned copy of answer sheet|  Sivaraj & Team       | Education               |
+| 37   | Student Attendance by taking photo ( whole class group Photograph) using mobile|  Sivaraj & Team       | Education               |
+| 38   | Mobile application for Ecampus Modules                                         |  Sivaraj & Team       | Education               |
+
