@@ -5,5 +5,7 @@ The municipalty corporation(admin) may then use this data to clear trash and cle
 
 ### Version 2.0: 
 
-Consolidate photo feeds from multiple channels such as corporation's facebook webpage and/or twitter handle.
+Consolidate photo feeds from multiple channels such as corporation's facebook webpage (or specific webpage) 
+and/or twitter handle.
+
 Import the picture only if the image is about garbage (using keyword matching and/or AI). 
