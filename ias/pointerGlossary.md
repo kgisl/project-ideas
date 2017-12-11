@@ -108,7 +108,7 @@ void swap(int *q,int *p)  // definition of swap
 int main ()
 {
     int *a = get_a_number();   
-	int *b = get_a_number();   
+    int *b = get_a_number();   
     int  c = *get_a_number();  
     int  d = *get_a_number();  
 
