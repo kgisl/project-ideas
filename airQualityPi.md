@@ -1,3 +1,22 @@
+**Table of Contents**
+
+* [Air Quality Sensors and reporting through Twitter](#air-quality-sensors-and-reporting-through-twitter)  
+		* [Why Air Pollution?](#why-air-pollution)  
+		* [Mobile Air Quality](#mobile-air-quality)  
+		* [Pi crosses 10 million](#pi-crosses-10-million)  
+		* [Omega 2 or Pi Zero?](#omega-2-or-pi-zero)  
+		* [Misc](#misc)  
+		* [Use Scale to get temperature from Raspberry Pi](#use-scale-to-get-temperature-from-raspberry-pi)  
+* [Smart City Hackathon Effort](#smart-city-hackathon-effort)  
+		* [Setting up a Raspberry Pi to provide data on the web](#setting-up-a-raspberry-pi-to-provide-data-on-the-web)  
+		* [Other Information](#other-information)  
+		* [Online hands-on Learning Material](#online-hands-on-learning-material)  
+		* [Project Leads](#project-leads)  
+		* [Timelines:](#timelines)  
+		* [Getting Started](#getting-started)  
+		* [Links](#links)  
+
+
 # Air Quality Sensors and reporting through Twitter
 
 http://www.urbanemissions.info/about/
@@ -59,7 +78,7 @@ Their presentation is available at http://j.mp/airPiKG
 ### Setting up a Raspberry Pi to provide data on the web 
 http://antrikshy.com/blog/make-raspberry-pi-accessible-over-web-arch-linux
 
-###Other Information
+### Other Information  
 http://indiatoday.intoday.in/education/story/chennai-air-quality-index-on-twitter/1/649648.html
 
 This can be installed using the USD 5.00 Raspberry Pis in many places. 
@@ -70,7 +89,7 @@ A worthy project.
 https://www.udemy.com/hands-on-internet-of-things-raspberry-pi/learn/v4/t/lecture/4701948
 
 
-###Project Leads 
+### Project Leads 
  - Team_A - Sudharsan R (KITE, 2017) and Advik G (PSG, 2020)
  - Team_B - Who else wants to do this? 
 
