@@ -7,8 +7,9 @@
 		* [Interesting!](#interesting)  
 		* [Examples of other useful glossaries](#examples-of-other-useful-glossaries)  
 		* [MISC NOTES](#misc-notes)  
-			* [The persuasion for Functional Programming](#the-persuasion-for-functional-programming)  
+		  * [The persuasion for Functional Programming](#the-persuasion-for-functional-programming)  
 			* [MVC-UML](#mvc-uml)  
+
 
 
 # Computer Science Glossary
@@ -24,7 +25,7 @@ But **why**? Inspired by
  - From [ZeroToHero] in 60 minutes in Computer Science 
  - [What is Computer Science?] - as part of student orientation on **day 1** of college
 
-### Conceptual
+## Conceptual
 | Term          | Description |
 |---------------|:------------|
 | Computer Science | is the study of special type of functions (a.k.a. Algorithms) |
@@ -37,13 +38,16 @@ But **why**? Inspired by
 | Output      | The return value _(s)_ of a function, can be represented as a Graph |
 | Complexity| Computer science also is about optimization; efficient use of time and space; Space and time complexity analysis; [Big O Notation]
 
-### Trends
+
+**VVIP is Algorithm:** An algorithm is a well defined procedure for performing a task. A household example of an algorithm is a recipe -- for example, the list of ingredients together with the sequence of instructions needed to bake a pie. In order for a computer to perform a task, it needs ingredients -- the **data** -- and instructions -- the **algorithm**.
+
+## Trends
 | Term          | Description |
 |---------------|:------------|
 | Machine Learning (ML) | A branch of statistics and computer science; Data mining, one of the categories of ML is enabled by Knowledge Discovery in Data (KDD) which refers to the broad process (_a.k.a._ algorithmic patterns) of finding knowledge (_a.k.a._ patterns) in the Input dataset. **In other words, ML is all about patterns (in the form of functions) finding other patterns (in data)**. *“The more data, the better the algorithms. And the better the algorithms, the better the quality of service offered by Amazon, Facebook or Google. This is the positive feedback law of machine learning. Previous sources of market power have been patents (Xerox), network externalities (IBM) and government regulations and franchises (AT&T). All of these still matter, of course, in the age of the internet. But machine learning as a source of competitive advantage adds another, technological driver whereby those whose offerings — for whatever initial reason — achieve market leadership are endowed with an amplifying ability continuously to improve their relative market position.”* - read more at https://medium.economist.com/will-big-data-create-a-new-untouchable-business-elite-8dc23bcaa7cb |
 | Artifical Intelligence (AI) | Computational algorithms that intend to replicate human intelligence and, ideally, improve upon it. For example, http://j.mp/marketingAI |
 
-### Programming Related 
+## Programming Related 
 _Theory influences design; design influences programming._
 
 | Term          | Description |
@@ -66,7 +70,7 @@ _Theory influences design; design influences programming._
 | Memory| Physical entities (bits, nibbles, CPU registers, cache, RAM, disk, tape) that help store and retrieve data |
 | Internet | The internetwork (internet) of machines enables the interaction between anything (human-machine/machine-machine/human-human) from anywhere at anytime. The internet extends your memory unlimited. With the internet, you can access ‘everything’. |
 
-### Interesting! 
+## Interesting! 
 | Term          | Description |
 |:---------------|:------------|
 | Algorithm Etymology| Etymologically, the word 'algorithm' is a combination of the Latin word `algorismus`, named after `Al-Khwarizmi`, a 9th-century Persian mathematician, and the Greek word `arithmo`, meaning "number"|
@@ -80,15 +84,15 @@ _Theory influences design; design influences programming._
 | Functional programming|  is a programming paradigm that conceives computation as the evaluation of mathematical functions and avoids state and mutable data. Functional programming emphasizes the application of functions, in contrast to imperative programming, which emphasizes changes in state and the execution of sequential commands. Functional programming is defined more by a set of common concerns and themes than any list of distinctions from other paradigms. Often considered important are higher-order and first-class functions, closures, and recursion. Other common features of functional programming languages are continuations, Hindley-Milner type inference systems, non-strict evaluation (including, but not limited to, "laziness"), and monads. |
 | Three laws | The computing capacity doubles every 18 months (Moore). The storage capacity doubles every 12 months (Kryder). The internet bandwidth doubles every 24 months (Nielsen).|
 
-### Examples of other useful glossaries
+## Examples of other useful glossaries
 - [Pointer specific](https://github.com/kgisl/project-ideas/blob/master/ias/pointerGlossary.md)
 - [OOP specific](https://drive.google.com/file/d/0Bwu4iGPfYEufd2htbEtqUThqRWM/view?usp=sharing)
 - [Programming specific](http://www.labautopedia.org/mw/List_of_programming_and_computer_science_terms)
 - [Simplified Computer Science Glossary](https://pdfs.semanticscholar.org/a6a4/0519cc0d2919a3d4818e103466cbe3a1ff3f.pdf) 
 
-### MISC NOTES 
+## MISC NOTES 
 
-####The persuasion for Functional Programming  
+### The persuasion for Functional Programming  
 - Binary search shows you will find the right person within 17 selections across a 1,000,000 million address book 
 - The analysis of the Rubik's cube using graphs recently revealed that there is always a solution with 21 moves (or less) regardless of the cube's initial state....amazing isn't it?
 - Whatsapp - Erlang is at the core of it  
@@ -104,7 +108,7 @@ _Theory influences design; design influences programming._
 
 ![MVC](https://rawgit.com/kgisl/project-ideas/master/ias/MVC-diagram.jpg)
 
-####MVC-UML  
+### MVC-UML  
 [Credit: MVC UML Diagram](https://www.tutorialspoint.com/design_pattern/images/mvc_pattern_uml_diagram.jpg)  
 
 ![MVC-UML](https://rawgit.com/kgisl/project-ideas/master/ias/mvc_pattern_uml_diagram.jpg)
