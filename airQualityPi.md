@@ -19,10 +19,15 @@
 
 # Air Quality Sensors and reporting through Twitter
 
+http://www.urbanemissions.info/about/
+
 Related projects: [Amazon's Alexa on Raspberry Pi] 
 
 Talk on IOT by Saravanan Theckyam (Tata Elexsi) -http://j.mp/hobbiesToRealWorld
 Using RaspberryPi to control fan for temperature - http://j.mp/raspberryFanController
+
+Coimbatore's smart bench - http://timesofindia.indiatimes.com/city/coimbatore/corpn-to-set-up-air-quality-monitors-launch-e-governance-apps-soon/articleshow/59209549.cms
+
 
 
 ### Why Air Pollution? 
