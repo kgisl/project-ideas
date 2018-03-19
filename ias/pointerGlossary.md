@@ -15,7 +15,7 @@
 **tl;dr 0** -  Computer Science is the study of money making Algorithms  
 **tl;dr 1** -  [Algorithm is a Mapping] = Functional Mapping of Input Data (graph ADT) to Output Data (graph ADT)  
 **tl;dr 2** -  "[Practically everything (_including an algorithm_) is a Graph.][Everything is a graph]"  
-- Learn Graph Theory interactively... https://mrpandey.github.io/d3graphTheory/
+- Learn Graph Theory interactively! https://mrpandey.github.io/d3graphTheory/
 
 But **why**? Inspired by 
 - An example of one of [the simplest types of graphs is a singly linked list!]...and to reinforce this I found this:
