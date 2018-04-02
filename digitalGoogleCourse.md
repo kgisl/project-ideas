@@ -2,5 +2,5 @@
 
 All online courses, which can be completed individually.
 
-j.mp/topicLibraryGoogle 
+http://j.mp/topicLibraryGoogle 
 
