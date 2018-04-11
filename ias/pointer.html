@@ -1,0 +1,487 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pointer fundamentals</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__left">
+    <div class="stackedit__toc">
+      
+<ul>
+<li><a href="#pointer-glossary">Pointer Glossary</a>
+<ul>
+<li><a href="#pointers">Pointers</a></li>
+<li><a href="#code-quiz">Code Quiz</a>
+<ul>
+<li></li>
+</ul>
+</li>
+<li><a href="#what-next">What next?</a></li>
+<li><a href="#pointer-camp--httpbit.lypointerkite">Pointer Camp  http://bit.ly/pointerKITE</a></li>
+</ul>
+</li>
+<li><a href="#lecture-notes">Lecture Notes</a>
+<ul>
+<li><a href="#lecture-notes-2">Lecture Notes 2</a></li>
+</ul>
+</li>
+<li><a href="#context">Context</a></li>
+</ul>
+
+    </div>
+  </div>
+  <div class="stackedit__right">
+    <div class="stackedit__html">
+      <p>Need a ToC? Visit <a href="http://j.mp/pointerFunda">http://j.mp/pointerFunda</a></p>
+<h1 id="pointer-glossary">Pointer Glossary</h1>
+<ul>
+<li>Take a look at <a href="http://j.mp/pointerGrok">http://j.mp/pointerGrok</a> as well.</li>
+<li>Take a look at the <a href="https://pebble.gitbooks.io/learning-c-with-pebble/content/chapter08.html">Pointer Chapter</a> on Pebble</li>
+</ul>
+<p><img src="https://imgs.xkcd.com/comics/pointers.png" alt="joke"></p>
+<p><strong>Table of Contents</strong></p>
+<ul>
+<li><a href="#pointers">Pointers</a>
+<ul>
+<li>
+<p><a href="#integers-and-integer-variables-known">Integers and Integer variables (Known)</a></p>
+</li>
+<li>
+<p><a href="#pointers-and-pointer-variables-unknown">Pointers and pointer variables (Unknown)</a></p>
+</li>
+<li>
+<p><a href="#code-quiz">Code Quiz</a></p>
+<ul>
+<li><a href="#quiz-1----pointer-basics">Quiz 1  - Pointer basics</a></li>
+<li><a href="#quiz-2----pointer-basics">Quiz 2  - Pointer basics</a></li>
+<li><a href="#quiz-3----swap-using-pointers">Quiz 3  - Swap using Pointers</a></li>
+<li><a href="#quiz-4----bug-finder">Quiz 4  - Bug Finder</a></li>
+<li><a href="#quiz-5----printer-arithmetic">Quiz 5  - Printer Arithmetic</a>
+<ul>
+<li><a href="#question-51">Question 5.1</a></li>
+<li><a href="#question-52">Question 5.2</a></li>
+</ul>
+</li>
+<li><a href="#quiz-6---mystery-function">Quiz 6  - Mystery</a></li>
+</ul>
+</li>
+<li>
+<p>Bug Fix</p>
+<ul>
+<li><a href="http://j.mp/bugFix1">http://j.mp/bugFix1</a>, <a href="http://j.mp/bugFix2">http://j.mp/bugFix2</a>, <a href="http://j.mp/bugFix3">http://j.mp/bugFix3</a> and <a href="http://j.mp/bugFix4">http://j.mp/bugFix4</a></li>
+</ul>
+</li>
+<li>
+<p><a href="#what-next">What next?</a></p>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="pointers">Pointers</h2>
+<p><img src="https://drive.google.com/uc?id=0Bwu4iGPfYEufWVlRTmg1SlB5OWMyV2xOZ0gwamxqN2tlM3pJ" alt="Image"></p>
+<p>Very important counter-perspective to read:</p>
+<ul>
+<li>“I think the main barrier to understanding pointers is bad teachers.” <a href="http://bit.ly/pointersAndBadTeachers">http://bit.ly/pointersAndBadTeachers</a></li>
+<li>The Pointer conspiracy - <a href="http://bit.ly/pointerConspiracy">http://bit.ly/pointerConspiracy</a></li>
+</ul>
+<h3 id="integers-and-integer-variables-known">Integers and Integer variables (<em>Known</em>)</h3>
+
+<table>
+<thead>
+<tr>
+<th align="left">Item</th>
+<th align="center">Interchangeable with</th>
+<th align="left">Description</th>
+<th align="left">Example</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">Integer</td>
+<td align="center">Whole number</td>
+<td align="left">Any whole number value from 1 to 100000</td>
+<td align="left">9930</td>
+</tr>
+<tr>
+<td align="left">Integer variable</td>
+<td align="center">-</td>
+<td align="left">a variable type that can be initialized with <em>only</em> a decimal,(e.g. <strong>2220</strong>) or octal or hexadecimal value</td>
+<td align="left">int a_variable = 2220;</td>
+</tr>
+</tbody>
+</table><h3 id="pointers-and-pointer-variables-unknown">Pointers and pointer variables (<em>Unknown</em>)</h3>
+
+<table>
+<thead>
+<tr>
+<th align="left">Item</th>
+<th align="center">Interchangeable with</th>
+<th align="left">Description</th>
+<th align="left">Example</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">Pointer</td>
+<td align="center">A value; memory location address</td>
+<td align="left">A valid memory location value in hexadecimal</td>
+<td align="left"><code>0x400694</code></td>
+</tr>
+<tr>
+<td align="left">Pointer variable</td>
+<td align="center">Pointer</td>
+<td align="left">a variable type that can be initialized <em>only</em> with a memory address (<em>a.k.a.</em> <strong>Pointer</strong>, usually represented by a hexadecimal value) of other variables and not any integer (for e.g. decimal <strong>2220</strong>)</td>
+<td align="left">int* <strong>pA</strong>; pA = &amp;a;</td>
+</tr>
+<tr>
+<td align="left">Pointer type</td>
+<td align="center">Data type</td>
+<td align="left">refers to the type of the data retrieved or stored when <em>de-referencing</em> (using the <code>*</code> operator) a pointer variable</td>
+<td align="left"><strong>int</strong>* p; <strong>char</strong>* c; <strong>float</strong>* f;</td>
+</tr>
+<tr>
+<td align="left">Integer pointer</td>
+<td align="center">Integer Pointer Variable</td>
+<td align="left">When <em>de-referencing</em> (using the <code>*</code> operator) on the left hand side (LHS) is used with the variable, it stores integer in the memory location; when de-referencing on the RHS, the value stored in the memory location is retrieved</td>
+<td align="left"><strong>int</strong>* pInteger; *pInteger = 300;</td>
+</tr>
+<tr>
+<td align="left">Memory location value</td>
+<td align="center">Memory Address</td>
+<td align="left">Any physical memory location which can be accessed by the CPU</td>
+<td align="left">Any hexadecimal number between a range, say 0x1000 -&gt; 0x10000</td>
+</tr>
+<tr>
+<td align="left">Memory variable</td>
+<td align="center">Data variable</td>
+<td align="left">A human-defined name that might refer to one or more memory locations depending upon the type</td>
+<td align="left"><strong>int a;</strong> // 4 bytes starting at <code>0xbf943434</code></td>
+</tr>
+<tr>
+<td align="left">Dereferencing</td>
+<td align="center">-</td>
+<td align="left">Using the <code>*</code> operator, retrieve value in the memory location pointed to by the pointer variable; when used on the LHS of an assignment statement, it stores the RHS value in the memory location</td>
+<td align="left"><code>*pB + 1</code> // retrieve value and add one</td>
+</tr>
+<tr>
+<td align="left">Pointer in the LHS (left hand side) of assignment statement</td>
+<td align="center">-</td>
+<td align="left">Store data in the memory location pointed to</td>
+<td align="left"><code>*ppA = 23 + 39023;</code></td>
+</tr>
+<tr>
+<td align="left">Pointer in the RHS (right hand side) of assignment statement</td>
+<td align="center">-</td>
+<td align="left">Retrieve data from the memory location pointed to</td>
+<td align="left"><code>int v = *ppA + 23;</code></td>
+</tr>
+<tr>
+<td align="left">Invalid pointer assignments</td>
+<td align="center">-</td>
+<td align="left">Assigning an integer value as the address of a pointer</td>
+<td align="left">ppA = 23; // illegal because <code>23</code> is not a valid memory location</td>
+</tr>
+<tr>
+<td align="left">Valid pointer assignments</td>
+<td align="center">-</td>
+<td align="left">Assigning a pointer variable to another pointer variable</td>
+<td align="left">If pA and pB are pointer variables, <code>pA = pB;</code></td>
+</tr>
+<tr>
+<td align="left">Pass by value</td>
+<td align="center">Call by value</td>
+<td align="left">Function arguments in <a href="http://j.mp/callByValueC">C</a> and <a href="http://buff.ly/2g98GBN">Java</a> are strictly passed on as parameters to the called function <em>only by value</em></td>
+<td align="left">True or false? Read the <a href="http://javapapers.com/core-java/java-pass-by-value-and-pass-by-reference/">tutorial</a></td>
+</tr>
+<tr>
+<td align="left">Call by reference</td>
+<td align="center">Pass by reference</td>
+<td align="left">When functions are called with arguments that are either pointers © or references (C++)</td>
+<td align="left">True or false? <strong>TBD</strong></td>
+</tr>
+<tr>
+<td align="left">Reference</td>
+<td align="center">reference variable</td>
+<td align="left">An alias for another variable that cannot be re-assigned (C++). Primarily introduced to allow for <a href="http://www.stroustrup.com/bs_faq2.html#pointers-and-references">operator overloading</a>.</td>
+<td align="left"><code>int a; int&amp; b = a;</code></td>
+</tr>
+</tbody>
+</table><h2 id="code-quiz">Code Quiz</h2>
+<p>[TOC]</p>
+<h4 id="quiz-0---pointer-basics">Quiz 0 - Pointer basics</h4>
+<pre class=" language-c"><code class="prism  language-c"><span class="token keyword">int</span> a<span class="token punctuation">[</span><span class="token number">10</span><span class="token punctuation">]</span><span class="token punctuation">;</span> <span class="token comment">// defining an array</span>
+<span class="token function">assert</span><span class="token punctuation">(</span>a <span class="token operator">==</span> <span class="token operator">&amp;</span>a<span class="token punctuation">[</span><span class="token number">0</span><span class="token punctuation">]</span><span class="token punctuation">)</span><span class="token punctuation">;</span> 
+
+<span class="token keyword">int</span> <span class="token operator">*</span>b <span class="token operator">=</span> <span class="token operator">&amp;</span>a<span class="token punctuation">[</span><span class="token number">9</span><span class="token punctuation">]</span><span class="token punctuation">;</span> 
+<span class="token function">assert</span><span class="token punctuation">(</span>a <span class="token operator">!=</span> b<span class="token number">-9</span><span class="token punctuation">)</span><span class="token punctuation">;</span> 	
+</code></pre>
+<p>The 1st <code>assert</code> in the above code snippet will</p>
+<ol>
+<li>Pass</li>
+<li>Fail</li>
+<li>Indeterminable</li>
+<li>Won’t compile</li>
+</ol>
+<p>The 2nd <code>assert</code> in the above code snippet will</p>
+<ol>
+<li>Pass</li>
+<li>Fail</li>
+<li>Indeterminable</li>
+<li>Won’t compile</li>
+</ol>
+<h4 id="quiz-1----pointer-basics">Quiz 1  - Pointer basics</h4>
+<pre class=" language-cpp"><code class="prism  language-cpp"><span class="token keyword">int</span> b<span class="token punctuation">;</span> 
+<span class="token keyword">int</span><span class="token operator">*</span> pA<span class="token punctuation">;</span>
+<span class="token keyword">int</span><span class="token operator">*</span> pB <span class="token operator">=</span> <span class="token operator">&amp;</span>b<span class="token punctuation">;</span> 
+pA <span class="token operator">=</span> pB<span class="token punctuation">;</span>
+<span class="token function">printf</span> <span class="token punctuation">(</span><span class="token string">"%d is the value pointed to by pA\n"</span><span class="token punctuation">,</span> <span class="token operator">*</span>pA<span class="token punctuation">)</span><span class="token punctuation">;</span> 
+</code></pre>
+<p>The string displayed is</p>
+<pre><code>1. "pB is the value pointed to by pA"
+2. "0 is the value pointed to by pA"
+3. "2323443 is the value pointed to by pA"
+4. Non-determinable because integer `b` is not initialized 
+</code></pre>
+<h4 id="quiz-2----pointer-basics">Quiz 2  - Pointer basics</h4>
+<pre class=" language-cpp"><code class="prism  language-cpp"><span class="token keyword">char</span> buf<span class="token punctuation">[</span><span class="token punctuation">]</span> <span class="token operator">=</span> <span class="token string">"this is a long string"</span><span class="token punctuation">;</span> 
+<span class="token keyword">char</span><span class="token operator">*</span> pBuf <span class="token operator">=</span> buf<span class="token punctuation">;</span> 
+<span class="token keyword">char</span><span class="token operator">*</span> pBuf2<span class="token punctuation">;</span> 
+pBuf2 <span class="token operator">=</span> pBuf<span class="token punctuation">;</span>   <span class="token comment">// valid pointer to pointer assignment </span>
+<span class="token keyword">char</span><span class="token operator">*</span> anotherP <span class="token operator">=</span> <span class="token punctuation">(</span><span class="token keyword">char</span> <span class="token operator">*</span><span class="token punctuation">)</span><span class="token function">malloc</span> <span class="token punctuation">(</span><span class="token keyword">sizeof</span><span class="token punctuation">(</span>buf<span class="token punctuation">)</span> <span class="token operator">*</span> <span class="token keyword">sizeof</span><span class="token punctuation">(</span><span class="token keyword">char</span><span class="token punctuation">)</span> <span class="token punctuation">)</span><span class="token punctuation">;</span> 
+<span class="token operator">*</span>anotherP <span class="token operator">=</span> <span class="token operator">*</span>pBuf<span class="token punctuation">;</span> 
+<span class="token function">printf</span> <span class="token punctuation">(</span><span class="token string">"%s is the contents of anotherP\n"</span><span class="token punctuation">,</span> anotherP<span class="token punctuation">)</span><span class="token punctuation">;</span> 
+<span class="token function">printf</span> <span class="token punctuation">(</span><span class="token string">"%c is the contents of anotherP\n"</span><span class="token punctuation">,</span> <span class="token operator">*</span>anotherP<span class="token punctuation">)</span><span class="token punctuation">;</span>
+
+</code></pre>
+<p>The 2-line output in the display is:</p>
+<pre class=" language-cpp"><code class="prism  language-cpp"><span class="token number">1</span><span class="token punctuation">.</span> <span class="token string">"this is a long string"</span>  <span class="token operator">and</span> <span class="token string">"t"</span>
+<span class="token number">2</span><span class="token punctuation">.</span> <span class="token string">"t"</span> <span class="token operator">and</span> <span class="token string">"t"</span>
+<span class="token number">3</span><span class="token punctuation">.</span> Non<span class="token operator">-</span>determinable <span class="token operator">and</span> <span class="token string">"t"</span> 
+</code></pre>
+<h4 id="quiz-3----swap-using-pointers">Quiz 3  - Swap using Pointers</h4>
+<pre class=" language-clang"><code class="prism  language-clang">#include &lt;stdio.h&gt; 
+#include &lt;stdlib.h&gt; 
+
+void swap (int*, int*); // declaring swap 
+int* get_a_number();    // uses malloc() to dynamically allocate integers
+
+void swap(int *q,int *p)  // definition of swap 
+{
+    // Step 0 your code goes below
+}
+
+int main ()
+{
+    int *a = get_a_number();   
+    int *b = get_a_number();   
+    int  c = *get_a_number();  
+    int  d = *get_a_number();  
+
+    // Step 0 implement swap function 
+    
+    // Step 1 call the swap functions appropriately with a &amp; b
+
+    // Step 2 call the swap function appropriately with c &amp; d
+
+    // Step 3 print the swapped values --------
+    printf ("%d %d %d %d", *a,*b, c, d);
+    return 0;
+}
+
+int* get_a_number()
+{
+    int* number = (int*) malloc ( sizeof (int) ); 
+    scanf("%d", number);
+    return number;
+}
+
+</code></pre>
+<p>Assume you’ve entered the appropriate code for the <code>swap</code> function above. The correct code for <code>Step 1 and Step 2</code> is:</p>
+<ol>
+<li><code>swap (&amp;a, &amp;b)</code> and <code>swap (&amp;c, &amp;d)</code></li>
+<li><code>swap (*a, *b)</code> and <code>swap (&amp;c, &amp;d)</code></li>
+<li><code>swap (a, b)</code> and <code>swap (c, d)</code></li>
+<li><code>swap (a, b)</code> and <code>swap (&amp;c, &amp;d)</code></li>
+<li>None of the above</li>
+</ol>
+<h4 id="quiz-4----bug-finder">Quiz 4  - Bug Finder</h4>
+<p><img src="https://rawgit.com/kgisl/project-ideas/master/ias/subString.png" alt="substring"></p>
+<p>The above program is almost <strong>perfect</strong> in that it defines a <code>substring</code> function which returns a substring of the input (“CatDogMonkey”) starting from index 3 and of length 4.  Except there is one small yet major flaw. What is the error?</p>
+<h4 id="quiz-5----printer-arithmetic">Quiz 5  - Printer Arithmetic</h4>
+<p><img src="https://rawgit.com/kgisl/project-ideas/master/ias/printerArithmetic.png" alt="arithmetic"></p>
+<h5 id="question-5.1">Question 5.1</h5>
+<p>If the output at Line 19 (the first <code>printf</code> statement) is:<br>
+<code>0x400694 0xfff000ba0 0xfff000b60</code></p>
+<p>then the output at Line 20 (the next <code>printf</code> statement) is:</p>
+<ol>
+<li><code>0x400694 0xfff000ba0 0xfff000b60</code></li>
+<li><code>0x400698 0xfff000ba4 0xfff000b64</code></li>
+<li><code>0x400695 0xfff000ba4 0xfff000b74</code></li>
+<li>None of the above</li>
+</ol>
+<h5 id="question-5.2">Question 5.2</h5>
+<p>With reference to <code>Line 24</code>, the output will be:</p>
+<ol>
+<li>
+<p><code>0xfff000ba1</code></p>
+</li>
+<li>
+<p>Compiler will not compile</p>
+</li>
+<li>
+<p>Undefined behavior</p>
+</li>
+<li>
+<p>Any one of the above</p>
+<blockquote>
+<p>Spoiler Alert: <a href="http://stackoverflow.com/a/3524270/307454">http://stackoverflow.com/a/3524270/307454</a></p>
+</blockquote>
+</li>
+</ol>
+<h5 id="quiz-5.3">Quiz 5.3</h5>
+<p>The only kind of arithmetic that is allowed between two pointers:</p>
+<ol>
+<li>Addition and Subtraction of two pointers</li>
+<li>Multiplication and Division of two pointers</li>
+<li>Both the above</li>
+<li>Only subtraction between two pointers</li>
+</ol>
+<h4 id="quiz-6---mystery-function">Quiz 6 - Mystery Function</h4>
+<p><img src="https://files.gitter.im/kgashok/advik/NkvR/Screenshot-2018-03-10-at-08.13.29.png" alt="mystery"><br>
+What does the above function do?</p>
+<ol>
+<li>Will not compile</li>
+<li>Will execute forever</li>
+<li>Calculates the length of <code>arr</code></li>
+<li>None of the above</li>
+</ol>
+<h4 id="quiz-7---mystery-function-3">Quiz 7 - Mystery Function 3</h4>
+<p><img src="http://j.mp/mystery_func3" alt="quiz7"></p>
+<p>What does the above function do?</p>
+<ol>
+<li>Will not compile</li>
+<li>Will execute forever</li>
+<li>Simply swaps all characters in-place</li>
+<li>None of the above</li>
+</ol>
+<h4 id="quiz-8---mystery-function-4">Quiz 8 - Mystery Function 4</h4>
+<p><img src="http://j.mp/mystery_func4" alt="quiz7"></p>
+<p>What does the above function do?</p>
+<ol>
+<li>Will not compile</li>
+<li>Will execute forever</li>
+<li>Traverses to the end of the linked list and returns the <strong>tail</strong> node</li>
+<li>None of the above</li>
+</ol>
+<h4 id="quiz-9---mystery-function-5">Quiz 9 - Mystery Function 5</h4>
+<p><img src="http://j.mp/mystery_func5" alt="quiz7"></p>
+<p>What does the above function do?</p>
+<ol>
+<li>Will not compile</li>
+<li>Will execute forever</li>
+<li>Sums up all the integers in the array into <code>val</code> and returns it</li>
+<li>None of the above</li>
+</ol>
+<h4 id="quiz-10---mystery-function-6">Quiz 10 - Mystery Function 6</h4>
+<p><img src="http://j.mp/mystery_func6" alt="quiz7"></p>
+<p>What does the above function do?</p>
+<ol>
+<li>Will compile but won’t do anything useful</li>
+<li>Finds the first character that is part of <code>s2</code> that occurs in <code>s1</code></li>
+<li>Will execute forever</li>
+<li>None of the above</li>
+</ol>
+<h4 id="quiz-10-b---mystery-function-7">Quiz 10 b - Mystery Function 7</h4>
+<p><img src="http://bit.ly/mystery_func9" alt="quiz8"></p>
+<p>What does the above function do?</p>
+<ol>
+<li>Will compile but won’t do anything useful</li>
+<li>copies contents of <code>s</code> at the end of <code>d</code></li>
+<li>Will execute forever</li>
+<li>None of the above</li>
+</ol>
+<h4 id="quiz-11---size-function-for-int-array">Quiz 11 - size function for int array</h4>
+<p><strong>"It is possible to write a function <code>arraylen(int arr[])</code><br>
+(similar to <code>strlen</code>) which will return the length of<br>
+the integer array."</strong></p>
+<p>The above statement is</p>
+<ol>
+<li>True</li>
+<li>False</li>
+<li>Indeterminable</li>
+<li>Not necessary - <code>strlen</code> will itself do the job</li>
+</ol>
+<h2 id="what-next">What next?</h2>
+<ul>
+<li>Go through the tutorial at <a href="https://overiq.com/c-programming/101/pointer-basics-in-c/">https://overiq.com/c-programming/101/pointer-basics-in-c/</a></li>
+<li>Conceptual understanding of Pointers (<em>aka</em> <strong>indirection</strong>, is one of the 7 fundamental constructs <a href="http://j.mp/constructAnalogy">http://j.mp/constructAnalogy</a>) is best achieved by doing a lot of pointer problems.</li>
+</ul>
+<h2 id="pointer-camp--httpbit.lypointerkite">Pointer Camp  <a href="http://bit.ly/pointerKITE">http://bit.ly/pointerKITE</a></h2>
+<h1 id="lecture-notes">Lecture Notes</h1>
+<p><img src="https://drive.google.com/uc?id=0Bwu4iGPfYEufejRhb2pMQl85eG8" alt="DoBetter"></p>
+<ol>
+<li>
+<p><strong>What is a pointer?</strong> It is a number.</p>
+</li>
+<li>
+<p><strong>What is a valid pointer versus invalid pointer?</strong> A valid pointer is a hexadecimal number, very often, a 8 digit hexadecimal number e.g. <code>0x1239ffb9</code>. It also refers to a valid memory addresses that is accessible to the CPU of a computer. An invalid pointer is a hexadecimal value (for e.g. <code>0x10</code>) which is either not accessible by a user written software program (because that memory location stores code that is part of the BIOS code of the computer) or a hexadecimal value which is not relevant to the memory addresses of a computer.</p>
+</li>
+<li>
+<p><strong>What is a pointer variable?</strong> A variable that is used to store a valid pointer value.</p>
+</li>
+<li>
+<p><strong>How is a pointer variable defined?</strong> The same naming conventions (மரபு, பழக்கம்) that apply to a variable, apply to a pointer variable. However there is one special requirement - and that is it needs to be preceded by a <code>*</code>. Valid pointer variable names are <code>*name</code>, <code>*value1</code> and <code>*node1</code></p>
+</li>
+<li>
+<p><strong>How is a pointer variable initialized</strong>? The right hand side (RHS) of the assignment statement must be a valid memory address (usually a hexadecimal value). A <code>null pointer variable</code> is a pointer variable which stores <code>0</code> as the pointer value, usually as part of its initialization.</p>
+</li>
+<li>
+<p><strong>How and when to deference a pointer</strong>? A pointer when de-referenced (using the <code>*</code> operator) on the right hand side (RHS) of an assignment <strong>retrieves</strong> data from the memory location it is pointed to. A pointer when de-referenced on the left hand side (LHS) results in the <strong>storing</strong> of data happens in the memory location it points to.</p>
+</li>
+</ol>
+<h2 id="lecture-notes-2">Lecture Notes 2</h2>
+<ul>
+<li><strong>Double Pointers</strong> - pointer variables that store the memory location of another pointer is called a double pointer. And naming convention requires that <code>**</code> be used when defining such double pointer variables
+<ul>
+<li><a href="http://j.mp/doubleSwap">http://j.mp/doubleSwap</a> - for double pointer coding practice</li>
+<li><a href="http://j.mp/dPalindromeKG">http://j.mp/dPalindromeKG</a> - Practice 2 on Palindrome checking</li>
+<li><a href="http://j.mp/doublePointerSort">http://j.mp/doublePointerSort</a> - for a real-world use case</li>
+</ul>
+</li>
+<li>Use <strong>Pointers to operate</strong> on Linear data structures (like Linked lists, and Queues)
+<ul>
+<li>Solve problems in CloudCoder (such as <code>create</code>, <code>traverse</code>, etc ) from <a href="http://j.mp/pointerKITE">http://j.mp/pointerKITE</a></li>
+</ul>
+</li>
+</ul>
+<h1 id="context">Context</h1>
+<ul>
+<li>dynamic memory management (malloc, memset) - <strong>pointers</strong> are used as a handle for storing such memory locations.
+<ul>
+<li>data structures like <strong>linked list, queues</strong></li>
+</ul>
+</li>
+<li><strong>Pointers</strong> that are require to traverse and manipulate linear data structures
+<ul>
+<li>data structures like <strong>trees, graphs</strong></li>
+</ul>
+</li>
+<li><strong>Pointers</strong> and recursive functions/algorithms which are required to manipulate recursive data structures
+<ul>
+<li>finding the shortest path from Destination A to Destination B</li>
+<li>searching and inserting data into data structures for efficient retrieval and modifications</li>
+</ul>
+</li>
+</ul>
+<!--stackedit_data:&#10;eyJoaXN0b3J5IjpbMTg5MDU5NTU1M119&#10;-->
+
+    </div>
+  </div>
+</body>
+
+</html>
