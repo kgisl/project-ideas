@@ -16,6 +16,7 @@
 
 **tl;dr 0** -  Computer Science is the study of money making Algorithms  
 **tl;dr 1** -  [Algorithm is a Mapping] = Functional Mapping of Input Data (graph ADT) to Output Data (graph ADT)  
+**tl;dr 1.5** - [The Master Algorithm](https://en.wikipedia.org/wiki/The_Master_Algorithm)
 **tl;dr 2** -  "[Practically everything (_including an algorithm_) is a Graph.][Everything is a graph]"
 
 But **why**? Inspired by 
