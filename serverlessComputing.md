@@ -2,4 +2,4 @@
 
 http://j.mp/serverlessOnPremise
 
-j.mp/serverlessVideoKG
+http://j.mp/serverlessVideoKG
