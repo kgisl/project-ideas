@@ -2,6 +2,8 @@
 
 https://github.com/riyaz-ali/resumify/issues/1#issuecomment-333360984
 
+His inspiration is this: https://luosijie.github.io/vue-resume/#/ 
+
 ## Integrate with Accenture Resume Builder? 
 
 or borrow some templates from them? 
@@ -24,3 +26,5 @@ Monthly plan: Rs 1,067.53 and 3 months plan: Rs 666.58
 
 12 Month Plan: Rs 466.38 
 
+
+### How to search for other Resume Github Repos? 
