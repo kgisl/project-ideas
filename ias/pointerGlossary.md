@@ -129,3 +129,6 @@ _Theory influences design; design influences programming._
 [Syracuse Algorithm]: http://mathworld.wolfram.com/CollatzProblem.html
 [Structural Programming]: https://www.computer.org/csdl/mags/co/1981/03/01667281.pdf
 [spaghetti code]: https://en.wikipedia.org/wiki/Spaghetti_code 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTExNTY5MTc2ODddfQ==
+-->
