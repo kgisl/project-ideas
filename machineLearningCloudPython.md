@@ -1,3 +1,8 @@
+# Introduction to Deep Learning 
+
+https://towardsdatascience.com/a-weird-introduction-to-deep-learning-7828803693b0
+
+
 # ML on the Google Cloud with Python
 
 https://towardsdatascience.com/automated-machine-learning-on-the-cloud-in-python-47cf568859f
