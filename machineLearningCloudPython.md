@@ -1,4 +1,4 @@
-# Introduction to Deep Learning 
+# Weird Introduction to Deep Learning 
 
 https://towardsdatascience.com/a-weird-introduction-to-deep-learning-7828803693b0
 
