@@ -19,6 +19,6 @@ How to ask question on forums - http://www.catb.org/esr/faqs/smart-questions.htm
 
 ![Image](elm/curiosityGenius.png) 
 
-![CuriosityToIdea](http://launchany.com/wp-content/uploads/2016/01/idea.jpg)
+![CuriosityToIdea](https://github.com/kgisl/project-ideas/blob/master/doc/ideaFormation.jpg)
 
 ![ba6](elm/beYou.jpg)
