@@ -294,6 +294,9 @@ The above statement is
 
 ![mystery12](http://j.mp/stringLenInOneLine)
 
+#### Quiz 13  - what does this function do? 
+![mystery13](http://j.mp/mysteryFunc13)
+
 
 ## What next?
 
