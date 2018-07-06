@@ -17,12 +17,29 @@
 <ul>
 <li><a href="#table-of-contents">Table of Contents</a></li>
 <li><a href="#pointers">Pointers</a></li>
-<li><a href="#code-quiz">Code Quiz</a>
+<li><a href="#code-quiz">Code Quiz</a></li>
+<li><a href="#quiz-0---pointer-basics">Quiz 0 - Pointer basics</a></li>
+<li><a href="#quiz-1----pointer-basics">Quiz 1  - Pointer basics</a></li>
+<li><a href="#quiz-2----pointer-basics">Quiz 2  - Pointer basics</a></li>
+<li><a href="#quiz-3----swap-using-pointers">Quiz 3  - Swap using Pointers</a></li>
+<li><a href="#quiz-4----bug-finder">Quiz 4  - Bug Finder</a></li>
+<li><a href="#quiz-5----printer-arithmetic">Quiz 5  - Printer Arithmetic</a></li>
+<li><a href="#quiz-6---mystery-function">Quiz 6 - Mystery Function</a></li>
+<li><a href="#quiz-7---mystery-function-3">Quiz 7 - Mystery Function 3</a></li>
+<li><a href="#quiz-8---mystery-function-4">Quiz 8 - Mystery Function 4</a></li>
+<li><a href="#quiz-9---mystery-function-5">Quiz 9 - Mystery Function 5</a></li>
+<li><a href="#quiz-10---mystery-function-6">Quiz 10 - Mystery Function 6</a></li>
+<li><a href="#quiz-10-b---mystery-function-7">Quiz 10 b - Mystery Function 7</a></li>
+<li><a href="#quiz-11---size-function-for-int-array">Quiz 11 - size function for int array</a></li>
+<li><a href="#quiz-12----what-does-this-function-do">Quiz 12  - what does this function do?</a>
 <ul>
 <li></li>
 </ul>
 </li>
-<li><a href="#what-next">What next?</a></li>
+</ul>
+</li>
+<li><a href="#what-next">What next?</a>
+<ul>
 <li><a href="#pointer-camp--httpbit.lypointerkite">Pointer Camp  http://bit.ly/pointerKITE</a></li>
 </ul>
 </li>
@@ -213,7 +230,7 @@
 </tr>
 </tbody>
 </table><h2 id="code-quiz">Code Quiz</h2>
-<h4 id="quiz-0---pointer-basics">Quiz 0 - Pointer basics</h4>
+<h2 id="quiz-0---pointer-basics">Quiz 0 - Pointer basics</h2>
 <pre class=" language-c"><code class="prism  language-c"><span class="token keyword">int</span> a<span class="token punctuation">[</span><span class="token number">10</span><span class="token punctuation">]</span><span class="token punctuation">;</span> <span class="token comment">// defining an array</span>
 <span class="token function">assert</span><span class="token punctuation">(</span>a <span class="token operator">==</span> <span class="token operator">&amp;</span>a<span class="token punctuation">[</span><span class="token number">0</span><span class="token punctuation">]</span><span class="token punctuation">)</span><span class="token punctuation">;</span> 
 
@@ -234,7 +251,7 @@
 <li>Indeterminable</li>
 <li>Won’t compile</li>
 </ol>
-<h4 id="quiz-1----pointer-basics">Quiz 1  - Pointer basics</h4>
+<h2 id="quiz-1----pointer-basics">Quiz 1  - Pointer basics</h2>
 <pre class=" language-cpp"><code class="prism  language-cpp"><span class="token keyword">int</span> b<span class="token punctuation">;</span> 
 <span class="token keyword">int</span><span class="token operator">*</span> pA<span class="token punctuation">;</span>
 <span class="token keyword">int</span><span class="token operator">*</span> pB <span class="token operator">=</span> <span class="token operator">&amp;</span>b<span class="token punctuation">;</span> 
@@ -247,7 +264,7 @@ pA <span class="token operator">=</span> pB<span class="token punctuation">;</sp
 3. "2323443 is the value pointed to by pA"
 4. Non-determinable because integer `b` is not initialized 
 </code></pre>
-<h4 id="quiz-2----pointer-basics">Quiz 2  - Pointer basics</h4>
+<h2 id="quiz-2----pointer-basics">Quiz 2  - Pointer basics</h2>
 <pre class=" language-cpp"><code class="prism  language-cpp"><span class="token keyword">char</span> buf<span class="token punctuation">[</span><span class="token punctuation">]</span> <span class="token operator">=</span> <span class="token string">"this is a long string"</span><span class="token punctuation">;</span> 
 <span class="token keyword">char</span><span class="token operator">*</span> pBuf <span class="token operator">=</span> buf<span class="token punctuation">;</span> 
 <span class="token keyword">char</span><span class="token operator">*</span> pBuf2<span class="token punctuation">;</span> 
@@ -263,7 +280,7 @@ pBuf2 <span class="token operator">=</span> pBuf<span class="token punctuation">
 <span class="token number">2</span><span class="token punctuation">.</span> <span class="token string">"t"</span> <span class="token operator">and</span> <span class="token string">"t"</span>
 <span class="token number">3</span><span class="token punctuation">.</span> Non<span class="token operator">-</span>determinable <span class="token operator">and</span> <span class="token string">"t"</span> 
 </code></pre>
-<h4 id="quiz-3----swap-using-pointers">Quiz 3  - Swap using Pointers</h4>
+<h2 id="quiz-3----swap-using-pointers">Quiz 3  - Swap using Pointers</h2>
 <pre class=" language-clang"><code class="prism  language-clang">#include &lt;stdio.h&gt; 
 #include &lt;stdlib.h&gt; 
 
@@ -309,12 +326,12 @@ int* get_a_number()
 <li><code>swap (a, b)</code> and <code>swap (&amp;c, &amp;d)</code></li>
 <li>None of the above</li>
 </ol>
-<h4 id="quiz-4----bug-finder">Quiz 4  - Bug Finder</h4>
+<h2 id="quiz-4----bug-finder">Quiz 4  - Bug Finder</h2>
 <p><img src="https://rawgit.com/kgisl/project-ideas/master/ias/subString.png" alt="substring"></p>
 <p>The above program is almost <strong>perfect</strong> in that it defines a <code>substring</code> function which returns a substring of the input (“CatDogMonkey”) starting from index 3 and of length 4.  Except there is one small yet major flaw. What is the error?</p>
-<h4 id="quiz-5----printer-arithmetic">Quiz 5  - Printer Arithmetic</h4>
+<h2 id="quiz-5----printer-arithmetic">Quiz 5  - Printer Arithmetic</h2>
 <p><img src="https://rawgit.com/kgisl/project-ideas/master/ias/printerArithmetic.png" alt="arithmetic"></p>
-<h5 id="question-5.1">Question 5.1</h5>
+<h3 id="question-5.1">Question 5.1</h3>
 <p>If the output at Line 19 (the first <code>printf</code> statement) is:<br>
 <code>0x400694 0xfff000ba0 0xfff000b60</code></p>
 <p>then the output at Line 20 (the next <code>printf</code> statement) is:</p>
@@ -324,7 +341,7 @@ int* get_a_number()
 <li><code>0x400695 0xfff000ba4 0xfff000b74</code></li>
 <li>None of the above</li>
 </ol>
-<h5 id="question-5.2">Question 5.2</h5>
+<h3 id="question-5.2">Question 5.2</h3>
 <p>With reference to <code>Line 24</code>, the output will be:</p>
 <ol>
 <li><code>0xfff000ba1</code></li>
@@ -333,7 +350,7 @@ int* get_a_number()
 <li>Any one of the above</li>
 </ol>
 <p>Spoiler Alert: <a href="http://stackoverflow.com/a/3524270/307454">http://stackoverflow.com/a/3524270/307454</a></p>
-<h5 id="quiz-5.3">Quiz 5.3</h5>
+<h3 id="quiz-5.3">Quiz 5.3</h3>
 <p>The only kind of arithmetic that is allowed between two pointers:</p>
 <ol>
 <li>Addition and Subtraction of two pointers</li>
@@ -341,7 +358,7 @@ int* get_a_number()
 <li>Both the above</li>
 <li>Only subtraction between two pointers</li>
 </ol>
-<h4 id="quiz-6---mystery-function">Quiz 6 - Mystery Function</h4>
+<h2 id="quiz-6---mystery-function">Quiz 6 - Mystery Function</h2>
 <p><img src="https://files.gitter.im/kgashok/advik/NkvR/Screenshot-2018-03-10-at-08.13.29.png" alt="mystery"><br>
 What does the above function do?</p>
 <ol>
@@ -350,7 +367,7 @@ What does the above function do?</p>
 <li>Calculates the length of <code>arr</code></li>
 <li>None of the above</li>
 </ol>
-<h4 id="quiz-7---mystery-function-3">Quiz 7 - Mystery Function 3</h4>
+<h2 id="quiz-7---mystery-function-3">Quiz 7 - Mystery Function 3</h2>
 <p><img src="http://j.mp/mystery_func3" alt="quiz7"></p>
 <p>What does the above function do?</p>
 <ol>
@@ -359,7 +376,7 @@ What does the above function do?</p>
 <li>Simply swaps all characters in-place</li>
 <li>None of the above</li>
 </ol>
-<h4 id="quiz-8---mystery-function-4">Quiz 8 - Mystery Function 4</h4>
+<h2 id="quiz-8---mystery-function-4">Quiz 8 - Mystery Function 4</h2>
 <p><img src="http://j.mp/mystery_func4" alt="quiz7"></p>
 <p>What does the above function do?</p>
 <ol>
@@ -368,7 +385,7 @@ What does the above function do?</p>
 <li>Traverses to the end of the linked list and returns the <strong>tail</strong> node</li>
 <li>None of the above</li>
 </ol>
-<h4 id="quiz-9---mystery-function-5">Quiz 9 - Mystery Function 5</h4>
+<h2 id="quiz-9---mystery-function-5">Quiz 9 - Mystery Function 5</h2>
 <p><img src="http://j.mp/mystery_func5" alt="quiz7"></p>
 <p>What does the above function do?</p>
 <ol>
@@ -377,7 +394,7 @@ What does the above function do?</p>
 <li>Sums up all the integers in the array into <code>val</code> and returns it</li>
 <li>None of the above</li>
 </ol>
-<h4 id="quiz-10---mystery-function-6">Quiz 10 - Mystery Function 6</h4>
+<h2 id="quiz-10---mystery-function-6">Quiz 10 - Mystery Function 6</h2>
 <p><img src="http://j.mp/mystery_func6" alt="quiz7"></p>
 <p>What does the above function do?</p>
 <ol>
@@ -386,7 +403,7 @@ What does the above function do?</p>
 <li>Will execute forever</li>
 <li>None of the above</li>
 </ol>
-<h4 id="quiz-10-b---mystery-function-7">Quiz 10 b - Mystery Function 7</h4>
+<h2 id="quiz-10-b---mystery-function-7">Quiz 10 b - Mystery Function 7</h2>
 <p><img src="http://bit.ly/mystery_func9" alt="quiz8"></p>
 <p>What does the above function do?</p>
 <ol>
@@ -395,7 +412,7 @@ What does the above function do?</p>
 <li>Will execute forever</li>
 <li>None of the above</li>
 </ol>
-<h4 id="quiz-11---size-function-for-int-array">Quiz 11 - size function for int array</h4>
+<h2 id="quiz-11---size-function-for-int-array">Quiz 11 - size function for int array</h2>
 <p><strong>"It is possible to write a function <code>arraylen(int arr[])</code><br>
 (similar to <code>strlen</code>) which will return the length of<br>
 the integer array."</strong></p>
@@ -406,11 +423,11 @@ the integer array."</strong></p>
 <li>Indeterminable</li>
 <li>Not necessary - <code>strlen</code> will itself do the job</li>
 </ol>
-<h4 id="quiz-12----what-does-this-function-do">Quiz 12  - what does this function do?</h4>
+<h2 id="quiz-12----what-does-this-function-do">Quiz 12  - what does this function do?</h2>
 <p><img src="http://j.mp/stringLenInOneLine" alt="mystery12"></p>
 <h4 id="quiz-13----what-does-this-function-do">Quiz 13  - what does this function do?</h4>
 <p><img src="http://j.mp/mysteryFunc13" alt="mystery13"></p>
-<h2 id="what-next">What next?</h2>
+<h1 id="what-next">What next?</h1>
 <ul>
 <li>Use <a href="https://github.com/kgashok/CppKoans/blob/master/koans/koan05_pointers.cpp">Pointer Koans</a> to reflect on pointer concepts by reading/writing simple pointer code
 <ul>
