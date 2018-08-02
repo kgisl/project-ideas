@@ -1,4 +1,14 @@
 # MG Site
+http://www.dukece.com/insights/six-daily-questions-winning-leaders/
+
+This process, which I call the Daily Questions, keeps me focused on becoming a happier, healthier person. It provides discipline I sorely need in my busy working life as an executive coach, teacher and speaker, which involves travelling 180 days out of the year to countries all over the globe.
+
+As I argue in my latest book, authored with Mark Reiter, Triggers: Creating Behavior that Lasts – Becoming the Person You Want to Be, in every waking hour we are being triggered by people, events, and circumstances that have the potential to change us. The Daily Questions provide an antidote to that chaos.
+
+The process appears to be almost robotically simple: in effect, I’m taking a test I wrote, to which I already know the answers. But after years of dedication to this process, I now hold the counterintuitive belief that the Daily Questions are in fact a very tough test, one of the hardest we’ll ever take.
+
+To understand why, you first need to grasp a fundamental truth about human behaviour. Changing it is hard. Very hard. I like to say that behavioural change is just about the hardest thing for sentient human beings to accomplish.
+
 
 http://www.marshallgoldsmith.com/marshalls-daily-questions-spreadsheet/
 
