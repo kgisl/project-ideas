@@ -25,12 +25,13 @@ In conjunction with Doctor Kelly Goldsmith, they show with impressive results th
 
 These are the 6 daily questions that Professor Goldsmith recommends to start with: 
 
-Did I do my best to be happy?
-Did I do my best to find meaning?
-Did I do my best to be fully engaged?
-Did I do my best to build positive relationships?
-Did I do my best to set clear goals?
-Did I do my best to make progress toward goal achievement?
+- Did I do my best to be happy?
+- Did I do my best to find meaning?
+- Did I do my best to be fully engaged?
+- Did I do my best to build positive relationships?
+- Did I do my best to set clear goals?
+- Did I do my best to make progress toward goal achievement?
+
 After just two weeks where participants asked themselves these questions every day, results showed that:
 
 34% of people said they improved in all of the six areas
