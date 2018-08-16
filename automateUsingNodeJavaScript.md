@@ -2,3 +2,4 @@
 
 https://medium.com/dailyjs/how-i-automated-my-job-with-node-js-94bf4e423017
 
+https://leanpub.com/automatingwithnodejs
