@@ -6,6 +6,7 @@ https://www.quora.com/Where-can-I-find-the-most-interesting-APIs
 0. From Quora - Random and Unique
    - https://www.quora.com/What-are-some-of-the-most-interesting-APIs-you-have-used-free-or-otherwise
    - https://www.quora.com/What-are-some-cool-fun-random-APIs-such-as-BreweryDB
+   - Aadhar APIs - http://qr.ae/TUNm17 
    
 0. The Most Interesting APIs in the Programmable Web 
    - https://www.programmableweb.com/api-university/what-are-apis-and-how-do-they-work 
