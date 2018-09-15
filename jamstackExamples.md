@@ -1,7 +1,7 @@
 # JamStack
 
 https://vimeo.com/163522126 - intro of the JAMstack
-
+j.mp/jamstackRise - more recent, 2017
 
 https://jamstack.org/examples/
 https://jamstack.org/resources/
