@@ -3,9 +3,11 @@
 https://vimeo.com/163522126 - intro of the JAMstack
 j.mp/jamstackRise - more recent, 2017
 
-https://jamstack.org/examples/
-https://jamstack.org/resources/
-https://jamstack.org/best-practices/
+- https://jamstack.org/examples/
+- https://jamstack.org/resources/
+- https://jamstack.org/best-practices/
+
+- https://jamstackconf.com/convince-your-boss
 
 When is your site not built with the JAMstack?
 Any project that relies on a tight coupling between client and server is not built with the JAMstack. This would include:
