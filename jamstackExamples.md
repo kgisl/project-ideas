@@ -1,5 +1,8 @@
 # JamStack
 
+https://vimeo.com/163522126 - intro of the JAMstack
+
+
 https://jamstack.org/examples/
 https://jamstack.org/resources/
 https://jamstack.org/best-practices/
@@ -12,3 +15,6 @@ A monolithic server-run web app that relies on Ruby, Node, or another backend la
 A single page app that uses isomorphic rendering to build views on the server at runtime.
 
 ![jam](https://github.com/kgisl/project-ideas/blob/master/img/Screenshot%202018-09-15%20at%2010.53.32.png)
+
+Github linked site deployments 
+https://www.netlify.com/
