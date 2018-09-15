@@ -9,7 +9,8 @@ j.mp/jamstackRise - more recent, 2017
 
 - https://jamstackconf.com/convince-your-boss
 
-When is your site not built with the JAMstack?
+
+**When is your site not built with the JAMstack?**
 Any project that relies on a tight coupling between client and server is not built with the JAMstack. This would include:
 
 A site built with a server-side CMS like WordPress, Drupal, Joomla, or Squarespace.
