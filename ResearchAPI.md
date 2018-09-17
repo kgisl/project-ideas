@@ -1,6 +1,7 @@
 # Dynamic Tools directory 
 - https://www.thenewdynamic.org/tool/ 
 - Serverless examples - https://github.com/serverless/examples/tree/master/aws-node-twilio-send-text-message
+- Example on Netlifly - https://www.netlify.com/docs/functions/
 
 # Links for APIs in the internet 
 
