@@ -1,5 +1,11 @@
 # JamStack
 
+## Top Notch idea - JAM for AI (A standing for AI APIs) 
+
+  - http://bit.ly/personalAI
+  
+  
+
 ## Spread the JAM! 
 
 JAMStack: Modern Web Architecture in Digestible Terms - https://www.gridhaus.com/blog/jamstack-modern-web-architecture-in-digestible-terms
