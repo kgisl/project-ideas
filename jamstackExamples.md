@@ -2,6 +2,11 @@
 
 ## Spread the JAM! 
 
+JAMStack: Modern Web Architecture in Digestible Terms - https://www.gridhaus.com/blog/jamstack-modern-web-architecture-in-digestible-terms
+
+- The Tools directly - https://www.thenewdynamic.org/tool/ 
+- https://github.com/automata/awesome-jamstack 
+
 https://vimeo.com/163522126 - intro of the JAMstack  
 j.mp/jamstackRise - more recent, 2017
 
