@@ -27,7 +27,12 @@ Using some fancy CSS, we also highlighted all matched links and displayed custom
 
 ![fancyCSS](https://files.gitter.im/kgashok/advik/5bku/Screenshot-2018-11-07-at-16.58.47.png)
 
-## 6th increment
+## 6th increment 
+
+Using radio buttons to toggle between Test and Actual data
+http://j.mp/bitlyElmVideo6
+
+## 7th increment
 Do the ultimate thing - access the bitly API and get all the 25000+ links and search through them 
 
 
