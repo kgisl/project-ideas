@@ -21,7 +21,7 @@ Using the same Json server to mimic the data that would be available on bitly's 
 
 http://j.mp/bitlyElmVideo4
 
-## 5 increment 
+## 5th increment 
 
 Using some fancy CSS, we also highlighted all matched links and displayed custom shortener if they exist 
 
