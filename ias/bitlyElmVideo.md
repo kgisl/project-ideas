@@ -32,7 +32,13 @@ Using some fancy CSS, we also highlighted all matched links and displayed custom
 Using radio buttons to toggle between Test and Actual data
 http://j.mp/bitlyElmVideo6
 
-## 7th increment
+## 7th increment 
+
+Added the much needed hyperlink for shorteners in the list 
+
+![increment2](http://bit.ly/incrementPic2)
+
+## 8th increment
 Do the ultimate thing - access the bitly API and get all the 25000+ links and search through them 
 
 
