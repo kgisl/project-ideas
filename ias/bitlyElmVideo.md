@@ -45,4 +45,8 @@ http://j.mp/bitlyElmVideo4
 ## 9th increment
 Do the ultimate thing - access the bitly API and get all the 25000+ links and search through them 
 
+# Notes
+
+- Hacker teams can emulate my incremental pathway to get to the 8th increment version 
+- After that, they must use their own creativity and analytical thinking as to how the project can be further evolved 
 
