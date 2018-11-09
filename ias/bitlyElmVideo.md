@@ -40,7 +40,7 @@ Added the much needed hyperlink for shorteners in the list
 
 ## 8th increment
 Used another set of radio buttons to provide viewMode (**ShowAll** or **MatchedOnly**) and searching across all three strings for an URL (title, url and custom shortener)
-http://j.mp/bitlyElmVideo4 
+http://j.mp/bitlyElmVideo8 
 
 ## 9th increment
 Do the ultimate thing - access the bitly API and get all the 25000+ links and search through them 
