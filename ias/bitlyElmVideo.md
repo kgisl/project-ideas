@@ -45,7 +45,7 @@ http://j.mp/bitlyElmVideo8
 ## 9th increment
 Do the ultimate thing - access the bitly API and get all the 25000+ links and search through them   
   - limit to getting 1000 links or less and then expand to bigger downloads 
-  - http://bitly-elm.glitch.me is the latest evolving version of the app
+  - https://bitly-elm.glitch.me is the latest evolving version of the app
 
 
 # Notes
