@@ -43,10 +43,15 @@ Used another set of radio buttons to provide viewMode (**ShowAll** or **MatchedO
 http://j.mp/bitlyElmVideo8 
 
 ## 9th increment
-Do the ultimate thing - access the bitly API and get all the 25000+ links and search through them 
+Do the ultimate thing - access the bitly API and get all the 25000+ links and search through them   
+  - limit to getting 1000 links or less and then expand to bigger downloads 
+  - http://bitly-elm.glitch.me is the latest evolving version of the app
+
 
 # Notes
 
 - Hacker teams can emulate my incremental pathway to get to the 8th increment version 
 - After that, they must use their own creativity and analytical thinking as to how the project can be further evolved 
+	- For inspiration, look at both the open and closed issues [here](https://github.com/kgashok/elm-for-bitly/issues)
+
 
