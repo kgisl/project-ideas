@@ -43,9 +43,17 @@ Used another set of radio buttons to provide viewMode (**ShowAll** or **MatchedO
 http://j.mp/bitlyElmVideo8 
 
 ## 9th increment
+
 Do the ultimate thing - access the bitly API and get all the 25000+ links and search through them   
   - limit to getting 1000 links or less and then expand to bigger downloads 
   - https://bitly-elm.glitch.me is the latest evolving version of the app
+
+Questions to ask and design: 
+  - how will you handle < 1000 links? 
+  - how will you display / update > 1000 links? 
+  - how will you search when > 25000 links? 
+  - how will you help choose a needle for the user? 
+
 
 
 # Notes
