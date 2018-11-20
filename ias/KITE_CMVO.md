@@ -29,9 +29,10 @@ _"Big, ridiculously high, hairy, audacious goals. Bigger the better; ambitious y
  - What do we believe? *Genius is the new Normal*
 	 > >![genius](https://files.gitter.im/kgisl/campsite/7W41/geniusNormal.jpg)
  - How to hack your genius? http://bit.ly/hackGenius 
+###
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzUwNjg1MTQsLTYyOTc4MTI5MSwxOD
-IxMjU1NDQ0LC0xMTI5NDQwNTYsLTE0NzM5NzY0MDEsMTEyNzQx
-MzM3Ml19
+eyJoaXN0b3J5IjpbMTcwODg2NjgxNywtMTQzNTA2ODUxNCwtNj
+I5NzgxMjkxLDE4MjEyNTU0NDQsLTExMjk0NDA1NiwtMTQ3Mzk3
+NjQwMSwxMTI3NDEzMzcyXX0=
 -->
