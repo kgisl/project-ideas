@@ -6,7 +6,7 @@
 ### Primary reason 
  - [Rawgit](https://rawgit.com/) - going out of service 
 and 
-- [Query for rawgit](https://app.bitly.com/Bb84dvzET92/bitlinks/?query=rawgit) gives me zero links, when I actually have at least **10+ shortener links**, some of which are already not working.
+- [Query for rawgit](https://app.bitly.com/Bb84dvzET92/bitlinks/?query=rawgit) (link may *not* work on a mobile browser) gives me zero links, when I actually have at least **10+ shortener links**, some of which are already not working.
 
 ### Secondary reasons 
   - to use glitch to develop Elm Apps
