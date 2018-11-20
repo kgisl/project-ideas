@@ -29,10 +29,22 @@ _"Big, ridiculously high, hairy, audacious goals. Bigger the better; ambitious y
  - What do we believe? *Genius is the new Normal*
 	 > >![genius](https://files.gitter.im/kgisl/campsite/7W41/geniusNormal.jpg)
  - How to hack your genius? http://bit.ly/hackGenius 
-###
+
+#### Infrequently asked Questions (IAQs)
+ 
+1. What has culture got to do with mission and vision?
+2. Why 
+3.  
+4.  
+5.  
+6.  
+7.  
+8.  
+9.  
+10. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwODg2NjgxNywtMTQzNTA2ODUxNCwtNj
-I5NzgxMjkxLDE4MjEyNTU0NDQsLTExMjk0NDA1NiwtMTQ3Mzk3
-NjQwMSwxMTI3NDEzMzcyXX0=
+eyJoaXN0b3J5IjpbLTIwNjA3MjYwNTQsLTE0MzUwNjg1MTQsLT
+YyOTc4MTI5MSwxODIxMjU1NDQ0LC0xMTI5NDQwNTYsLTE0NzM5
+NzY0MDEsMTEyNzQxMzM3Ml19
 -->
