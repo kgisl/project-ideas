@@ -35,8 +35,8 @@ _"Big, ridiculously high, hairy, audacious goals. Bigger the better; ambitious y
 1. What has culture got to do with values, mission and vision?
 2. Why a core mission question instead of the required core mission statement? 
 3. How is envisioned future different from a vision? 
-4. 
-5.  
+4. How are values and mission related to each other? 
+5.  How is the vision and objectives related?
 6.  
 7.  
 8.  
@@ -44,7 +44,7 @@ _"Big, ridiculously high, hairy, audacious goals. Bigger the better; ambitious y
 10. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNDYxNzY5MCwtMTQzNTA2ODUxNCwtNj
+eyJoaXN0b3J5IjpbMTk5ODYyNDMyMSwtMTQzNTA2ODUxNCwtNj
 I5NzgxMjkxLDE4MjEyNTU0NDQsLTExMjk0NDA1NiwtMTQ3Mzk3
 NjQwMSwxMTI3NDEzMzcyXX0=
 -->
