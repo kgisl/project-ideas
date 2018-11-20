@@ -41,10 +41,10 @@ _"Big, ridiculously high, hairy, audacious goals. Bigger the better; ambitious y
 7. Why specify number of hours available as part of the mission? 
 8.  Genius occurs frequently in the document. What gives? 
 9.  What is the purpose of this document? Is it well received by the stakeholders of the organisation? 
-10. Why focus on the traits of students to be transformed? 
+10. Why focus on the traits of students to be transformed? Transformation will focus on which traits? 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU1NzY1NzMxLC0xNDM1MDY4NTE0LC02Mj
-k3ODEyOTEsMTgyMTI1NTQ0NCwtMTEyOTQ0MDU2LC0xNDczOTc2
-NDAxLDExMjc0MTMzNzJdfQ==
+eyJoaXN0b3J5IjpbLTE2MzQxNzY0NzgsLTE0MzUwNjg1MTQsLT
+YyOTc4MTI5MSwxODIxMjU1NDQ0LC0xMTI5NDQwNTYsLTE0NzM5
+NzY0MDEsMTEyNzQxMzM3Ml19
 -->
