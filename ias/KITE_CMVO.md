@@ -32,10 +32,10 @@ _"Big, ridiculously high, hairy, audacious goals. Bigger the better; ambitious y
 
 #### Infrequently asked Questions (IAQs)
  
-1. What has culture got to do with mission and vision?
+1. What has culture got to do with values, mission and vision?
 2. Why a core mission question instead of the required core mission statement? 
-3.  How is envisioned future different from a v
-4.  
+3. How is envisioned future different from a vision? 
+4. 
 5.  
 6.  
 7.  
@@ -44,7 +44,7 @@ _"Big, ridiculously high, hairy, audacious goals. Bigger the better; ambitious y
 10. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTc3MjczNTEsLTE0MzUwNjg1MTQsLT
-YyOTc4MTI5MSwxODIxMjU1NDQ0LC0xMTI5NDQwNTYsLTE0NzM5
-NzY0MDEsMTEyNzQxMzM3Ml19
+eyJoaXN0b3J5IjpbMTgyNDYxNzY5MCwtMTQzNTA2ODUxNCwtNj
+I5NzgxMjkxLDE4MjEyNTU0NDQsLTExMjk0NDA1NiwtMTQ3Mzk3
+NjQwMSwxMTI3NDEzMzcyXX0=
 -->
