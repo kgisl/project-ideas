@@ -40,11 +40,11 @@ _"Big, ridiculously high, hairy, audacious goals. Bigger the better; ambitious y
 6. Why 10,440 hours? What goes into the calculation of that? 
 7. Why specify number of hours available as part of the mission? 
 8.  Genius occurs frequently in the document. What gives? 
-9.  
-10. 
+9.  What is the purpose of this document? Is it well received by the stakeholders of the organisation? 
+10. Why focus on the traits of students to be transformed? 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQwOTE0ODExLC0xNDM1MDY4NTE0LC02Mj
+eyJoaXN0b3J5IjpbNTU1NzY1NzMxLC0xNDM1MDY4NTE0LC02Mj
 k3ODEyOTEsMTgyMTI1NTQ0NCwtMTEyOTQ0MDU2LC0xNDczOTc2
 NDAxLDExMjc0MTMzNzJdfQ==
 -->
