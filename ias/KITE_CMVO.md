@@ -20,6 +20,7 @@ To be recognized as the **`#1`** engineering institution regionally and national
 ### 4 Brouhaha `Objectives`
 _"Big, ridiculously high, hairy, audacious goals. Bigger the better; ambitious yet realistic and authentic."_  
   - Achieve 100% placement by delivering FIRST - focused, **innovative**, industry-ready, __smart__ talent (deliver FIRST)
+    - Are you hacker enough to work at Google? GTG ; 10 placements at Google/ Amazon/ Facebook by 2020
     - Strengthen the `industry-embedded education` value proposition; provide mentoring and expertise to help them begin a career long  `before` they graduate
   - Achieve 100% graduation rate 
     - learning that stays with them long `after` they have graduated
@@ -31,6 +32,6 @@ _"Big, ridiculously high, hairy, audacious goals. Bigger the better; ambitious y
  - How to hack your genius? http://bit.ly/hackGenius 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUyNDI0NTM0LC0xNDczOTc2NDAxLDExMj
-c0MTMzNzJdfQ==
+eyJoaXN0b3J5IjpbLTExMjk0NDA1NiwtMTQ3Mzk3NjQwMSwxMT
+I3NDEzMzcyXX0=
 -->
