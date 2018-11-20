@@ -2,7 +2,7 @@
 _This note is for communicating a shared understanding among all stakeholders; is a quick reckoner for generating focus
 and priorities; for guiding activities at a personal/team level; for feed­forward and peer feedback_
  
-Intense impact workshippers, fierecely intent on being `#1` in transforming geniuses.
+Intense impact workshippers, fierecely intent on being `#1` in transforming the genius within.
 
 ### 1 Operating `Culture`  - செய்யும் தொழிலே தெய்வம்
  - End Value: **W** orkship - Work is worship
@@ -28,6 +28,6 @@ _"Big, ridiculously high, hairy, audacious goals. Bigger the better; ambitious y
  - How to hack your genius? http://bit.ly/hackGenius 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNzkzODU1MCwtMTQ3Mzk3NjQwMSwxMT
-I3NDEzMzcyXX0=
+eyJoaXN0b3J5IjpbLTg1MTc1NDY4LC0xNDczOTc2NDAxLDExMj
+c0MTMzNzJdfQ==
 -->
