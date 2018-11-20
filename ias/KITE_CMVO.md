@@ -10,7 +10,7 @@ _Intense impact workshippers, fierecely intent on being `#1` in transforming gen
  - We are co-responsible for producing `remarkable` behavioural traits such as `deep inquiry` (self-generated questions, curiosity, research), an `intrinsic desire for uncomfortable struggle` (for employable skills, specific interests, big ideas) and an `inclusive mindset` (real-world projects, collaboration, compassion).
 
 ### 3 En`Vision`ed Future - _"More genius per genius"_  
-To be recognized as the **`#1`** Arts and Science educational institution regionally and nationally by all stakeholders, including employers, faculty and society.
+To be recognized as the **`#1`** engineering institution regionally and nationally, by all stakeholders, including employers, faculty and society.
 
 ### 4 Brouhaha `Objectives`
 _"Big, ridiculously high, hairy, audacious goals. Bigger the better; ambitious yet realistic and authentic."_  
@@ -26,5 +26,5 @@ _"Big, ridiculously high, hairy, audacious goals. Bigger the better; ambitious y
  - How to hack your genius? http://bit.ly/hackGenius 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNzQxMzM3Ml19
+eyJoaXN0b3J5IjpbLTE0NzM5NzY0MDEsMTEyNzQxMzM3Ml19
 -->
