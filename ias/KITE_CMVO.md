@@ -5,8 +5,10 @@ and priorities; for guiding activities at a personal/team level; for feed­forwa
 Intense impact workshippers, fierecely intent on being `#1` in transforming the genius within.
 
 ### 1 Operating `Culture`  - செய்யும் தொழிலே தெய்வம்
- - End Value: **W** orkship - Work is worship
+ - End Value: **W** orkship - which shall be _more_ fun than fun
  - Means Values: daily **I** mprovement and **N** o Arrogance 
+
+Devastatingly good­ looking, Intensely God-­Driven, but Not Arrogant (aka gDNA ) is who we really are.
 
 ### 2 Core `Mission` Question - How can we `maximize` learner transformation in 10,440 hours?
  - We are co-responsible for producing `remarkable` behavioural traits such as `deep inquiry` (self-generated questions, curiosity, research), an `intrinsic desire for uncomfortable struggle` (for employable skills, specific interests, big ideas) and an `inclusive mindset` (real-world projects, collaboration, compassion).
@@ -28,6 +30,6 @@ _"Big, ridiculously high, hairy, audacious goals. Bigger the better; ambitious y
  - How to hack your genius? http://bit.ly/hackGenius 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MTc1NDY4LC0xNDczOTc2NDAxLDExMj
+eyJoaXN0b3J5IjpbLTc4NDkxODkxLC0xNDczOTc2NDAxLDExMj
 c0MTMzNzJdfQ==
 -->
