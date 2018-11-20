@@ -36,14 +36,15 @@ _"Big, ridiculously high, hairy, audacious goals. Bigger the better; ambitious y
 2. Why a core mission question instead of the required core mission statement? 
 3. How is envisioned future different from a vision? 
 4. How are values and mission relevant to each other? 
-5.  How is the vision and objectives connected?
-6.  Why 10,440 hours? What goes into the calculation of that? 7.  
-8.  
+5. How is the vision and objectives connected?
+6. Why 10,440 hours? What goes into the calculation of that? 
+7. Why specify number of hours available as part of the mission? 
+8.  Genius occurs frequently in the document. What gives? 
 9.  
 10. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ5OTk5OTM3LC0xNDM1MDY4NTE0LC02Mj
+eyJoaXN0b3J5IjpbODQwOTE0ODExLC0xNDM1MDY4NTE0LC02Mj
 k3ODEyOTEsMTgyMTI1NTQ0NCwtMTEyOTQ0MDU2LC0xNDczOTc2
 NDAxLDExMjc0MTMzNzJdfQ==
 -->
