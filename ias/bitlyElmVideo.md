@@ -1,6 +1,20 @@
 
 # Video Series for Bitly Challenge
 
+## Why this? 
+
+### Primary reason 
+ - [Rawgit](https://rawgit.com/) - going out of service 
+and 
+- [Query for rawgit](https://app.bitly.com/Bb84dvzET92/bitlinks/?query=rawgit) gives me zero links, when I actually have at least **10+ shortener links**, some of which are already not working.
+
+### Secondary reasons 
+  - to use glitch to develop Elm Apps
+  - to use Elm app to communicate what JavaScript equivalent app to be developed
+     - as per part of the Incremental Hackathon experience 
+  - to also present a case study of how to manage App development in Github 
+
+---
 
 ## 1st increment
 The basic needle in a haystack hack 
