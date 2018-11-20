@@ -1,5 +1,5 @@
 
-_This note is for communicating a shared understanding among all stakeholders; is a quick reckoner for generating focus and priorities; for guiding activities at a personal/team level; for feed­forward and peer feedback_
+_This note is for communicating a shared understanding among all stakeholders; is a quick reckon-er for generating focus and priorities; for guiding activities at a personal/team level; for feed­forward and peer feedback_
  
 Intense impact workshippers, fierecely intent on being `#1` in transforming the genius within.
 
@@ -31,6 +31,6 @@ _"Big, ridiculously high, hairy, audacious goals. Bigger the better; ambitious y
  - How to hack your genius? http://bit.ly/hackGenius 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMTI1NTQ0NCwtMTEyOTQ0MDU2LC0xND
-czOTc2NDAxLDExMjc0MTMzNzJdfQ==
+eyJoaXN0b3J5IjpbLTYyOTc4MTI5MSwxODIxMjU1NDQ0LC0xMT
+I5NDQwNTYsLTE0NzM5NzY0MDEsMTEyNzQxMzM3Ml19
 -->
