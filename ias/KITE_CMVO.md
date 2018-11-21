@@ -25,7 +25,7 @@ _"Big, ridiculously high, hairy, audacious goals. Bigger the better; ambitious y
   - Achieve 100% student satisfaction; achieve 100% faculty satisfaction
  
  #### Notes 
- - What do we believe to create impact? *Genius is the new Normal*
+ - What do we believe in order to cause impact? *Genius is the new Normal* http://j.mp/studentGenius
 	 > >![genius](https://files.gitter.im/kgisl/campsite/7W41/geniusNormal.jpg)
  - How to hack your genius? http://bit.ly/hackGenius 
 
@@ -44,8 +44,8 @@ _"Big, ridiculously high, hairy, audacious goals. Bigger the better; ambitious y
 10. Why focus on the traits of students to be transformed? Transformation will focus on which traits? 
 11. What has "God" (தெய்வம்) to do with our operating culture? Why not remain spiritually agnostic and be more inclusive? 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMTM3MTkwMCwxNzYzNzk2OTM5LDMxND
-k0NDY2NywtMTYzNDE3NjQ3OCwtMTQzNTA2ODUxNCwtNjI5Nzgx
-MjkxLDE4MjEyNTU0NDQsLTExMjk0NDA1NiwtMTQ3Mzk3NjQwMS
-wxMTI3NDEzMzcyXX0=
+eyJoaXN0b3J5IjpbLTIwMDE4NDIyMDAsMTYwMTM3MTkwMCwxNz
+YzNzk2OTM5LDMxNDk0NDY2NywtMTYzNDE3NjQ3OCwtMTQzNTA2
+ODUxNCwtNjI5NzgxMjkxLDE4MjEyNTU0NDQsLTExMjk0NDA1Ni
+wtMTQ3Mzk3NjQwMSwxMTI3NDEzMzcyXX0=
 -->
