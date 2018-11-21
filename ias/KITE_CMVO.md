@@ -32,14 +32,15 @@ _"Big, ridiculously high, hairy, audacious goals. Bigger the better; ambitious y
 3. How is envisioned future different from a vision? 
 4. How are values and mission relevant to each other? 
 5. How is the vision and objectives connected?
-7. Why 10,440 hours? What goes into the calculation of that? 
+6. What goes into the calculation of 10,440 hours? 
     - 10 hours/day \* 261 days/year \* 4 years/course 
-6. Why 10,440 hours? What does that really convey? 
-8. Why specify number of hours available as part of the mission? 
-9.  Genius occurs more than once in this document. What gives? 
-10.  What is the purpose of this document? Is it well received by the stakeholders of the organisation? 
-11. Why focus on the traits of students to be transformed? Transformation will focus on which traits? 
-12. What has "God" (தெய்வம்) to do with our operating culture? Why not remain spiritually agnostic and be more inclusive? 
+7. Why 10,440 hours? What does that really convey?
+	- a sense of urgency - we need to act very fast, real fast!  
+9. Why specify number of hours available as part of the mission? 
+10.  Genius occurs more than once in this document. What gives? 
+11.  What is the purpose of this document? Is it well received by the stakeholders of the organisation? 
+12. Why focus on the traits of students to be transformed? Transformation will focus on which traits? 
+13. What has "God" (தெய்வம்) to do with our operating culture? Why not remain spiritually agnostic and be more inclusive? 
 
 
  #### Notes 
@@ -50,9 +51,9 @@ _"Big, ridiculously high, hairy, audacious goals. Bigger the better; ambitious y
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU5MDcwNzA4LDQxNTQ5MzkwMCwtMTYyOD
-Y5MjYxOCwtMjAwMTg0MjIwMCwxNjAxMzcxOTAwLDE3NjM3OTY5
-MzksMzE0OTQ0NjY3LC0xNjM0MTc2NDc4LC0xNDM1MDY4NTE0LC
-02Mjk3ODEyOTEsMTgyMTI1NTQ0NCwtMTEyOTQ0MDU2LC0xNDcz
-OTc2NDAxLDExMjc0MTMzNzJdfQ==
+eyJoaXN0b3J5IjpbLTQ5Mzk5OTc1OSw0MTU0OTM5MDAsLTE2Mj
+g2OTI2MTgsLTIwMDE4NDIyMDAsMTYwMTM3MTkwMCwxNzYzNzk2
+OTM5LDMxNDk0NDY2NywtMTYzNDE3NjQ3OCwtMTQzNTA2ODUxNC
+wtNjI5NzgxMjkxLDE4MjEyNTU0NDQsLTExMjk0NDA1NiwtMTQ3
+Mzk3NjQwMSwxMTI3NDEzMzcyXX0=
 -->
