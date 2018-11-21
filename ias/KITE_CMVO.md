@@ -33,6 +33,7 @@ _"Big, ridiculously high, hairy, audacious goals. Bigger the better; ambitious y
 4. How are values and mission relevant to each other? 
 5. How is the vision and objectives connected?
 6. Why 10,440 hours? What goes into the calculation of that? 
+    - 
 7. Why specify number of hours available as part of the mission? 
 8.  Genius occurs more than once in this document. What gives? 
 9.  What is the purpose of this document? Is it well received by the stakeholders of the organisation? 
@@ -48,9 +49,9 @@ _"Big, ridiculously high, hairy, audacious goals. Bigger the better; ambitious y
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mjg2OTI2MTgsLTIwMDE4NDIyMDAsMT
-YwMTM3MTkwMCwxNzYzNzk2OTM5LDMxNDk0NDY2NywtMTYzNDE3
-NjQ3OCwtMTQzNTA2ODUxNCwtNjI5NzgxMjkxLDE4MjEyNTU0ND
-QsLTExMjk0NDA1NiwtMTQ3Mzk3NjQwMSwxMTI3NDEzMzcyXX0=
-
+eyJoaXN0b3J5IjpbLTE3NTg2OTA0MDUsLTE2Mjg2OTI2MTgsLT
+IwMDE4NDIyMDAsMTYwMTM3MTkwMCwxNzYzNzk2OTM5LDMxNDk0
+NDY2NywtMTYzNDE3NjQ3OCwtMTQzNTA2ODUxNCwtNjI5NzgxMj
+kxLDE4MjEyNTU0NDQsLTExMjk0NDA1NiwtMTQ3Mzk3NjQwMSwx
+MTI3NDEzMzcyXX0=
 -->
