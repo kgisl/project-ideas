@@ -42,9 +42,9 @@ _"Big, ridiculously high, hairy, audacious goals. Bigger the better; ambitious y
 8.  Genius occurs frequently in the document. What gives? 
 9.  What is the purpose of this document? Is it well received by the stakeholders of the organisation? 
 10. Why focus on the traits of students to be transformed? Transformation will focus on which traits? 
-11. Why bring "God" (தெய்வம்)
+11. What has "God" (தெய்வம்) to do with our mission? Why not remain spiritually agnostic and therefore more inclusive? 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczODY1MDE4NCwxNzYzNzk2OTM5LDMxND
+eyJoaXN0b3J5IjpbLTk3NzI2NDMzOSwxNzYzNzk2OTM5LDMxND
 k0NDY2NywtMTYzNDE3NjQ3OCwtMTQzNTA2ODUxNCwtNjI5Nzgx
 MjkxLDE4MjEyNTU0NDQsLTExMjk0NDA1NiwtMTQ3Mzk3NjQwMS
 wxMTI3NDEzMzcyXX0=
