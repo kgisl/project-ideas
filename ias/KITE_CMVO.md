@@ -1,7 +1,7 @@
 
 _To communicate a shared understanding among all stakeholders; a quick reckon-er for generating focus and priorities; for guiding activities at a personal/team level; for feed­forward and peer feedback_
  
-Impact workshippers, co-creating geniuses, maximizing transformation.
+**tl; dr** Impact workshippers, co-creating geniuses, maximizing transformation.
 
 #### 1 Operating `Culture`  - செய்யும் தொழிலே தெய்வம்
  - End Value: **W** orkship - which shall be _more fun_ than fun
@@ -39,12 +39,12 @@ _"Big, ridiculously high, hairy, audacious goals. Bigger the better; ambitious y
 5. How is the vision and objectives connected?
 6. Why 10,440 hours? What goes into the calculation of that? 
 7. Why specify number of hours available as part of the mission? 
-8.  Genius occurs frequently in the document. What gives? 
+8.  Genius occurs more than once in this document. What gives? 
 9.  What is the purpose of this document? Is it well received by the stakeholders of the organisation? 
 10. Why focus on the traits of students to be transformed? Transformation will focus on which traits? 
 11. What has "God" (தெய்வம்) to do with our operating culture? Why not remain spiritually agnostic and be more inclusive? 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MjAxMjUzMiwxNzYzNzk2OTM5LDMxND
+eyJoaXN0b3J5IjpbMTYwMTM3MTkwMCwxNzYzNzk2OTM5LDMxND
 k0NDY2NywtMTYzNDE3NjQ3OCwtMTQzNTA2ODUxNCwtNjI5Nzgx
 MjkxLDE4MjEyNTU0NDQsLTExMjk0NDA1NiwtMTQ3Mzk3NjQwMS
 wxMTI3NDEzMzcyXX0=
