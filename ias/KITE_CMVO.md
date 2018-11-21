@@ -24,6 +24,22 @@ _"Big, ridiculously high, hairy, audacious goals. Bigger the better; ambitious y
     - learning that stays with them long `after` they have graduated
   - Achieve 100% student satisfaction; achieve 100% faculty satisfaction
  
+#### Infrequently asked Questions (IAQs)
+ 
+0. What is daily improvement? How is that useful? 
+1. What has culture got to do with values, mission and vision?
+2. Why a core mission question instead of the required core mission statement? 
+3. How is envisioned future different from a vision? 
+4. How are values and mission relevant to each other? 
+5. How is the vision and objectives connected?
+6. Why 10,440 hours? What goes into the calculation of that? 
+7. Why specify number of hours available as part of the mission? 
+8.  Genius occurs more than once in this document. What gives? 
+9.  What is the purpose of this document? Is it well received by the stakeholders of the organisation? 
+10. Why focus on the traits of students to be transformed? Transformation will focus on which traits? 
+11. What has "God" (தெய்வம்) to do with our operating culture? Why not remain spiritually agnostic and be more inclusive? 
+
+
  #### Notes 
  - What do we believe in order to cause impact? *Genius is the new Normal* http://j.mp/studentGenius
 	 > >![genius](https://files.gitter.im/kgisl/campsite/7W41/geniusNormal.jpg)
@@ -32,9 +48,9 @@ _"Big, ridiculously high, hairy, audacious goals. Bigger the better; ambitious y
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDM4NjI3NywtMjAwMTg0MjIwMCwxNj
-AxMzcxOTAwLDE3NjM3OTY5MzksMzE0OTQ0NjY3LC0xNjM0MTc2
-NDc4LC0xNDM1MDY4NTE0LC02Mjk3ODEyOTEsMTgyMTI1NTQ0NC
-wtMTEyOTQ0MDU2LC0xNDczOTc2NDAxLDExMjc0MTMzNzJdfQ==
+eyJoaXN0b3J5IjpbLTE2Mjg2OTI2MTgsLTIwMDE4NDIyMDAsMT
+YwMTM3MTkwMCwxNzYzNzk2OTM5LDMxNDk0NDY2NywtMTYzNDE3
+NjQ3OCwtMTQzNTA2ODUxNCwtNjI5NzgxMjkxLDE4MjEyNTU0ND
+QsLTExMjk0NDA1NiwtMTQ3Mzk3NjQwMSwxMTI3NDEzMzcyXX0=
 
 -->
