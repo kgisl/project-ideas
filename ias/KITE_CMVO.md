@@ -29,23 +29,12 @@ _"Big, ridiculously high, hairy, audacious goals. Bigger the better; ambitious y
 	 > >![genius](https://files.gitter.im/kgisl/campsite/7W41/geniusNormal.jpg)
  - How to hack your genius? http://bit.ly/hackGenius 
 
-#### Infrequently asked Questions (IAQs)
- 
-0. What is daily improvement? How is that useful? 
-1. What has culture got to do with values, mission and vision?
-2. Why a core mission question instead of the required core mission statement? 
-3. How is envisioned future different from a vision? 
-4. How are values and mission relevant to each other? 
-5. How is the vision and objectives connected?
-6. Why 10,440 hours? What goes into the calculation of that? 
-7. Why specify number of hours available as part of the mission? 
-8.  Genius occurs more than once in this document. What gives? 
-9.  What is the purpose of this document? Is it well received by the stakeholders of the organisation? 
-10. Why focus on the traits of students to be transformed? Transformation will focus on which traits? 
-11. What has "God" (தெய்வம்) to do with our operating culture? Why not remain spiritually agnostic and be more inclusive? 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDE4NDIyMDAsMTYwMTM3MTkwMCwxNz
-YzNzk2OTM5LDMxNDk0NDY2NywtMTYzNDE3NjQ3OCwtMTQzNTA2
-ODUxNCwtNjI5NzgxMjkxLDE4MjEyNTU0NDQsLTExMjk0NDA1Ni
-wtMTQ3Mzk3NjQwMSwxMTI3NDEzMzcyXX0=
+eyJoaXN0b3J5IjpbLTIwMDM4NjI3NywtMjAwMTg0MjIwMCwxNj
+AxMzcxOTAwLDE3NjM3OTY5MzksMzE0OTQ0NjY3LC0xNjM0MTc2
+NDc4LC0xNDM1MDY4NTE0LC02Mjk3ODEyOTEsMTgyMTI1NTQ0NC
+wtMTEyOTQ0MDU2LC0xNDczOTc2NDAxLDExMjc0MTMzNzJdfQ==
+
 -->
