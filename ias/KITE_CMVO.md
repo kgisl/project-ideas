@@ -25,20 +25,21 @@ _"Big, ridiculously high, hairy, audacious goals. Bigger the better; ambitious y
   - Achieve 100% student satisfaction; achieve 100% faculty satisfaction
  
 #### Infrequently asked Questions (IAQs)
- 
+
 0. What is daily improvement? How is that useful? 
 1. What has culture got to do with values, mission and vision?
 2. Why a core mission question instead of the required core mission statement? 
 3. How is envisioned future different from a vision? 
 4. How are values and mission relevant to each other? 
 5. How is the vision and objectives connected?
-6. Why 10,440 hours? What goes into the calculation of that? 
+7. Why 10,440 hours? What goes into the calculation of that? 
     - 10 hours/day \* 261 days/year \* 4 years/course 
-7. Why specify number of hours available as part of the mission? 
-8.  Genius occurs more than once in this document. What gives? 
-9.  What is the purpose of this document? Is it well received by the stakeholders of the organisation? 
-10. Why focus on the traits of students to be transformed? Transformation will focus on which traits? 
-11. What has "God" (தெய்வம்) to do with our operating culture? Why not remain spiritually agnostic and be more inclusive? 
+6. Why 10,440 hours? What does that really convey? 
+8. Why specify number of hours available as part of the mission? 
+9.  Genius occurs more than once in this document. What gives? 
+10.  What is the purpose of this document? Is it well received by the stakeholders of the organisation? 
+11. Why focus on the traits of students to be transformed? Transformation will focus on which traits? 
+12. What has "God" (தெய்வம்) to do with our operating culture? Why not remain spiritually agnostic and be more inclusive? 
 
 
  #### Notes 
@@ -49,9 +50,9 @@ _"Big, ridiculously high, hairy, audacious goals. Bigger the better; ambitious y
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE1NDkzOTAwLC0xNjI4NjkyNjE4LC0yMD
-AxODQyMjAwLDE2MDEzNzE5MDAsMTc2Mzc5NjkzOSwzMTQ5NDQ2
-NjcsLTE2MzQxNzY0NzgsLTE0MzUwNjg1MTQsLTYyOTc4MTI5MS
-wxODIxMjU1NDQ0LC0xMTI5NDQwNTYsLTE0NzM5NzY0MDEsMTEy
-NzQxMzM3Ml19
+eyJoaXN0b3J5IjpbNjU5MDcwNzA4LDQxNTQ5MzkwMCwtMTYyOD
+Y5MjYxOCwtMjAwMTg0MjIwMCwxNjAxMzcxOTAwLDE3NjM3OTY5
+MzksMzE0OTQ0NjY3LC0xNjM0MTc2NDc4LC0xNDM1MDY4NTE0LC
+02Mjk3ODEyOTEsMTgyMTI1NTQ0NCwtMTEyOTQ0MDU2LC0xNDcz
+OTc2NDAxLDExMjc0MTMzNzJdfQ==
 -->
