@@ -1,13 +1,12 @@
 
 _To communicate a shared understanding among all stakeholders; a quick reckon-er for generating focus and priorities; for guiding activities at a personal/team level; for feed­forward and peer feedback_
  
-Intense impact workshippers, fierecely intent on being `#1` in transforming the genius within.
+Impact workshippers, co-creating geniuses, maximizing transformation.
 
 #### 1 Operating `Culture`  - செய்யும் தொழிலே தெய்வம்
  - End Value: **W** orkship - which shall be _more fun_ than fun
  - Means Values: daily **I** mprovement and **N** o Arrogance 
 
-Devastatingly good­ looking, Intensely God-­Driven, but Not Arrogant (aka gDNA ) is who we really are.
 
 #### 2 Core `Mission` Question - How can we `maximize` learner transformation in 10,440 hours?
  
@@ -44,7 +43,7 @@ _"Big, ridiculously high, hairy, audacious goals. Bigger the better; ambitious y
 10. Why focus on the traits of students to be transformed? Transformation will focus on which traits? 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzQxNzY0NzgsLTE0MzUwNjg1MTQsLT
-YyOTc4MTI5MSwxODIxMjU1NDQ0LC0xMTI5NDQwNTYsLTE0NzM5
-NzY0MDEsMTEyNzQxMzM3Ml19
+eyJoaXN0b3J5IjpbMzE0OTQ0NjY3LC0xNjM0MTc2NDc4LC0xND
+M1MDY4NTE0LC02Mjk3ODEyOTEsMTgyMTI1NTQ0NCwtMTEyOTQ0
+MDU2LC0xNDczOTc2NDAxLDExMjc0MTMzNzJdfQ==
 -->
