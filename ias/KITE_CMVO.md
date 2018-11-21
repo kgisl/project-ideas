@@ -24,6 +24,8 @@ _"Big, ridiculously high, hairy, audacious goals. Bigger the better; ambitious y
     - learning that stays with them long `after` they have graduated
   - Achieve 100% student satisfaction; achieve 100% faculty satisfaction
  
+ ---
+ 
 #### Infrequently asked Questions (IAQs)
 
 0. What is daily improvement? How is that useful? 
@@ -42,6 +44,7 @@ _"Big, ridiculously high, hairy, audacious goals. Bigger the better; ambitious y
 12. Why focus on the traits of students to be transformed? Transformation will focus on which traits? 
 13. What has "God" (தெய்வம்) to do with our operating culture? Why not remain spiritually agnostic and be more inclusive? 
 
+---
 
  #### Notes 
  - What do we believe in order to cause impact? *Genius is the new Normal* http://j.mp/studentGenius
@@ -51,9 +54,9 @@ _"Big, ridiculously high, hairy, audacious goals. Bigger the better; ambitious y
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5Mzk5OTc1OSw0MTU0OTM5MDAsLTE2Mj
-g2OTI2MTgsLTIwMDE4NDIyMDAsMTYwMTM3MTkwMCwxNzYzNzk2
-OTM5LDMxNDk0NDY2NywtMTYzNDE3NjQ3OCwtMTQzNTA2ODUxNC
-wtNjI5NzgxMjkxLDE4MjEyNTU0NDQsLTExMjk0NDA1NiwtMTQ3
-Mzk3NjQwMSwxMTI3NDEzMzcyXX0=
+eyJoaXN0b3J5IjpbMTMxOTE3NzU1MSwtNDkzOTk5NzU5LDQxNT
+Q5MzkwMCwtMTYyODY5MjYxOCwtMjAwMTg0MjIwMCwxNjAxMzcx
+OTAwLDE3NjM3OTY5MzksMzE0OTQ0NjY3LC0xNjM0MTc2NDc4LC
+0xNDM1MDY4NTE0LC02Mjk3ODEyOTEsMTgyMTI1NTQ0NCwtMTEy
+OTQ0MDU2LC0xNDczOTc2NDAxLDExMjc0MTMzNzJdfQ==
 -->
