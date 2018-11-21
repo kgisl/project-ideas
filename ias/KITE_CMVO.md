@@ -31,6 +31,7 @@ _"Big, ridiculously high, hairy, audacious goals. Bigger the better; ambitious y
 
 #### Infrequently asked Questions (IAQs)
  
+0. What is daily improvement? How is that useful? 
 1. What has culture got to do with values, mission and vision?
 2. Why a core mission question instead of the required core mission statement? 
 3. How is envisioned future different from a vision? 
@@ -43,7 +44,8 @@ _"Big, ridiculously high, hairy, audacious goals. Bigger the better; ambitious y
 10. Why focus on the traits of students to be transformed? Transformation will focus on which traits? 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE0OTQ0NjY3LC0xNjM0MTc2NDc4LC0xND
-M1MDY4NTE0LC02Mjk3ODEyOTEsMTgyMTI1NTQ0NCwtMTEyOTQ0
-MDU2LC0xNDczOTc2NDAxLDExMjc0MTMzNzJdfQ==
+eyJoaXN0b3J5IjpbMTc2Mzc5NjkzOSwzMTQ5NDQ2NjcsLTE2Mz
+QxNzY0NzgsLTE0MzUwNjg1MTQsLTYyOTc4MTI5MSwxODIxMjU1
+NDQ0LC0xMTI5NDQwNTYsLTE0NzM5NzY0MDEsMTEyNzQxMzM3Ml
+19
 -->
