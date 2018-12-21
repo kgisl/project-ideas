@@ -1,6 +1,8 @@
 
 # Video Series for Bitly Challenge
 
+What is your Genius Quotient? Find out at http://j.mp/gbqSurvey 
+
 ## Why this? 
 
 ### Primary reason 
@@ -62,6 +64,14 @@ Do the ultimate thing - access the bitly API and get all the 25000+ links and se
   - limit to getting 1000 links or less and then expand to bigger downloads 
   - https://bitly-elm.glitch.me is the latest evolving version of the app
 
+## 10th increment
+
+Demonstrate multiple keyword searches - http://j.mp/bitlyElmVideo10
+
+## 11th increment
+
+Demonstrate views to show AllMatch and AnyOne. 
+http://j.mp/bitlyElmVideo11
 
 # Notes
 
