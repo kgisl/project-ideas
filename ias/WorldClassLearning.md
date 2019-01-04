@@ -21,4 +21,3 @@ http://realworldPromiseUse
 
 ---
 
-![4p](https://files.gitter.im/kgashok/advik/h6aY/Screenshot-2019-01-01-at-13.24.20.png)
