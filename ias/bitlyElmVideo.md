@@ -73,6 +73,13 @@ Demonstrate multiple keyword searches - http://j.mp/bitlyElmVideo10
 Demonstrate views to show AllMatch and AnyOne. 
 http://j.mp/bitlyElmVideo11
 
+## 12th increment
+
+The non-blocking experience is possible because the asynchronous call to the bitlyAPI is happening in the background, while the user is still able to change the "needle" (aka search token) in the GUI. 
+
+http://j.mp/bitlyElmVideo12
+
+
 # Notes
 
 - Hacker teams can emulate my incremental pathway to get to the 8th increment version 
