@@ -24,6 +24,8 @@
 <li><a href="#quiz-1----pointer-basics">Quiz 1  - Pointer basics</a></li>
 <li><a href="#quiz-2----pointer-basics">Quiz 2  - Pointer basics</a></li>
 <li><a href="#quiz-3----swap-using-pointers">Quiz 3  - Swap using Pointers</a></li>
+<li><a href="#quiz-3a">Quiz 3a</a></li>
+<li><a href="#quiz-3b">Quiz 3b</a></li>
 <li><a href="#quiz-4----bug-finder">Quiz 4  - Bug Finder</a></li>
 <li><a href="#quiz-5----printer-arithmetic">Quiz 5  - Printer Arithmetic</a></li>
 <li><a href="#quiz-5b---pointer-assignment">Quiz 5B - Pointer assignment</a></li>
@@ -342,6 +344,36 @@ int* get_a_number()
 <li><code>swap (*a, *b)</code> and <code>swap (&amp;c, &amp;d)</code></li>
 <li><code>swap (a, b)</code> and <code>swap (c, d)</code></li>
 <li><code>swap (a, b)</code> and <code>swap (&amp;c, &amp;d)</code></li>
+<li>None of the above</li>
+</ol>
+<h2 id="quiz-3a">Quiz 3a</h2>
+<pre class=" language-c"><code class="prism  language-c"><span class="token keyword">void</span> <span class="token function">swap</span><span class="token punctuation">(</span><span class="token keyword">int</span> <span class="token operator">*</span>x<span class="token punctuation">,</span> <span class="token keyword">int</span> <span class="token operator">*</span>y<span class="token punctuation">)</span> <span class="token punctuation">{</span> 
+	<span class="token keyword">int</span> <span class="token operator">*</span>temp<span class="token punctuation">;</span>
+	<span class="token operator">*</span>temp <span class="token operator">=</span> <span class="token operator">*</span>x<span class="token punctuation">;</span> 
+	<span class="token operator">*</span>x <span class="token operator">=</span> <span class="token operator">*</span>y<span class="token punctuation">;</span> 
+	<span class="token operator">*</span>y <span class="token operator">=</span> <span class="token operator">*</span>temp<span class="token punctuation">;</span> 
+<span class="token punctuation">}</span>
+</code></pre>
+<p>The above <code>swap</code> function will work</p>
+<ol>
+<li>As expected</li>
+<li>Will not compile</li>
+<li>The behavior will be unpredictable</li>
+<li>None of the above</li>
+</ol>
+<h2 id="quiz-3b">Quiz 3b</h2>
+<pre class=" language-c"><code class="prism  language-c"><span class="token keyword">void</span> <span class="token function">swap</span><span class="token punctuation">(</span><span class="token keyword">int</span> <span class="token operator">*</span>x<span class="token punctuation">,</span> <span class="token keyword">int</span> <span class="token operator">*</span>y<span class="token punctuation">)</span> <span class="token punctuation">{</span> 
+	<span class="token keyword">int</span> temp<span class="token punctuation">;</span>
+	temp <span class="token operator">=</span> <span class="token operator">*</span>x<span class="token punctuation">;</span> 
+	<span class="token operator">*</span>x <span class="token operator">=</span> <span class="token operator">*</span>y<span class="token punctuation">;</span> 
+	<span class="token operator">*</span>y <span class="token operator">=</span> temp<span class="token punctuation">;</span> 
+<span class="token punctuation">}</span>
+</code></pre>
+<p>The above <code>swap</code> function will work</p>
+<ol>
+<li>As expected</li>
+<li>Will not compile</li>
+<li>The behavior will be unpredictable</li>
 <li>None of the above</li>
 </ol>
 <h2 id="quiz-4----bug-finder">Quiz 4  - Bug Finder</h2>
