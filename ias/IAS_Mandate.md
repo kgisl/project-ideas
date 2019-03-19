@@ -1,5 +1,5 @@
 
-## IAS mandate 
+# IAS mandate 
 Industry Academic Services, Division of **KGiSL** 
 
 # Hackathon Calendar
@@ -37,5 +37,5 @@ Modelled along the same lines as EPIC - English
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NjIyMjgxXX0=
+eyJoaXN0b3J5IjpbLTE3NDMzMTQ3OTAsLTg1NjIyMjgxXX0=
 -->
