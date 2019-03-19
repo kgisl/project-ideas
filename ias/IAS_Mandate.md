@@ -31,9 +31,9 @@ Modelled along the same lines as EPIC - English
 
 Inspiration is CodeChef **DSA** certification - https://www.codechef.com/certification/data-structures-and-algorithms/about
 
-> The grasp of Data Structures and Algorithms is the heart of learning Computer Science. Today, in the IT industry, there is a vast shortage of professionals who have a command on this subject. In fact,  [recent studies](http://www.thehindubusinessline.com/info-tech/95-engineers-in-india-unfit-for-software-development-jobs-study/article9652211.ece)  have corroborated our belief that a vast majority of engineers in India are unfit for software development jobs, a fact that we identified and took on to fix 9 years ago.
+> The grasp of Data Structures and Algorithms is the heart of learning Computer Science. Today, in the IT industry, there is a vast shortage of professionals who have a command on this subject. In fact,  [recent studies](http://www.thehindubusinessline.com/info-tech/95-engineers-in-india-unfit-for-software-development-jobs-study/article9652211.ece)  have corroborated our belief that a vast majority of engineers in India *are unfit for software development jobs*, a fact that we identified and took on to fix 9 years ago.
 
-> While the subject is taught in most Engineering Colleges in the country, there is hardly any standard that is being followed in the assessment of the skill levels. We believe that a Certification provided by the global experts in the subject will provide a good ground for the students and professionals to assess themselves. It also provides the software industry a standard to benchmark against and get access to the best students out there. More importantly it provides a level playing ground to every software student and professional to choose a career path that she wants to.
+> While the subject is taught in most Engineering Colleges in the country, *there is hardly any standard that is being followed* in the assessment of the skill levels. We believe that a Certification provided by the global experts in the subject will provide a good ground for the students and professionals to assess themselves. It also provides the software industry a standard to benchmark against and get access to the best students out there. More importantly it provides a level playing ground to every software student and professional to choose a career path that she wants to.
 
 # Final Year Projects
 
@@ -47,7 +47,7 @@ Inspiration is CodeChef **DSA** certification - https://www.codechef.com/certifi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzA1OTYwLDg5MDk5OTcwNCwtMTczMD
-U5NjAsLTExODU4MjM5NjAsLTE3NDMzMTQ3OTAsLTg1NjIyMjgx
+eyJoaXN0b3J5IjpbNTMwNTUxMzMyLC0xNzMwNTk2MCw4OTA5OT
+k3MDQsLTExODU4MjM5NjAsLTE3NDMzMTQ3OTAsLTg1NjIyMjgx
 XX0=
 -->
