@@ -29,6 +29,8 @@ Industry Academic Services, Division of **KGiSL**
 #  EPIC for Coding 
 Modelled along the same lines as EPIC - English 
 
+Inspiration - 
+
 # Final Year Projects
 
   - SIH RPA winning projects 
@@ -37,5 +39,6 @@ Modelled along the same lines as EPIC - English
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDMzMTQ3OTAsLTg1NjIyMjgxXX0=
+eyJoaXN0b3J5IjpbMjEyMjkxODExOSwtMTc0MzMxNDc5MCwtOD
+U2MjIyODFdfQ==
 -->
