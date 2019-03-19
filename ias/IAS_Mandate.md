@@ -29,7 +29,8 @@ Industry Academic Services, Division of **KGiSL**
 #  EPIC for Coding 
 Modelled along the same lines as EPIC - English 
 
-Inspiration - 
+Inspiration is CodeChef **DSA** certification - https://www.codechef.com/certification/data-structures-and-algorithms/about
+
 
 # Final Year Projects
 
@@ -39,6 +40,6 @@ Inspiration -
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMjkxODExOSwtMTc0MzMxNDc5MCwtOD
-U2MjIyODFdfQ==
+eyJoaXN0b3J5IjpbLTE3MDUxMzc4MzAsLTE3NDMzMTQ3OTAsLT
+g1NjIyMjgxXX0=
 -->
