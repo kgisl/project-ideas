@@ -34,12 +34,13 @@ Inspiration is CodeChef **DSA** certification - https://www.codechef.com/certifi
 
 # Final Year Projects
 
-  - SIH RPA winning projects 
-	  - to be re-cycled and refined into full projects 
+  ## SIH 2019 RPA winning projects 
+  
+    -to be re-cycled and refined into full projects- 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDUxMzc4MzAsLTE3NDMzMTQ3OTAsLT
+eyJoaXN0b3J5IjpbLTE0MjEzNTQ2NjAsLTE3NDMzMTQ3OTAsLT
 g1NjIyMjgxXX0=
 -->
