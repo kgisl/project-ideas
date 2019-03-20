@@ -39,7 +39,7 @@ Inspiration is CodeChef **DSA** certification - https://www.codechef.com/certifi
 
 _"Automation First. Intelligent Automation next."_ 
 
-We will develop students to gain a good perspective of the "Automation First" paradigm and then move them into the "Intelligent Automation (using AI)" paradigm. 
+**Main theme:** We will develop students to gain a good perspective of the "Automation First" paradigm and then move them into the "Intelligent Automation (using AI)" paradigm. 
 
   ## SIH 2019 RPA winning projects 
   
@@ -50,7 +50,7 @@ We will develop students to gain a good perspective of the "Automation First" pa
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2ODQ3OTU4NSw1MzA1NTEzMzIsLTE3Mz
-A1OTYwLDg5MDk5OTcwNCwtMTE4NTgyMzk2MCwtMTc0MzMxNDc5
-MCwtODU2MjIyODFdfQ==
+eyJoaXN0b3J5IjpbNzEzOTc5NjU1LDUzMDU1MTMzMiwtMTczMD
+U5NjAsODkwOTk5NzA0LC0xMTg1ODIzOTYwLC0xNzQzMzE0Nzkw
+LC04NTYyMjI4MV19
 -->
