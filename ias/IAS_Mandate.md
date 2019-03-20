@@ -37,17 +37,20 @@ Inspiration is CodeChef **DSA** certification - https://www.codechef.com/certifi
 
 # Final Year Projects
 
+_Automation First. Intelligent Automation next._ 
+
+We will develop students to gain a good perspective of the "Automation First" paradigm and then move them into the "Intelligent Automation (using AI)" paradigm. 
+
   ## SIH 2019 RPA winning projects 
   
-  -  To be re-cycled and developed into full projects / mini
+  -  To be re-cycled and developed into full projects / mini-projects
   -  Mentoring between winners, KITE students and faculty ownership 
 
 
 
 
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTEzODU4MTUsNTMwNTUxMzMyLC0xNz
-MwNTk2MCw4OTA5OTk3MDQsLTExODU4MjM5NjAsLTE3NDMzMTQ3
-OTAsLTg1NjIyMjgxXX0=
+eyJoaXN0b3J5IjpbMTI0MzkwODQ5OSw1MzA1NTEzMzIsLTE3Mz
+A1OTYwLDg5MDk5OTcwNCwtMTE4NTgyMzk2MCwtMTc0MzMxNDc5
+MCwtODU2MjIyODFdfQ==
 -->
