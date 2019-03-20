@@ -37,7 +37,7 @@ Inspiration is CodeChef **DSA** certification - https://www.codechef.com/certifi
 
 # Final Year Projects
 
-_Automation First. Intelligent Automation next._ 
+_"Automation First. Intelligent Automation next."_ 
 
 We will develop students to gain a good perspective of the "Automation First" paradigm and then move them into the "Intelligent Automation (using AI)" paradigm. 
 
@@ -50,7 +50,7 @@ We will develop students to gain a good perspective of the "Automation First" pa
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MzkwODQ5OSw1MzA1NTEzMzIsLTE3Mz
+eyJoaXN0b3J5IjpbLTY2ODQ3OTU4NSw1MzA1NTEzMzIsLTE3Mz
 A1OTYwLDg5MDk5OTcwNCwtMTE4NTgyMzk2MCwtMTc0MzMxNDc5
 MCwtODU2MjIyODFdfQ==
 -->
