@@ -39,7 +39,7 @@ Inspiration is CodeChef **DSA** certification - https://www.codechef.com/certifi
 
   ## SIH 2019 RPA winning projects 
   
-  -  to be re-cycled and refined into full projects
+  -  To be re-cycled and developed into full projects / mini
   -  Mentoring between winners, KITE students and faculty ownership 
 
 
@@ -47,7 +47,7 @@ Inspiration is CodeChef **DSA** certification - https://www.codechef.com/certifi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMwNTUxMzMyLC0xNzMwNTk2MCw4OTA5OT
-k3MDQsLTExODU4MjM5NjAsLTE3NDMzMTQ3OTAsLTg1NjIyMjgx
-XX0=
+eyJoaXN0b3J5IjpbLTEyOTEzODU4MTUsNTMwNTUxMzMyLC0xNz
+MwNTk2MCw4OTA5OTk3MDQsLTExODU4MjM5NjAsLTE3NDMzMTQ3
+OTAsLTg1NjIyMjgxXX0=
 -->
