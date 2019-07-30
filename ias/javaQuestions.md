@@ -17,9 +17,9 @@
 <body class="stackedit">
   <div class="stackedit__html"><h2 id="what-is-difference-between-isa-and-hasa-relationship">What is difference between isA and hasA relationship?</h2>
 <ul>
-<li>A car has four wheels (hasA relationship)<br>
+<li>A car has four wheels (<strong>hasA</strong> relationship)<br>
 - wheel is a member of a car</li>
-<li>A butterfly is a type of insect (isA relationship)<br>
+<li>A butterfly is a type of insect (<strong>isA</strong> relationship)<br>
 - suggests inheritance<br>
 - insect is “super-class” and butterfly is “sub-class”</li>
 </ul>
