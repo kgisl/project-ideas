@@ -25,7 +25,7 @@
 </ul>
 <h2 id="why-static-attributes-and-methods">Why static attributes and methods?</h2>
 <ul>
-<li>A class needs to know how many run-time objects are available at any point in time. A static integer counter object is made available in the class scope, so it is neither file scope or global scope.</li>
+<li>A class needs to know how many run-time objects are available at any point in time. A static integer counter object (<em>usually</em> private) is made available in the class scope, so it is neither file scope or global scope. A public static method then makes the value of the private static counter available for other objects to consume.</li>
 </ul>
 <h2 id="what-is-an-abstract-class-and-abstract-method-in-java-when-should-i-use-it-tutorial-attached">What is an Abstract Class and Abstract Method in Java? When Should I use it? Tutorial Attached</h2>
 <p><a href="https://crunchify.com/what-is-an-abstract-class-and-abstract-method-in-java-when-should-i-use-it/">https://crunchify.com/what-is-an-abstract-class-and-abstract-method-in-java-when-should-i-use-it/</a></p>
