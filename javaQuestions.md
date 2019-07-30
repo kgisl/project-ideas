@@ -54,13 +54,20 @@
 <p>Know the projects that you have put into your biodata and the concepts behind them</p>
 </li>
 <li>
+<p>Be keen to know what platforms / projects that you will be asked to work after your training is done. Express your keenness to work on those kinds of projects as soon as you are done with the training period</p>
+</li>
+<li>
 <p>Research about the company and its products</p>
 </li>
 <li>
 <p>About the company and potential competitors</p>
 </li>
 <li>
-<p>Know the fundamentals of CoreJava if they are a JavaShop. Know why Java is superior to other languages</p>
+<p>Know the fundamentals of CoreJava if they are a JavaShop. Know why Java is superior to other languages.</p>
+<ul>
+<li>If they are into Micro Services, get down to the fundamental concepts of what makes Micro services work.</li>
+<li>If you are not able to fully grasp it, it is best not to talk about it at all</li>
+</ul>
 </li>
 </ul>
 
