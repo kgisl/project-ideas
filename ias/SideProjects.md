@@ -22,7 +22,9 @@
  - Performance oriented - give a jump start to the informal/formal relationships and provide platform for other hackers from geographically distant locations to come and exhibit themselves 
 	Themes to be aligned with whatever projects have been ongoing at the campus - that will trigger better motivations for learning and sharing and facilitating their own networking opportunities 
 
+### How to start? 
 
+Use the beginners project list which is published on a weekly basis to bring students / mentors / develo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI1NDAzMjIxXX0=
+eyJoaXN0b3J5IjpbMTkwNDgyODc2LDYyNTQwMzIyMV19
 -->
