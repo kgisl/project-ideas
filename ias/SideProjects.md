@@ -3,7 +3,7 @@
 ## Side Projects
 
 ### Ideal team
- - KGISL/industry professional who understands the value of side projects and impact on his professional growth/prosperity 
+ - KGISL/industry professional who understands the value of side projects and impact on his professional growth/prosperity - Read https://j.mp/sideProjectThis
  - KITE faculty/trainer who will interpret the professional's technical objectives of the side project and "translates" into student speak/slang and provides for continuity when 
 	 - professional loses interest 
 	 - students move on to higher studies / career joining 
@@ -30,5 +30,6 @@ Read https://j.mp/sideProjectThis
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTE5OTg2NDIsNjI1NDAzMjIxXX0=
+eyJoaXN0b3J5IjpbLTE2NDA2NDE2OCwtMTcxMTk5ODY0Miw2Mj
+U0MDMyMjFdfQ==
 -->
