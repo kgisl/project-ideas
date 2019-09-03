@@ -24,12 +24,10 @@
 
 ### How to start? How to get ideas?
 
-Use the beginners project list which is published on a weekly basis to bring students / mentors / developers together and then use a remix of the use case stories and develop variants of the same. 
-
-Read https://j.mp/projectIdeaThis
+Use the beginners project list which is published on a weekly basis to bring students / mentors / developers together and then use a remix of the use case stories and develop variants of the same. Read https://j.mp/projectIdeaThis
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NTc0Njg2MCwtMTcxMTk5ODY0Miw2Mj
-U0MDMyMjFdfQ==
+eyJoaXN0b3J5IjpbLTEwMDk3MDkyNjQsLTM4NTc0Njg2MCwtMT
+cxMTk5ODY0Miw2MjU0MDMyMjFdfQ==
 -->
