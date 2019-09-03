@@ -22,14 +22,14 @@
  - Performance oriented - give a jump start to the informal/formal relationships and provide platform for other hackers from geographically distant locations to come and exhibit themselves 
 	Themes to be aligned with whatever projects have been ongoing at the campus - that will trigger better motivations for learning and sharing and facilitating their own networking opportunities 
 
-### How to start? 
+### How to start? How to get ideas?
 
 Use the beginners project list which is published on a weekly basis to bring students / mentors / developers together and then use a remix of the use case stories and develop variants of the same. 
 
-Read https://j.mp/sideProjectThis
+Read https://j.mp/projectIdeaThis
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDA2NDE2OCwtMTcxMTk5ODY0Miw2Mj
+eyJoaXN0b3J5IjpbLTM4NTc0Njg2MCwtMTcxMTk5ODY0Miw2Mj
 U0MDMyMjFdfQ==
 -->
