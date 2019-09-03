@@ -24,7 +24,11 @@
 
 ### How to start? 
 
-Use the beginners project list which is published on a weekly basis to bring students / mentors / develo
+Use the beginners project list which is published on a weekly basis to bring students / mentors / developers together and then use a remix of the use case stories and develop variants of the same. 
+
+Read https://j.mp/sideProjectThis
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNDgyODc2LDYyNTQwMzIyMV19
+eyJoaXN0b3J5IjpbLTE3MTE5OTg2NDIsNjI1NDAzMjIxXX0=
 -->
