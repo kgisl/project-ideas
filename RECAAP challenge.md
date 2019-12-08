@@ -12,7 +12,7 @@
 - Visit the gitter room [https://gitter.im/kgisl/campsite](https://gitter.im/kgisl/campsite) and get further clarifications
 	- Ask **Srikanth** for priorities of user-stories that you might want to implement 
 
-## Deadline: Aug 18, 2019
+### Deadline: Aug 18, 2019
 
 [![Gitter](https://badges.gitter.im/kgisl/RECAAP.svg)](https://gitter.im/kgisl/RECAAP?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
@@ -32,10 +32,10 @@ Write up a document that outlines the following:
 
 5. Define what the junior team's priorities for next 3 months (along with Prof Srikanth)
 
-## Deadline: Dec 15, 2019
+### Deadline: Dec 15, 2019
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDc1NjExNjUsLTE1NzQ5MjQ4Niw3Mj
+eyJoaXN0b3J5IjpbLTEyMjY5NzY4NTEsLTE1NzQ5MjQ4Niw3Mj
 YxMDQxMjVdfQ==
 -->
