@@ -1,5 +1,7 @@
 
 # Web App Challenge
+[![Gitter](https://badges.gitter.im/kgisl/RECAAP.svg)](https://gitter.im/kgisl/RECAAP?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 
 ![](https://www.abbreviations.com/abbr_image.php?term=RECAAP&desc=REplit+Classroom+Analytics+APp)
 
@@ -14,7 +16,6 @@
 
 ### Deadline: Aug 18, 2019
 
-[![Gitter](https://badges.gitter.im/kgisl/RECAAP.svg)](https://gitter.im/kgisl/RECAAP?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 ## Update on Progress
 
@@ -36,6 +37,6 @@ Write up a document that outlines the following:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjY5NzY4NTEsLTE1NzQ5MjQ4Niw3Mj
-YxMDQxMjVdfQ==
+eyJoaXN0b3J5IjpbLTMwNzgxMjEzMSwtMTIyNjk3Njg1MSwtMT
+U3NDkyNDg2LDcyNjEwNDEyNV19
 -->
