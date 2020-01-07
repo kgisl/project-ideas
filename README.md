@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/kgisl/project-ideas) 
+
 # project-ideas for side projects 
 
 Best article so far - http://antrikshy.com/blog/how-i-got-started-with-programming-side-projects
