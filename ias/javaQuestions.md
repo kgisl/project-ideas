@@ -15,7 +15,7 @@
 </head>
 
 <body class="stackedit">
-  <div class="stackedit__html"><h2 id="what-is-difference-between-isa--hasa-relationship">What is difference between isA,  hasA relationship?</h2>
+  <div class="stackedit__html"><h1 id="what-is-difference-between-isa--hasa-relationship">What is difference between isA,  hasA relationship?</h1>
 <ul>
 <li>A car has four wheels (<strong>hasA</strong> relationship)
 <ul>
