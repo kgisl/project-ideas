@@ -37,7 +37,7 @@
 </ul>
 </li>
 </ul>
-<h3 id="what-about-usesa-relationship">What about <code>usesA</code> relationship?</h3>
+<h2 id="what-about-usesa-relationship">What about <code>usesA</code> relationship?</h2>
 <ul>
 <li>Let’s consider a <code>Bajaj Pulsar</code> (<em>sub-class</em>)
 <ul>
