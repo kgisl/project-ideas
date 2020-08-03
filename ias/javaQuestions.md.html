@@ -15,7 +15,7 @@
 <ul>
 <li>
 <ul>
-<li><a href="#what-is-difference-between-isa-and-hasa-relationship">What is difference between isA and hasA relationship?</a></li>
+<li><a href="#what-is-difference-between-isa--hasa-relationship">What is difference between isA,  hasA relationship?</a></li>
 <li><a href="#why-static-attributes-and-methods">Why static attributes and methods?</a></li>
 <li><a href="#what-is-an-abstract-class-and-abstract-method-in-java-when-should-i-use-it-tutorial-attached">What is an Abstract Class and Abstract Method in Java? When Should I use it? Tutorial Attached</a></li>
 <li><a href="#what-is-interface-class-in-java">What is interface class in Java?</a></li>
@@ -28,17 +28,63 @@
   </div>
   <div class="stackedit__right">
     <div class="stackedit__html">
-      <h2 id="what-is-difference-between-isa-and-hasa-relationship">What is difference between isA and hasA relationship?</h2>
+      <h2 id="what-is-difference-between-isa--hasa-relationship">What is difference between isA,  hasA relationship?</h2>
 <ul>
-<li>A car has four wheels (<strong>hasA</strong> relationship)<br>
-- wheel is a member of a car</li>
-<li>A butterfly is a type of insect (<strong>isA</strong> relationship)<br>
-- suggests inheritance<br>
-- insect is “super-class” and butterfly is “sub-class”</li>
+<li>A car has four wheels (<strong>hasA</strong> relationship)
+<ul>
+<li>wheel is a member of a car
+<ul>
+<li>Encapsulation  (implies composition)</li>
 </ul>
+</li>
+</ul>
+</li>
+<li>A butterfly is a type of insect (<strong>isA</strong> relationship)
+<ul>
+<li>insect is “super-class” and butterfly is “sub-class”
+<ul>
+<li>Inheritance  (implies sub-typing)</li>
+<li><code>extends</code> is the keyword</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h3 id="what-about-usesa-relationship">What about <code>usesA</code> relationship?</h3>
+<ul>
+<li>Let’s consider a <code>Bajaj Pulsar</code> (<em>sub-class</em>)
+<ul>
+<li>It <code>hasA</code> engine (encapsulation, <em>composition</em>)</li>
+<li>It <code>isA</code> type of a Bike (inheritance, <em>super-class</em>)</li>
+</ul>
+</li>
+</ul>
+<p>Now, let’s say you want to make it autonomous vehicle. And <code>BMW</code> offers a <code>LidarBike</code> technology which can drive any vehicle automatically. And it can be fitted on to any other non-BMW bike as well.</p>
+<ul>
+<li>So we now have a <code>Bajaj Pulsar Auto</code> which <code>implements</code> <code>LidarBike</code> interface
+<ul>
+<li><code>implements</code> is the keyword
+<ul>
+<li><code>Bajaj Pulsar Auto</code> <code>isA</code> bike and <code>usesA</code> an automatic behavior
+<ul>
+<li>equivalent of multiple inheritance (available only in C++) but avoids the <code>deadly diamond problem</code></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p><code>isA</code> (overriding, overloading) and <code>implementsA</code> help provide different types of polymorphism.</p>
 <h2 id="why-static-attributes-and-methods">Why static attributes and methods?</h2>
 <ul>
-<li>A class needs to know how many run-time objects are available at any point in time. A static integer counter object (<em>usually</em> private) is made available in the class scope, so it is neither file scope or global scope. A public static method then makes the value of the private static counter available for other objects to consume.</li>
+<li>
+<p>A class needs to know how many run-time objects are available at any point in time. A static integer counter object (<em>usually</em> private) is made available in the class scope, so it is neither file scope or global scope. A public static method then makes the value of the private static counter available for other objects to consume.</p>
+<ul>
+<li><strong>Can you access a non-static variable in the static context?</strong><br>
+Another tricky Java question from Java fundamentals. No, you can not access a non-static variable from the static context in Java. If you try, it will give compile time error. This is actually a common problem beginner in Java face when they try to access instance variable inside the main method. Because main is static in Java, and instance variables are non-static, you can not access instance variable inside main. See, <a href="http://javarevisited.blogspot.sg/2012/02/why-non-static-variable-cannot-be.html">why you can not access a non-static variable from static method</a> to learn more about this tricky Java questions.</li>
+</ul>
+</li>
 </ul>
 <h2 id="what-is-an-abstract-class-and-abstract-method-in-java-when-should-i-use-it-tutorial-attached">What is an Abstract Class and Abstract Method in Java? When Should I use it? Tutorial Attached</h2>
 <p><a href="https://crunchify.com/what-is-an-abstract-class-and-abstract-method-in-java-when-should-i-use-it/">https://crunchify.com/what-is-an-abstract-class-and-abstract-method-in-java-when-should-i-use-it/</a></p>
