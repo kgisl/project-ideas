@@ -18,7 +18,7 @@
   <div class="stackedit__html"><h1 id="tldr">tl;dr</h1>
 <p><code>means : end :: abstraction : polymorphism</code>.</p>
 <p>Here’s an analogy:  If <code>Moksha</code> is the supreme goal of <code>Life</code>,  spirituality is the <code>means</code> to achieve it. Similarly if <code>Polymorphism</code> is the supreme goal of <code>OOD/OOP</code>, abstraction is the <em>means</em> to achieve it.</p>
-<p>A good OO design provides for effective abstraction (a <em>concept</em> enabled by encapsulation, inheritance, composition, aggregation, association) that enables powerful types of polymorphism (<em>behaviour</em>).</p>
+<p>A good <code>object-oriented design (OOD)</code> provides for effective abstraction (a <em>concept</em> enabled by encapsulation, inheritance, composition, aggregation, association) that enables powerful types of polymorphism (<em>behaviour</em>).</p>
 <h1 id="what-is-difference-between-isa--hasa-relationship">What is difference between isA,  hasA relationship?</h1>
 <ul>
 <li>A car has four wheels (<strong>hasA</strong> relationship)
