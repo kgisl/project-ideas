@@ -13,6 +13,7 @@
     <div class="stackedit__toc">
       
 <ul>
+<li><a href="#tldr">tl;dr</a></li>
 <li><a href="#what-is-difference-between-isa--hasa-relationship">What is difference between isA,  hasA relationship?</a>
 <ul>
 <li><a href="#what-about-usesa-relationship">What about usesA relationship?</a></li>
@@ -28,7 +29,11 @@
   </div>
   <div class="stackedit__right">
     <div class="stackedit__html">
-      <h1 id="what-is-difference-between-isa--hasa-relationship">What is difference between isA,  hasA relationship?</h1>
+      <h1 id="tldr">tl;dr</h1>
+<p><code>means: end :: abstraction : polymorphism</code>.</p>
+<p>Here’s an analogy:  If <code>Moksha</code> is the supreme goal of <code>Life</code>,  spirituality is the means to achieve it. Similarly if <code>Polymorphism</code> is the supreme goal of <code>OOD/OOP</code>, abstraction is the <em>means</em> to achieve it.</p>
+<p>A good OO design provides for effective abstraction (a <em>concept</em> enabled by encapsulation, inheritance, composition, aggregation, association) that enables powerful types of polymorphism (<em>behaviour</em>).</p>
+<h1 id="what-is-difference-between-isa--hasa-relationship">What is difference between isA,  hasA relationship?</h1>
 <ul>
 <li>A car has four wheels (<strong>hasA</strong> relationship)
 <ul>
@@ -75,7 +80,7 @@
 </ul>
 </li>
 </ul>
-<p>Ultimately, <code>isA</code> (overriding, overloading) and <code>usesA</code> relationships result in various types of polymorphism (<em>static</em>, <em>dynamic</em>).</p>
+<p>Ultimately, <code>isA</code> (overriding, overloading) and <code>usesA</code> relationships are abstractions that result in various types of polymorphism (<em>static</em>, <em>dynamic</em>).</p>
 <p>If you have grokked <em>everything</em> until this point, please read this as well <a href="https://bit.ly/oopThis">https://bit.ly/oopThis</a></p>
 <h2 id="why-static-attributes-and-methods">Why static attributes and methods?</h2>
 <ul>
