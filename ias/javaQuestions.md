@@ -83,6 +83,12 @@ Another tricky Java question from Java fundamentals. No, you can not access a no
 <h2 id="what-is-interface-class-in-java">What is interface class in Java?</h2>
 <p><a href="https://crunchify.com/what-is-an-interface-in-java-how-its-used-java-tutorial-example-attached/">https://crunchify.com/what-is-an-interface-in-java-how-its-used-java-tutorial-example-attached/</a></p>
 <hr>
+<h2 id="the-petspeak-series">The PetSpeak Series</h2>
+<p><img src="https://i.imgur.com/65gX68p.jpg" alt="knuth"></p>
+<p><a href="http://j.mp/petSpeak1">http://j.mp/petSpeak1</a><br>
+<a href="http://j.mp/petSpeak2">http://j.mp/petSpeak2</a><br>
+<a href="http://j.mp/petSpeak3">http://j.mp/petSpeak3</a><br>
+<a href="http://j.mp/petSpeak4">http://j.mp/petSpeak4</a> - advanced, so be brave and go ahead!</p>
 <h2 id="final-hr-round">Final HR round</h2>
 <ul>
 <li>
