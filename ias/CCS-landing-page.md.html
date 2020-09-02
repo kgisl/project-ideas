@@ -31,9 +31,18 @@
 <h1 id="ccs---sept-5">CCS - Sept 5</h1>
 <p><img src="https://herdfoundationnagpur.files.wordpress.com/2014/09/happy-teachers-day-12.jpg" alt="teach"></p>
 <h2 id="what-time-is-it"><strong>What time is it?</strong></h2>
-<p>Write a function that tells time based on the location of  hour hand and the minute hand. The location will be given as two angular values. 0 degree representing 12, 90 degree representing 3, 180 degree representing 6, and so on.</p>
-<p>Bonus points for the calculation to be as quick as possible.</p>
+<p>Write a function that returns the time (as a  formatted string,  for e.g.<code>12:04</code>, <code>3:20</code> or <code>6.30</code>, where minutes is always in 2 digits) based on the location of  hour hand and the minute hand. The location will be given as two angular values. Each angular value <code>x</code> where <code>0</code> &lt;= <code>x</code> &lt;= <code>360</code>,  would have</p>
+<ul>
+<li><code>0</code> degree pointing to  <code>12</code></li>
+<li><code>90</code> degree pointing to <code>3</code> and</li>
+<li><code>180</code> degree pointing to <code>6</code></li>
+</ul>
+<p>and so forth.</p>
+<h3 id="bonus">Bonus</h3>
+<p>Make the calculation to be as quick as possible. And the code should also be quite readable as well.</p>
 <p><strong>Clue</strong>: it must be equal to or faster than your own brain, and equally elegant in how it goes about it!</p>
+<h3 id="extra-bonus">Extra Bonus</h3>
+<p>If the angular value of the hour hand should be greater than 360, the string representing the calculated time value would have to be returned along with the suffix <code>pm</code>. For e.g. <code>3:21pm</code> or <code>11.00pm</code>, etc.</p>
 
     </div>
   </div>
