@@ -14,7 +14,7 @@
       
 <ul>
 <li><a href="#language">language</a></li>
-<li><a href="#ccs---sept-17">CCS - Sept 17</a>
+<li><a href="#ccs---sept-19">CCS - Sept 19</a>
 <ul>
 <li><a href="#sorted-array-to-bst">Sorted Array to BST</a></li>
 </ul>
@@ -40,7 +40,7 @@
       <!-- title: CodeCraftsmanSaturdays Page -->
 <h1 id="language">language</h1>
 <p><a href="https://cyberdojo1.kgisl.com/forker/fork/2DKSZc?avatar=vulture&amp;tag=-1">Python</a> or <a href="http://cyberdojo.kgisl.com/forker/fork/Ry3tm0?avatar=ostrich&amp;tag=-1">C</a> or <a href="https://cyberdojo1.kgisl.com/forker/fork/2DKSZc?avatar=spider&amp;tag=-1">Java</a></p>
-<h1 id="ccs---sept-17">CCS - Sept 17</h1>
+<h1 id="ccs---sept-19">CCS - Sept 19</h1>
 <h2 id="sorted-array-to-bst">Sorted Array to BST</h2>
 <p><strong>One-liner</strong>: Convert a sorted array to binary search tree.</p>
 <p>There is a logical reason to enhance the problem statement. But then I leave that upto you. Determining what that enhancement is also part of the learning in this session. Write progressive test cases in your avatar to take somebody from “known” (array) to “unknown” (BST).</p>
@@ -50,16 +50,34 @@
 <h1 id="ccs---sept-12">CCS - Sept 12</h1>
 <h2 id="make-ladoos">Make Ladoos</h2>
 <p><img src="https://c.ndtvimg.com/2018-09/oetcida_boondi-ke-ladoo_625x300_24_September_18.jpg" alt="ladoo"></p>
-<p><strong>Navaratiri</strong> is around the corner and we have to distribute ladoos. We need to assemble a parcel of  <code>goal</code>  kilos of ladoos. There are small ladoos (<code>2</code>  kilos each) and big ladoos (<code>5</code>  kilos each). Return the number of small ladoos to use, assuming we always use big ladoos before small ladoos. Return  <code>-1</code>  if it can’t be done.</p>
+<p><strong>Navaratiri</strong> is around the corner and we have to distribute ladoos. We need to assemble a parcel of  <code>goal</code>  grams of ladoos. The  <code>goal</code>  can be assumed to be always a positive integer value.</p>
+<ul>
+<li>There are small ladoos (2 grams each) and big ladoos (5 grams each)</li>
+<li>To reach the goal, the ladoos (big and small) must be used as-is, meaning, the ladoos cannot be broken into smaller pieces</li>
+<li>Maximize the use of big ladoos that are available to achieve the desired goal. And only then should you proceed to use the small ladoos.
+<ul>
+<li>NOTE: “Maximize” does not imply you have to use all the available big ladoos before using the small ladoos</li>
+<li>For example, consider the goal of  <code>6</code>, and  <code>big=1</code>,  <code>small=3</code>. Using the existing one big chocolate, it is  <em>not</em>  possible to achieve the remainder of the weight of 1. Therefore, avoid using the big chocolate. Use the existing 3 small ladoos and achieve the goal.</li>
+</ul>
+</li>
+</ul>
+<p>Determine the number of small ladoos that are required to achieve the desired parcel weight.</p>
+<p>Write a function  <code>make_ladoos</code>  that will accept three integer values as arguments, in the following order:</p>
 <ul>
 <li><code>small</code>  -&gt; number of small ladoos available</li>
 <li><code>big</code>  -&gt; number of big ladoos available</li>
-<li><code>goal</code>  -&gt; the desired weight of the final package</li>
+<li><code>goal</code>  -&gt; the desired weight of the final parcel</li>
 </ul>
+<p>The function should return the number of small ladoos required to achieve the  <code>goal</code>. The function should return  <code>-1</code>  only if the goal cannot be achieved by any possible combination of big ladoos and small ladoos.</p>
 <h2 id="example">Example</h2>
-<p>make_ladoos (4, 1, 13) ?  <code>4</code><br>
-make_ladoos (4, 1, 14) ?  <code>-1</code><br>
-make_ladoos (2, 1, 7) ?  <code>1</code></p>
+<pre><code>make_ladoos (4, 1, 13) =&gt; 4  
+make_ladoos (4, 1, 14) =&gt; -1  
+make_ladoos (2, 1, 7) =&gt; 1  
+
+// using the big chocolate prevents goal 
+// accomplishment, therefore don't use it!
+make_ladoos (3, 1, 6) =&gt; 3  
+</code></pre>
 <h1 id="ccs---sept-5">CCS - Sept 5</h1>
 <p><img src="https://herdfoundationnagpur.files.wordpress.com/2014/09/happy-teachers-day-12.jpg" alt="teach"></p>
 <h2 id="what-time-is-it"><strong>What time is it?</strong></h2>
