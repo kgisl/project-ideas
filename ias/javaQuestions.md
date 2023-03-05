@@ -17,8 +17,10 @@ A good `object-oriented design (OOD)` provides for effective abstraction (a _con
 		  - Inheritance  (implies sub-typing)
 		  - `extends` is the keyword
 
-## What about `usesA` relationship? 
- 
+## What about `usesA` relationship?  
+
+_tl;dr_ http://kov.ai/interfaceWhy 
+
   - Let's consider a `Bajaj Pulsar` (_sub-class_)
     - It `hasA` engine (encapsulation, _composition_)
     - It `isA` type of a Bike (inheritance, _super-class_)
